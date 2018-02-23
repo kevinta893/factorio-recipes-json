@@ -12,5 +12,5 @@ deploy:
     branch: master
 
 script:
-  - cd test && node ./test/test.js
+  - node ./test/test.js
   
