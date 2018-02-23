@@ -1,4 +1,7 @@
 language: node_js       #javascript
+node_js:
+  - "iojs"
+  - "7"
 
 deploy:
   provider: pages
@@ -7,3 +10,7 @@ deploy:
   keep-history: true
   on:
     branch: master
+
+script:
+  - cd test && node ./test/test.js
+  
