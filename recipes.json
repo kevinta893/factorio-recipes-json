@@ -2,7 +2,7 @@
   {
     "id": "raw-wood",
     "name": "Raw Wood",
-    "type": "primitive",
+    "type": "raw",
     "mining": {
       "hands": 10
     }
@@ -10,7 +10,7 @@
   {
     "id": "iron-ore",
     "name": "Iron Ore",
-    "type": "primitive",
+    "type": "raw",
     "mining": {
       "burner": 0.28
     }
@@ -18,7 +18,7 @@
   {
     "id": "copper-ore",
     "name": "Copper Ore",
-    "type": "primitive",
+    "type": "raw",
     "mining": {
       "burner": 0.28
     }
@@ -26,7 +26,7 @@
   {
     "id": "coal",
     "name": "Coal",
-    "type": "primitive",
+    "type": "raw",
     "mining": {
       "burner": 0.28
     }
@@ -34,7 +34,7 @@
   {
     "id": "stone",
     "name": "Stone",
-    "type": "primitive",
+    "type": "raw",
     "mining": {
       "burner": 0.3675
     }
@@ -42,7 +42,7 @@
   {
     "id": "uranium-ore",
     "name": "Uranium Ore",
-    "type": "primitive",
+    "type": "raw",
     "mining": {
       "electric": 0.2625
     }
@@ -50,7 +50,7 @@
   {
     "id": "water",
     "name": "Water",
-    "type": "primitive",
+    "type": "raw",
     "mining": {
       "pump": 100
     }
@@ -58,14 +58,23 @@
   {
     "id": "crude-oil",
     "name": "Crude Oil",
-    "type": "primitive",
+    "type": "raw",
     "mining": {
       "pumpjack": -1
     }
   },
   {
+    "id": "raw-fish",
+    "name": "Raw Fish",
+    "type": "raw",
+    "mining": {
+      "hand": 1
+    }
+  },
+  {
     "id": "iron-plate",
     "name": "Iron Plate",
+	"type": "intermediate",
     "craft-time": 3.5,
     "recipe0": {
       "yield": 1,
@@ -80,6 +89,7 @@
   {
     "id": "copper-plate",
     "name": "Copper Plate",
+	"type": "intermediate",
     "craft-time": 3.5,
     "recipe0": {
       "yield": 1,
@@ -94,6 +104,7 @@
   {
     "id": "stone-brick",
     "name": "Stone Brick",
+	"type": "intermediate",
     "craft-time": 3.5,
     "recipe0": {
       "yield": 1,
@@ -108,6 +119,7 @@
   {
     "id": "stone-furnace",
     "name": "Stone Furnace",
+	"type": "production",
     "craft-time": 0.5,
     "recipe0": {
       "yield": 1,
@@ -122,48 +134,7 @@
   {
     "id": "iron-gear-wheel",
     "name": "Iron Gear Wheel",
-    "craft-time": 0.5,
-    "recipe0": {
-      "yield": 1,
-      "items": [
-        {
-          "id": "iron-plate",
-          "amount": 2
-        }
-      ]
-    }
-  },
-  {
-    "id": "iron-gear-wheel",
-    "name": "Iron Gear Wheel",
-    "craft-time": 0.5,
-    "recipe0": {
-      "yield": 1,
-      "items": [
-        {
-          "id": "iron-plate",
-          "amount": 2
-        }
-      ]
-    }
-  },
-  {
-    "id": "iron-gear-wheel",
-    "name": "Iron Gear Wheel",
-    "craft-time": 0.5,
-    "recipe0": {
-      "yield": 1,
-      "items": [
-        {
-          "id": "iron-plate",
-          "amount": 2
-        }
-      ]
-    }
-  },
-  {
-    "id": "iron-gear-wheel",
-    "name": "Iron Gear Wheel",
+	"type": "intermediate",
     "craft-time": 0.5,
     "recipe0": {
       "yield": 1,
@@ -178,6 +149,7 @@
   {
     "id": "pipe",
     "name": "Pipe",
+	"type": "logistics",
     "craft-time": 0.5,
     "recipe0": {
       "yield": 1,
@@ -192,6 +164,7 @@
   {
     "id": "copper-cable",
     "name": "Copper Cable",
+	"type": "intermediate",
     "craft-time": 0.5,
     "recipe0": {
       "yield": 2,
@@ -206,7 +179,8 @@
   {
     "id": "electronic-circuit",
     "name": "Electronic Circuit",
-    "craft-time": 0.5,
+    "type": "intermediate",
+	"craft-time": 0.5,
     "recipe0": {
       "yield": 1,
       "items": [
@@ -224,6 +198,7 @@
   {
     "id": "burner-mining-drill",
     "name": "Burner Mining Drill",
+	"type": "production",
     "craft-time": 2,
     "recipe0": {
       "yield": 1,
@@ -246,6 +221,7 @@
   {
     "id": "boiler",
     "name": "Boiler",
+	"type": "production",
     "craft-time": 2,
     "recipe0": {
       "yield": 1,
@@ -264,6 +240,7 @@
   {
     "id": "assembling-machine-1",
     "name": "Assembling Machine 1",
+	"type": "production",
     "craft-time": 0.5,
     "recipe0": {
       "yield": 1,
