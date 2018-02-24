@@ -1,6 +1,6 @@
 # factorio-recipes-json
 [![Build Status](https://travis-ci.org/kevinta893/factorio-recipes-json.svg?branch=master)](https://travis-ci.org/kevinta893/factorio-recipes-json)
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg)]()
+[![license](https://img.shields.io/badge/license-MIT-green.svg)]()
 [![factorio version](https://img.shields.io/badge/factorio%20version-0.15.40-green.svg)]()
 
 
