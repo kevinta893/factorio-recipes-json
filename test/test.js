@@ -1,9 +1,13 @@
 //attempts to parse the recipes JSON file for syntax errors
 var fs = require('fs');
-var recipesJSON = JSON.parse(fs.readFileSync('./recipes.json', 'utf8'));			//synchronous
+var recipesJSON = JSON.parse(fs.readFileSync(process.argv[2], 'utf8'));			//synchronous
 console.log("Total Recipes found=" + recipesJSON.length);
 
 
+
+
+
+//run test cases
 var recipes = {};
 //Setup database in hash table
 for (var i = 0 ; i < recipesJSON.length ; i++){

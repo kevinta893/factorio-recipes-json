@@ -1,7 +1,6 @@
 language: node_js       #javascript
 node_js:
-  - "iojs"
-  - "7"
+  - stable
 
 deploy:
   provider: pages
@@ -11,6 +10,12 @@ deploy:
   on:
     branch: master
 
+install:
+  - npm install -g json-minify
+    
 script:
-  - node ./test/test.js
+  - json-minify ./recipes.json > recipes.min.json
+  - node ./test/test.js ./recipes.json
+  - node ./test/test.js ./recipes.min.json
+  
   
