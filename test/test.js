@@ -39,8 +39,8 @@ function recurseRecipeTree(recipeId, level, traceList){
 	
 	
 	var recipeItem = recipes[recipeId];
-
-    if (recipeItem.type == "Resource" || recipeItem.type == "Liquid"){
+console.log(recipeId);
+    if (recipeItem.recipe.ingredients.length <=0 ){
         return level;
     }
     else{
@@ -67,7 +67,9 @@ console.log("Testing done.");
 var itemList = Object.keys(recipes);
 console.log("Total recipes=" + Object.keys(recipes).length);
 var recipeCounts = {};
-
+for (var i = 0 ; i < 15; i++){
+	recipeCounts['c' + i];
+}
 for (var i = 0 ; i < itemList.length ; i++){
 	
 	var recipeLength = recipes[itemList[i]].recipe.ingredients.length;
