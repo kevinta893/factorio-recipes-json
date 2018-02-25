@@ -9,6 +9,9 @@ deploy:
   keep-history: true
   on:
     branch: master
+  - rm .travis.yml
+  - rm .gitattributes
+  - rm -rf test
 
 install:
   - npm install -g json-minify
@@ -18,4 +21,4 @@ script:
   - node ./test/test.js ./recipes.json
   - node ./test/test.js ./recipes.min.json
   
-  
+
