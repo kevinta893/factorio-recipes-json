@@ -39,7 +39,6 @@ function recurseRecipeTree(recipeId, level, traceList){
 	
 	
 	var recipeItem = recipes[recipeId];
-console.log(recipeId);
     if (recipeItem.recipe.ingredients.length <=0 ){
         return level;
     }
