@@ -39,6 +39,10 @@ function recurseRecipeTree(recipeId, level, traceList){
 	
 	
 	var recipeItem = recipes[recipeId];
+	
+	
+	
+	//determine recursion
     if (recipeItem.recipe.ingredients.length <=0 ){
         return level;
     }
@@ -47,6 +51,12 @@ function recurseRecipeTree(recipeId, level, traceList){
 		var maxdepth = level;
         for (var i = 0; i < recipeItems.length ; i++) {
             var recipePart = recipeItems[i];
+			
+			//check if various properties should be numbers
+			if (! ( typeof recipePart.amount == "number")){
+				throw new Error("Ingredient amount is not a number! id=" + recipeId);
+			}
+			
             //recurse per recipe part and combine results
 			maxdepth = Math.max(maxdepth, recurseRecipeTree(recipePart.id, level + 1, traceList));
 			
@@ -58,6 +68,8 @@ function recurseRecipeTree(recipeId, level, traceList){
 
 }
 
+
+
 console.log("Testing done.");
 
 
@@ -66,9 +78,7 @@ console.log("Testing done.");
 var itemList = Object.keys(recipes);
 console.log("Total recipes=" + Object.keys(recipes).length);
 var recipeCounts = {};
-for (var i = 0 ; i < 15; i++){
-	recipeCounts['c' + i];
-}
+
 for (var i = 0 ; i < itemList.length ; i++){
 	
 	var recipeLength = recipes[itemList[i]].recipe.ingredients.length;
@@ -81,8 +91,15 @@ for (var i = 0 ; i < itemList.length ; i++){
 
 }
 
+
 console.log("Recipe Ingredient Counts=");
-console.log(recipeCounts);
+var keyList = Object.keys(recipeCounts);
+keyList = keyList.sort();
+for (var i = 0 ; i < keyList.length; i++){
+	console.log(keyList[i] + "\n" + JSON.stringify(recipeCounts[keyList[i]], null, 4));
+}
+
+
 
 
 console.log("Testing script done.");
