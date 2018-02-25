@@ -1,0 +1,128 @@
+<!--
+
+-->
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Factorio Recipe JSON Database Browser</title>
+		
+	<!-- Libraries -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.17/d3.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+	
+	<style>
+		body {
+			width: 960px;
+			margin: auto;
+		}
+		#recipe-list{
+			border: 1px solid black;
+			height: 350px; 
+
+			overflow:hidden; 
+			overflow-y:scroll;
+		}
+		.recipe{
+			height: 8em;
+			border: 1px solid grey;
+		}
+		.recipe-title{
+			font-size: 1.5em;
+		}
+		.recipe-meta{
+			width: 20em;
+			float: left;
+		}
+		.ingredients-list{
+			padding: 1em;
+			float: none;
+		}
+		
+	</style>
+<body>
+
+
+<div id="content">
+	<h1> Factorio Recipe JSON Database Browser </h1>
+
+	<div id="sidebar">
+		<nav id="recipe-list"></nav>
+	</div>
+</div>
+
+<div class="footer">
+	<a href="https://kevinta893.github.io/factorio-recipes-json/recipes.json"> Raw JSON Data </a> <br>
+	<a href="https://github.com/kevinta893/factorio-recipes-json"> Source Code (Github)</a>
+</div>
+
+
+
+
+<script> 
+
+$.getJSON("https://kevinta893.github.io/factorio-recipes-json/recipes.json", function (json, err){
+    if (err != "success"){
+        console.log("Error cannot load json\n" + err);
+        return;
+    }
+
+    var recipesList = json;
+	
+	var recipe = d3.select("#recipe-list").selectAll(".recipe")
+		.data(recipesList)
+		.enter()
+			.append('div')
+			.attr("class", "recipe");
+	
+	
+	//add meta information
+	var recipeMeta = recipe.append("div")
+		.attr("class", "recipe-meta");
+		
+	recipeMeta.append("div")
+		.attr("class", "recipe-title")
+		.text(function(d){
+				return d.name;
+		});
+	recipeMeta.append("div")
+		.attr("class", "item-type")
+		.text(function(d){
+			return d.type;
+		});
+	recipeMeta.append("div")
+		.attr("class", "time-required")
+		.text(function(d){
+			return "Time=" + d.recipe.time;
+		});
+	recipeMeta.append("div")
+		.attr("class", "recipe-yield")
+		.text(function(d){
+			return "Yield=" + d.recipe.yield;
+		});
+
+	//add ingredient information
+	var ingredient = recipe.append("div")
+		.attr("class", "ingredients-list")
+		.selectAll("ingredient")
+			.data(function(d){
+				return d.recipe.ingredients;
+			})
+			.enter()
+				.append("div")
+				.attr("class", "ingredient")
+				.text(function(d){
+					return d.id + ": " + d.amount;
+				});
+
+});
+</script>
+
+
+
+
+
+</body>
+
+
+</html>
