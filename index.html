@@ -16,6 +16,10 @@
 			width: 960px;
 			margin: auto;
 		}
+		#search-bar{
+			width : 100%;
+			margin-bottom: 1em;
+		}
 		#recipe-list{
 			border: 1px solid black;
 			height: 350px; 
@@ -47,6 +51,7 @@
 	<h1> Factorio Recipe JSON Database Browser </h1>
 
 	<div id="sidebar">
+		<input id="search-bar" placeholder="Search..."></input>
 		<nav id="recipe-list"></nav>
 	</div>
 </div>
@@ -67,6 +72,9 @@ $.getJSON("https://kevinta893.github.io/factorio-recipes-json/recipes.json", fun
         return;
     }
 
+	
+	
+	//add recipes
     var recipesList = json;
 	
 	var recipe = d3.select("#recipe-list").selectAll(".recipe")
@@ -115,6 +123,20 @@ $.getJSON("https://kevinta893.github.io/factorio-recipes-json/recipes.json", fun
 					return d.id + ": " + d.amount;
 				});
 
+				
+	//add search functionality
+	$("#search-bar").on('input', function (e){
+		var filterText = $("#search-bar").val();
+		d3.selectAll(".recipe")
+			.attr("style", function(d){
+				//nothing, just show all instead
+				if (filterText.length <=0){
+					return "display:block;";
+				}
+			
+				return d.name.toLowerCase().indexOf(filterText.toLowerCase()) >=0 ? "display:block;" : "display:none;";
+			});
+	});
 });
 </script>
 
