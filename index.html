@@ -20,9 +20,21 @@
 			width : 100%;
 			margin-bottom: 1em;
 		}
+		
+		#meta{
+			padding-bottom: 1em;
+		}
+		
+		.database-meta{
+			float: left;
+			padding-right: 14em;
+			padding-bottom:
+		}
+		
 		#recipe-list{
+			float: none;
 			border: 1px solid black;
-			height: 350px; 
+			height: 75%; 
 
 			overflow:hidden; 
 			overflow-y:scroll;
@@ -50,10 +62,14 @@
 <div id="content">
 	<h1> Factorio Recipe JSON Database Browser </h1>
 
-	<div id="sidebar">
+	<div>
 		<input id="search-bar" placeholder="Search..."></input>
-		<nav id="recipe-list"></nav>
+		<div id="meta">
+			<div class="database-meta" id="recipe-count"><strong>Total Recipes: </strong></div>
+			<div class="database-meta" id="search-count"><strong>Search Results: </strong></div>
+		</div><br>
 	</div>
+	<nav id="recipe-list"></nav>
 </div>
 
 <div class="footer">
@@ -76,12 +92,15 @@ $.getJSON("https://kevinta893.github.io/factorio-recipes-json/recipes.json", fun
 	
 	//add recipes
     var recipesList = json;
-	
+	$("#recipe-count").html("<strong>Total Recipes: </strong>" + recipesList.length);
+
 	var recipe = d3.select("#recipe-list").selectAll(".recipe")
 		.data(recipesList)
 		.enter()
 			.append('div')
 			.attr("class", "recipe");
+	
+
 	
 	
 	//add meta information
@@ -122,20 +141,29 @@ $.getJSON("https://kevinta893.github.io/factorio-recipes-json/recipes.json", fun
 				.text(function(d){
 					return d.id + ": " + d.amount;
 				});
-
 				
 	//add search functionality
 	$("#search-bar").on('input', function (e){
+		//filter the text
 		var filterText = $("#search-bar").val();
+		var searchCount = 0;
 		d3.selectAll(".recipe")
 			.attr("style", function(d){
 				//nothing, just show all instead
 				if (filterText.length <=0){
 					return "display:block;";
 				}
-			
-				return d.name.toLowerCase().indexOf(filterText.toLowerCase()) >=0 ? "display:block;" : "display:none;";
+				
+				if (d.name.toLowerCase().indexOf(filterText.toLowerCase()) >=0){
+					searchCount++;
+					$("#search-count").html("<strong>Total Recipes: </strong>" + searchCount);
+					return "display:block;";
+				}					
+				else{
+					return "display:none;";
+				}
 			});
+		//update total searches
 	});
 });
 </script>
