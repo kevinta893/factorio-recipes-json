@@ -3179,7 +3179,7 @@
             "ingredients": [
                 {
                     "id": "concrete",
-                    "amount": "1k"
+                    "amount": 1000
                 },
                 {
                     "id": "electric-engine-unit",
@@ -3195,7 +3195,7 @@
                 },
                 {
                     "id": "steel-plate",
-                    "amount": "1k"
+                    "amount": 1000
                 }
             ],
             "time": 30,
