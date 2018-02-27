@@ -3,6 +3,7 @@
         "id": "accumulator",
         "name": "Accumulator",
         "type": "Machinery",
+        "wiki_link": "https://wiki.factorio.com/Accumulator",
         "recipe": {
             "ingredients": [
                 {
@@ -22,6 +23,7 @@
         "id": "active-provider-chest",
         "name": "Active provider chest",
         "type": "Machine",
+        "wiki_link": "https://wiki.factorio.com/Active_provider_chest",
         "recipe": {
             "ingredients": [
                 {
@@ -45,6 +47,7 @@
         "id": "advanced-circuit",
         "name": "Advanced circuit",
         "type": "Intermediate product",
+        "wiki_link": "https://wiki.factorio.com/Advanced_circuit",
         "recipe": {
             "ingredients": [
                 {
@@ -68,6 +71,7 @@
         "id": "arithmetic-combinator",
         "name": "Arithmetic combinator",
         "type": "Logic",
+        "wiki_link": "https://wiki.factorio.com/Arithmetic_combinator",
         "recipe": {
             "ingredients": [
                 {
@@ -87,6 +91,7 @@
         "id": "artillery-shell",
         "name": "Artillery shell",
         "type": "Combat",
+        "wiki_link": "https://wiki.factorio.com/Artillery_shell",
         "recipe": {
             "ingredients": [
                 {
@@ -110,6 +115,7 @@
         "id": "artillery-targeting-remote",
         "name": "Artillery targeting remote",
         "type": "Item",
+        "wiki_link": "https://wiki.factorio.com/Artillery_targeting_remote",
         "recipe": {
             "ingredients": [
                 {
@@ -129,6 +135,7 @@
         "id": "artillery-turret",
         "name": "Artillery turret",
         "type": "Combat",
+        "wiki_link": "https://wiki.factorio.com/Artillery_turret",
         "recipe": {
             "ingredients": [
                 {
@@ -156,6 +163,7 @@
         "id": "artillery-wagon",
         "name": "Artillery wagon",
         "type": "Machine",
+        "wiki_link": "https://wiki.factorio.com/Artillery_wagon",
         "recipe": {
             "ingredients": [
                 {
@@ -187,6 +195,7 @@
         "id": "assembling-machine-1",
         "name": "Assembling machine 1",
         "type": "Machine",
+        "wiki_link": "https://wiki.factorio.com/Assembling_machine_1",
         "recipe": {
             "ingredients": [
                 {
@@ -210,6 +219,7 @@
         "id": "assembling-machine-2",
         "name": "Assembling machine 2",
         "type": "Machine",
+        "wiki_link": "https://wiki.factorio.com/Assembling_machine_2",
         "recipe": {
             "ingredients": [
                 {
@@ -237,6 +247,7 @@
         "id": "assembling-machine-3",
         "name": "Assembling machine 3",
         "type": "Machine",
+        "wiki_link": "https://wiki.factorio.com/Assembling_machine_3",
         "recipe": {
             "ingredients": [
                 {
@@ -256,6 +267,7 @@
         "id": "atomic-bomb",
         "name": "Atomic bomb",
         "type": "Combat",
+        "wiki_link": "https://wiki.factorio.com/Atomic_bomb",
         "recipe": {
             "ingredients": [
                 {
@@ -279,6 +291,7 @@
         "id": "battery",
         "name": "Battery",
         "type": "Intermediate product",
+        "wiki_link": "https://wiki.factorio.com/Battery",
         "recipe": {
             "ingredients": [
                 {
@@ -302,6 +315,7 @@
         "id": "battery-mk1",
         "name": "Battery MK1",
         "type": "Item",
+        "wiki_link": "https://wiki.factorio.com/Battery_MK1",
         "recipe": {
             "ingredients": [
                 {
@@ -321,6 +335,7 @@
         "id": "battery-mk2",
         "name": "Battery MK2",
         "type": "Item",
+        "wiki_link": "https://wiki.factorio.com/Battery_MK2",
         "recipe": {
             "ingredients": [
                 {
@@ -340,6 +355,7 @@
         "id": "beacon",
         "name": "Beacon",
         "type": "Machinery",
+        "wiki_link": "https://wiki.factorio.com/Beacon",
         "recipe": {
             "ingredients": [
                 {
@@ -367,6 +383,7 @@
         "id": "big-electric-pole",
         "name": "Big electric pole",
         "type": "Machine",
+        "wiki_link": "https://wiki.factorio.com/Big_electric_pole",
         "recipe": {
             "ingredients": [
                 {
@@ -386,6 +403,7 @@
         "id": "blueprint",
         "name": "Blueprint",
         "type": "Tool",
+        "wiki_link": "https://wiki.factorio.com/Blueprint",
         "recipe": {
             "ingredients": []
         }
@@ -394,6 +412,7 @@
         "id": "blueprint-book",
         "name": "Blueprint book",
         "type": "Tool",
+        "wiki_link": "https://wiki.factorio.com/Blueprint_book",
         "recipe": {
             "ingredients": []
         }
@@ -402,6 +421,7 @@
         "id": "boiler",
         "name": "Boiler",
         "type": "Machinery",
+        "wiki_link": "https://wiki.factorio.com/Boiler",
         "recipe": {
             "ingredients": [
                 {
@@ -421,6 +441,7 @@
         "id": "buffer-chest",
         "name": "Buffer chest",
         "type": "Machine",
+        "wiki_link": "https://wiki.factorio.com/Buffer_chest",
         "recipe": {
             "ingredients": [
                 {
@@ -444,6 +465,7 @@
         "id": "burner-inserter",
         "name": "Burner inserter",
         "type": "Machine",
+        "wiki_link": "https://wiki.factorio.com/Burner_inserter",
         "recipe": {
             "ingredients": [
                 {
@@ -463,6 +485,7 @@
         "id": "burner-mining-drill",
         "name": "Burner mining drill",
         "type": "Machine",
+        "wiki_link": "https://wiki.factorio.com/Burner_mining_drill",
         "recipe": {
             "ingredients": [
                 {
@@ -486,6 +509,7 @@
         "id": "cannon-shell",
         "name": "Cannon shell",
         "type": "Combat",
+        "wiki_link": "https://wiki.factorio.com/Cannon_shell",
         "recipe": {
             "ingredients": [
                 {
@@ -509,6 +533,7 @@
         "id": "car",
         "name": "Car",
         "type": "Machine",
+        "wiki_link": "https://wiki.factorio.com/Car",
         "recipe": {
             "ingredients": [
                 {
@@ -532,6 +557,7 @@
         "id": "cargo-wagon",
         "name": "Cargo wagon",
         "type": "Machine",
+        "wiki_link": "https://wiki.factorio.com/Cargo_wagon",
         "recipe": {
             "ingredients": [
                 {
@@ -555,6 +581,7 @@
         "id": "centrifuge",
         "name": "Centrifuge",
         "type": "Machine",
+        "wiki_link": "https://wiki.factorio.com/Centrifuge",
         "recipe": {
             "ingredients": [
                 {
@@ -582,6 +609,7 @@
         "id": "chemical-plant",
         "name": "Chemical plant",
         "type": "Machine",
+        "wiki_link": "https://wiki.factorio.com/Chemical_plant",
         "recipe": {
             "ingredients": [
                 {
@@ -609,6 +637,7 @@
         "id": "cliff-explosives",
         "name": "Cliff explosives",
         "type": "Item",
+        "wiki_link": "https://wiki.factorio.com/Cliff_explosives",
         "recipe": {
             "ingredients": [
                 {
@@ -632,6 +661,7 @@
         "id": "cluster-grenade",
         "name": "Cluster grenade",
         "type": "Combat",
+        "wiki_link": "https://wiki.factorio.com/Cluster_grenade",
         "recipe": {
             "ingredients": [
                 {
@@ -655,6 +685,7 @@
         "id": "coal",
         "name": "Coal",
         "type": "Resource",
+        "wiki_link": "https://wiki.factorio.com/Coal",
         "recipe": {
             "ingredients": []
         }
@@ -663,6 +694,7 @@
         "id": "combat-shotgun",
         "name": "Combat shotgun",
         "type": "Combat",
+        "wiki_link": "https://wiki.factorio.com/Combat_shotgun",
         "recipe": {
             "ingredients": [
                 {
@@ -690,6 +722,7 @@
         "id": "concrete",
         "name": "Concrete",
         "type": "Item",
+        "wiki_link": "https://wiki.factorio.com/Concrete",
         "recipe": {
             "ingredients": [
                 {
@@ -713,6 +746,7 @@
         "id": "constant-combinator",
         "name": "Constant combinator",
         "type": "Logic",
+        "wiki_link": "https://wiki.factorio.com/Constant_combinator",
         "recipe": {
             "ingredients": [
                 {
@@ -732,6 +766,7 @@
         "id": "construction-robot",
         "name": "Construction robot",
         "type": "Item",
+        "wiki_link": "https://wiki.factorio.com/Construction_robot",
         "recipe": {
             "ingredients": [
                 {
@@ -751,6 +786,7 @@
         "id": "copper-cable",
         "name": "Copper cable",
         "type": "Intermediate product",
+        "wiki_link": "https://wiki.factorio.com/Copper_cable",
         "recipe": {
             "ingredients": [
                 {
@@ -766,6 +802,7 @@
         "id": "copper-ore",
         "name": "Copper ore",
         "type": "Resource",
+        "wiki_link": "https://wiki.factorio.com/Copper_ore",
         "recipe": {
             "ingredients": []
         }
@@ -774,6 +811,7 @@
         "id": "copper-plate",
         "name": "Copper plate",
         "type": "Intermediate product",
+        "wiki_link": "https://wiki.factorio.com/Copper_plate",
         "recipe": {
             "ingredients": [
                 {
@@ -789,6 +827,7 @@
         "id": "crude-oil",
         "name": "Crude oil",
         "type": "Liquid",
+        "wiki_link": "https://wiki.factorio.com/Crude_oil",
         "recipe": {
             "ingredients": []
         }
@@ -797,6 +836,7 @@
         "id": "crude-oil-barrel",
         "name": "Crude oil barrel",
         "type": "null",
+        "wiki_link": "https://wiki.factorio.com/Crude_oil_barrel",
         "recipe": {
             "ingredients": []
         }
@@ -805,6 +845,7 @@
         "id": "decider-combinator",
         "name": "Decider combinator",
         "type": "Logic",
+        "wiki_link": "https://wiki.factorio.com/Decider_combinator",
         "recipe": {
             "ingredients": [
                 {
@@ -824,6 +865,7 @@
         "id": "deconstruction-planner",
         "name": "Deconstruction planner",
         "type": "Tool",
+        "wiki_link": "https://wiki.factorio.com/Deconstruction_planner",
         "recipe": {
             "ingredients": []
         }
@@ -832,6 +874,7 @@
         "id": "defender-capsule",
         "name": "Defender capsule",
         "type": "Combat",
+        "wiki_link": "https://wiki.factorio.com/Defender_capsule",
         "recipe": {
             "ingredients": [
                 {
@@ -855,6 +898,7 @@
         "id": "destroyer-capsule",
         "name": "Destroyer capsule",
         "type": "Combat",
+        "wiki_link": "https://wiki.factorio.com/Destroyer_capsule",
         "recipe": {
             "ingredients": [
                 {
@@ -874,6 +918,7 @@
         "id": "discharge-defense",
         "name": "Discharge defense",
         "type": "Item",
+        "wiki_link": "https://wiki.factorio.com/Discharge_defense",
         "recipe": {
             "ingredients": [
                 {
@@ -897,6 +942,7 @@
         "id": "discharge-defense-remote",
         "name": "Discharge defense remote",
         "type": "Combat",
+        "wiki_link": "https://wiki.factorio.com/Discharge_defense_remote",
         "recipe": {
             "ingredients": [
                 {
@@ -912,6 +958,7 @@
         "id": "distractor-capsule",
         "name": "Distractor capsule",
         "type": "Combat",
+        "wiki_link": "https://wiki.factorio.com/Distractor_capsule",
         "recipe": {
             "ingredients": [
                 {
@@ -931,6 +978,7 @@
         "id": "efficiency-module",
         "name": "Efficiency module",
         "type": "Item",
+        "wiki_link": "https://wiki.factorio.com/Efficiency_module",
         "recipe": {
             "ingredients": [
                 {
@@ -950,6 +998,7 @@
         "id": "efficiency-module-2",
         "name": "Efficiency module 2",
         "type": "Item",
+        "wiki_link": "https://wiki.factorio.com/Efficiency_module_2",
         "recipe": {
             "ingredients": [
                 {
@@ -973,6 +1022,7 @@
         "id": "efficiency-module-3",
         "name": "Efficiency module 3",
         "type": "Item",
+        "wiki_link": "https://wiki.factorio.com/Efficiency_module_3",
         "recipe": {
             "ingredients": [
                 {
@@ -996,6 +1046,7 @@
         "id": "electric-engine-unit",
         "name": "Electric engine unit",
         "type": "Intermediate product",
+        "wiki_link": "https://wiki.factorio.com/Electric_engine_unit",
         "recipe": {
             "ingredients": [
                 {
@@ -1019,6 +1070,7 @@
         "id": "electric-furnace",
         "name": "Electric furnace",
         "type": "Machinery",
+        "wiki_link": "https://wiki.factorio.com/Electric_furnace",
         "recipe": {
             "ingredients": [
                 {
@@ -1042,6 +1094,7 @@
         "id": "electric-mining-drill",
         "name": "Electric mining drill",
         "type": "Machine",
+        "wiki_link": "https://wiki.factorio.com/Electric_mining_drill",
         "recipe": {
             "ingredients": [
                 {
@@ -1065,6 +1118,7 @@
         "id": "electronic-circuit",
         "name": "Electronic circuit",
         "type": "Intermediate product",
+        "wiki_link": "https://wiki.factorio.com/Electronic_circuit",
         "recipe": {
             "ingredients": [
                 {
@@ -1084,6 +1138,7 @@
         "id": "empty-barrel",
         "name": "Empty barrel",
         "type": "null",
+        "wiki_link": "https://wiki.factorio.com/Empty_barrel",
         "recipe": {
             "ingredients": []
         }
@@ -1092,6 +1147,7 @@
         "id": "energy-shield",
         "name": "Energy shield",
         "type": "Item",
+        "wiki_link": "https://wiki.factorio.com/Energy_shield",
         "recipe": {
             "ingredients": [
                 {
@@ -1111,6 +1167,7 @@
         "id": "energy-shield-mk2",
         "name": "Energy shield MK2",
         "type": "Item",
+        "wiki_link": "https://wiki.factorio.com/Energy_shield_MK2",
         "recipe": {
             "ingredients": [
                 {
@@ -1130,6 +1187,7 @@
         "id": "engine-unit",
         "name": "Engine unit",
         "type": "Intermediate product",
+        "wiki_link": "https://wiki.factorio.com/Engine_unit",
         "recipe": {
             "ingredients": [
                 {
@@ -1153,6 +1211,7 @@
         "id": "exoskeleton",
         "name": "Exoskeleton",
         "type": "Item",
+        "wiki_link": "https://wiki.factorio.com/Exoskeleton",
         "recipe": {
             "ingredients": [
                 {
@@ -1176,6 +1235,7 @@
         "id": "explosive-cannon-shell",
         "name": "Explosive cannon shell",
         "type": "Combat",
+        "wiki_link": "https://wiki.factorio.com/Explosive_cannon_shell",
         "recipe": {
             "ingredients": [
                 {
@@ -1199,6 +1259,7 @@
         "id": "explosive-rocket",
         "name": "Explosive rocket",
         "type": "Combat",
+        "wiki_link": "https://wiki.factorio.com/Explosive_rocket",
         "recipe": {
             "ingredients": [
                 {
@@ -1218,6 +1279,7 @@
         "id": "explosive-uranium-cannon-shell",
         "name": "Explosive uranium cannon shell",
         "type": "Combat",
+        "wiki_link": "https://wiki.factorio.com/Explosive_uranium_cannon_shell",
         "recipe": {
             "ingredients": [
                 {
@@ -1237,6 +1299,7 @@
         "id": "explosives",
         "name": "Explosives",
         "type": "Item",
+        "wiki_link": "https://wiki.factorio.com/Explosives",
         "recipe": {
             "ingredients": [
                 {
@@ -1260,6 +1323,7 @@
         "id": "express-splitter",
         "name": "Express splitter",
         "type": "Machine",
+        "wiki_link": "https://wiki.factorio.com/Express_splitter",
         "recipe": {
             "ingredients": [
                 {
@@ -1287,6 +1351,7 @@
         "id": "express-transport-belt",
         "name": "Express transport belt",
         "type": "Machine",
+        "wiki_link": "https://wiki.factorio.com/Express_transport_belt",
         "recipe": {
             "ingredients": [
                 {
@@ -1310,6 +1375,7 @@
         "id": "express-underground-belt",
         "name": "Express underground belt",
         "type": "Machine",
+        "wiki_link": "https://wiki.factorio.com/Express_underground_belt",
         "recipe": {
             "ingredients": [
                 {
@@ -1333,6 +1399,7 @@
         "id": "fast-inserter",
         "name": "Fast inserter",
         "type": "Machine",
+        "wiki_link": "https://wiki.factorio.com/Fast_inserter",
         "recipe": {
             "ingredients": [
                 {
@@ -1356,6 +1423,7 @@
         "id": "fast-splitter",
         "name": "Fast splitter",
         "type": "Machine",
+        "wiki_link": "https://wiki.factorio.com/Fast_splitter",
         "recipe": {
             "ingredients": [
                 {
@@ -1379,6 +1447,7 @@
         "id": "fast-transport-belt",
         "name": "Fast transport belt",
         "type": "Machine",
+        "wiki_link": "https://wiki.factorio.com/Fast_transport_belt",
         "recipe": {
             "ingredients": [
                 {
@@ -1398,6 +1467,7 @@
         "id": "fast-underground-belt",
         "name": "Fast underground belt",
         "type": "Machine",
+        "wiki_link": "https://wiki.factorio.com/Fast_underground_belt",
         "recipe": {
             "ingredients": [
                 {
@@ -1417,6 +1487,7 @@
         "id": "filter-inserter",
         "name": "Filter inserter",
         "type": "Machine",
+        "wiki_link": "https://wiki.factorio.com/Filter_inserter",
         "recipe": {
             "ingredients": [
                 {
@@ -1436,6 +1507,7 @@
         "id": "firearm-magazine",
         "name": "Firearm magazine",
         "type": "Combat",
+        "wiki_link": "https://wiki.factorio.com/Firearm_magazine",
         "recipe": {
             "ingredients": [
                 {
@@ -1451,6 +1523,7 @@
         "id": "flamethrower",
         "name": "Flamethrower",
         "type": "Combat",
+        "wiki_link": "https://wiki.factorio.com/Flamethrower",
         "recipe": {
             "ingredients": [
                 {
@@ -1470,6 +1543,7 @@
         "id": "flamethrower-ammo",
         "name": "Flamethrower ammo",
         "type": "Combat",
+        "wiki_link": "https://wiki.factorio.com/Flamethrower_ammo",
         "recipe": {
             "ingredients": [
                 {
@@ -1493,6 +1567,7 @@
         "id": "flamethrower-turret",
         "name": "Flamethrower turret",
         "type": "Combat",
+        "wiki_link": "https://wiki.factorio.com/Flamethrower_turret",
         "recipe": {
             "ingredients": [
                 {
@@ -1520,6 +1595,7 @@
         "id": "fluid-wagon",
         "name": "Fluid wagon",
         "type": "Machine",
+        "wiki_link": "https://wiki.factorio.com/Fluid_wagon",
         "recipe": {
             "ingredients": [
                 {
@@ -1547,6 +1623,7 @@
         "id": "flying-robot-frame",
         "name": "Flying robot frame",
         "type": "Item",
+        "wiki_link": "https://wiki.factorio.com/Flying_robot_frame",
         "recipe": {
             "ingredients": [
                 {
@@ -1574,6 +1651,7 @@
         "id": "gate",
         "name": "Gate",
         "type": "Combat",
+        "wiki_link": "https://wiki.factorio.com/Gate",
         "recipe": {
             "ingredients": [
                 {
@@ -1597,6 +1675,7 @@
         "id": "green-wire",
         "name": "Green wire",
         "type": "Logic",
+        "wiki_link": "https://wiki.factorio.com/Green_wire",
         "recipe": {
             "ingredients": [
                 {
@@ -1616,6 +1695,7 @@
         "id": "grenade",
         "name": "Grenade",
         "type": "Combat",
+        "wiki_link": "https://wiki.factorio.com/Grenade",
         "recipe": {
             "ingredients": [
                 {
@@ -1635,6 +1715,7 @@
         "id": "gun-turret",
         "name": "Gun turret",
         "type": "Combat",
+        "wiki_link": "https://wiki.factorio.com/Gun_turret",
         "recipe": {
             "ingredients": [
                 {
@@ -1658,6 +1739,7 @@
         "id": "hazard-concrete",
         "name": "Hazard concrete",
         "type": "Item",
+        "wiki_link": "https://wiki.factorio.com/Hazard_concrete",
         "recipe": {
             "ingredients": [
                 {
@@ -1673,6 +1755,7 @@
         "id": "heat-exchanger",
         "name": "Heat exchanger",
         "type": "Machine",
+        "wiki_link": "https://wiki.factorio.com/Heat_exchanger",
         "recipe": {
             "ingredients": [
                 {
@@ -1696,6 +1779,7 @@
         "id": "heat-pipe",
         "name": "Heat pipe",
         "type": "Machine",
+        "wiki_link": "https://wiki.factorio.com/Heat_pipe",
         "recipe": {
             "ingredients": [
                 {
@@ -1715,6 +1799,7 @@
         "id": "heavy-armor",
         "name": "Heavy armor",
         "type": "Combat",
+        "wiki_link": "https://wiki.factorio.com/Heavy_armor",
         "recipe": {
             "ingredients": [
                 {
@@ -1734,6 +1819,7 @@
         "id": "heavy-oil",
         "name": "Heavy oil",
         "type": "Liquid",
+        "wiki_link": "https://wiki.factorio.com/Heavy_oil",
         "recipe": {
             "ingredients": []
         }
@@ -1742,6 +1828,7 @@
         "id": "heavy-oil-barrel",
         "name": "Heavy oil barrel",
         "type": "null",
+        "wiki_link": "https://wiki.factorio.com/Heavy_oil_barrel",
         "recipe": {
             "ingredients": []
         }
@@ -1750,6 +1837,7 @@
         "id": "high-tech-science-pack",
         "name": "High tech science pack",
         "type": "Science pack",
+        "wiki_link": "https://wiki.factorio.com/High_tech_science_pack",
         "recipe": {
             "ingredients": [
                 {
@@ -1777,6 +1865,7 @@
         "id": "inserter",
         "name": "Inserter",
         "type": "Machine",
+        "wiki_link": "https://wiki.factorio.com/Inserter",
         "recipe": {
             "ingredients": [
                 {
@@ -1800,6 +1889,7 @@
         "id": "iron-axe",
         "name": "Iron axe",
         "type": "Tool",
+        "wiki_link": "https://wiki.factorio.com/Iron_axe",
         "recipe": {
             "ingredients": [
                 {
@@ -1819,6 +1909,7 @@
         "id": "iron-chest",
         "name": "Iron chest",
         "type": "Machine",
+        "wiki_link": "https://wiki.factorio.com/Iron_chest",
         "recipe": {
             "ingredients": [
                 {
@@ -1834,6 +1925,7 @@
         "id": "iron-gear-wheel",
         "name": "Iron gear wheel",
         "type": "Intermediate product",
+        "wiki_link": "https://wiki.factorio.com/Iron_gear_wheel",
         "recipe": {
             "ingredients": [
                 {
@@ -1849,6 +1941,7 @@
         "id": "iron-ore",
         "name": "Iron ore",
         "type": "Resource",
+        "wiki_link": "https://wiki.factorio.com/Iron_ore",
         "recipe": {
             "ingredients": []
         }
@@ -1857,6 +1950,7 @@
         "id": "iron-plate",
         "name": "Iron plate",
         "type": "Intermediate product",
+        "wiki_link": "https://wiki.factorio.com/Iron_plate",
         "recipe": {
             "ingredients": [
                 {
@@ -1872,6 +1966,7 @@
         "id": "iron-stick",
         "name": "Iron stick",
         "type": "Intermediate product",
+        "wiki_link": "https://wiki.factorio.com/Iron_stick",
         "recipe": {
             "ingredients": [
                 {
@@ -1887,6 +1982,7 @@
         "id": "kovarex-enrichment-process",
         "name": "Kovarex enrichment process",
         "type": "Process",
+        "wiki_link": "https://wiki.factorio.com/Kovarex_enrichment_process",
         "recipe": {
             "ingredients": [
                 {
@@ -1905,6 +2001,7 @@
         "id": "lab",
         "name": "Lab",
         "type": "Machine",
+        "wiki_link": "https://wiki.factorio.com/Lab",
         "recipe": {
             "ingredients": [
                 {
@@ -1928,6 +2025,7 @@
         "id": "lamp",
         "name": "Lamp",
         "type": "Logic",
+        "wiki_link": "https://wiki.factorio.com/Lamp",
         "recipe": {
             "ingredients": [
                 {
@@ -1951,6 +2049,7 @@
         "id": "land-mine",
         "name": "Land mine",
         "type": "Combat",
+        "wiki_link": "https://wiki.factorio.com/Land_mine",
         "recipe": {
             "ingredients": [
                 {
@@ -1970,6 +2069,7 @@
         "id": "landfill",
         "name": "Landfill",
         "type": "Item",
+        "wiki_link": "https://wiki.factorio.com/Landfill",
         "recipe": {
             "ingredients": [
                 {
@@ -1985,6 +2085,7 @@
         "id": "laser-turret",
         "name": "Laser turret",
         "type": "Combat",
+        "wiki_link": "https://wiki.factorio.com/Laser_turret",
         "recipe": {
             "ingredients": [
                 {
@@ -2008,6 +2109,7 @@
         "id": "light-armor",
         "name": "Light armor",
         "type": "Combat",
+        "wiki_link": "https://wiki.factorio.com/Light_armor",
         "recipe": {
             "ingredients": [
                 {
@@ -2023,6 +2125,7 @@
         "id": "light-oil",
         "name": "Light oil",
         "type": "Liquid",
+        "wiki_link": "https://wiki.factorio.com/Light_oil",
         "recipe": {
             "ingredients": []
         }
@@ -2031,6 +2134,7 @@
         "id": "light-oil-barrel",
         "name": "Light oil barrel",
         "type": "null",
+        "wiki_link": "https://wiki.factorio.com/Light_oil_barrel",
         "recipe": {
             "ingredients": []
         }
@@ -2039,6 +2143,7 @@
         "id": "locomotive",
         "name": "Locomotive",
         "type": "Machine",
+        "wiki_link": "https://wiki.factorio.com/Locomotive",
         "recipe": {
             "ingredients": [
                 {
@@ -2062,6 +2167,7 @@
         "id": "logistic-robot",
         "name": "Logistic robot",
         "type": "Item",
+        "wiki_link": "https://wiki.factorio.com/Logistic_robot",
         "recipe": {
             "ingredients": [
                 {
@@ -2081,6 +2187,7 @@
         "id": "long-handed-inserter",
         "name": "Long handed inserter",
         "type": "Machine",
+        "wiki_link": "https://wiki.factorio.com/Long_handed_inserter",
         "recipe": {
             "ingredients": [
                 {
@@ -2104,6 +2211,7 @@
         "id": "low-density-structure",
         "name": "Low density structure",
         "type": "Intermediate product",
+        "wiki_link": "https://wiki.factorio.com/Low_density_structure",
         "recipe": {
             "ingredients": [
                 {
@@ -2127,13 +2235,14 @@
         "id": "lubricant",
         "name": "Lubricant",
         "type": "Liquid",
+        "wiki_link": "https://wiki.factorio.com/Lubricant",
         "recipe": {
             "ingredients": [
                 {
                     "id": "heavy-oil",
                     "amount": 10
                 }
-            ],
+			],
             "time": 1,
             "yield": 10
         }
@@ -2142,6 +2251,7 @@
         "id": "lubricant-barrel",
         "name": "Lubricant barrel",
         "type": "null",
+        "wiki_link": "https://wiki.factorio.com/Lubricant_barrel",
         "recipe": {
             "ingredients": []
         }
@@ -2150,6 +2260,7 @@
         "id": "medium-electric-pole",
         "name": "Medium electric pole",
         "type": "Machine",
+        "wiki_link": "https://wiki.factorio.com/Medium_electric_pole",
         "recipe": {
             "ingredients": [
                 {
@@ -2169,6 +2280,7 @@
         "id": "military-science-pack",
         "name": "Military science pack",
         "type": "Science pack",
+        "wiki_link": "https://wiki.factorio.com/Military_science_pack",
         "recipe": {
             "ingredients": [
                 {
@@ -2192,6 +2304,7 @@
         "id": "modular-armor",
         "name": "Modular armor",
         "type": "Combat",
+        "wiki_link": "https://wiki.factorio.com/Modular_armor",
         "recipe": {
             "ingredients": [
                 {
@@ -2211,6 +2324,7 @@
         "id": "nightvision",
         "name": "Nightvision",
         "type": "Item",
+        "wiki_link": "https://wiki.factorio.com/Nightvision",
         "recipe": {
             "ingredients": [
                 {
@@ -2230,6 +2344,7 @@
         "id": "nuclear-fuel",
         "name": "Nuclear fuel",
         "type": "Item",
+        "wiki_link": "https://wiki.factorio.com/Nuclear_fuel",
         "recipe": {
             "ingredients": [
                 {
@@ -2249,6 +2364,7 @@
         "id": "nuclear-fuel-reprocessing",
         "name": "Nuclear fuel reprocessing",
         "type": "Process",
+        "wiki_link": "https://wiki.factorio.com/Nuclear_fuel_reprocessing",
         "recipe": {
             "ingredients": [
                 {
@@ -2267,6 +2383,7 @@
         "id": "nuclear-reactor",
         "name": "Nuclear reactor",
         "type": "Machine",
+        "wiki_link": "https://wiki.factorio.com/Nuclear_reactor",
         "recipe": {
             "ingredients": [
                 {
@@ -2294,6 +2411,7 @@
         "id": "offshore-pump",
         "name": "Offshore pump",
         "type": "Machine",
+        "wiki_link": "https://wiki.factorio.com/Offshore_pump",
         "recipe": {
             "ingredients": [
                 {
@@ -2317,6 +2435,7 @@
         "id": "oil-refinery",
         "name": "Oil refinery",
         "type": "Machine",
+        "wiki_link": "https://wiki.factorio.com/Oil_refinery",
         "recipe": {
             "ingredients": [
                 {
@@ -2348,6 +2467,7 @@
         "id": "passive-provider-chest",
         "name": "Passive provider chest",
         "type": "Machine",
+        "wiki_link": "https://wiki.factorio.com/Passive_provider_chest",
         "recipe": {
             "ingredients": [
                 {
@@ -2371,6 +2491,7 @@
         "id": "personal-laser-defense",
         "name": "Personal laser defense",
         "type": "Item",
+        "wiki_link": "https://wiki.factorio.com/Personal_laser_defense",
         "recipe": {
             "ingredients": [
                 {
@@ -2394,6 +2515,7 @@
         "id": "personal-roboport",
         "name": "Personal roboport",
         "type": "Item",
+        "wiki_link": "https://wiki.factorio.com/Personal_roboport",
         "recipe": {
             "ingredients": [
                 {
@@ -2421,6 +2543,7 @@
         "id": "personal-roboport-mk2",
         "name": "Personal roboport MK2",
         "type": "Item",
+        "wiki_link": "https://wiki.factorio.com/Personal_roboport_MK2",
         "recipe": {
             "ingredients": [
                 {
@@ -2440,6 +2563,7 @@
         "id": "petroleum-gas",
         "name": "Petroleum gas",
         "type": "Liquid",
+        "wiki_link": "https://wiki.factorio.com/Petroleum_gas",
         "recipe": {
             "ingredients": []
         }
@@ -2448,6 +2572,7 @@
         "id": "petroleum-gas-barrel",
         "name": "Petroleum gas barrel",
         "type": "null",
+        "wiki_link": "https://wiki.factorio.com/Petroleum_gas_barrel",
         "recipe": {
             "ingredients": []
         }
@@ -2456,6 +2581,7 @@
         "id": "piercing-rounds-magazine",
         "name": "Piercing rounds magazine",
         "type": "Combat",
+        "wiki_link": "https://wiki.factorio.com/Piercing_rounds_magazine",
         "recipe": {
             "ingredients": [
                 {
@@ -2479,6 +2605,7 @@
         "id": "piercing-shotgun-shells",
         "name": "Piercing shotgun shells",
         "type": "Combat",
+        "wiki_link": "https://wiki.factorio.com/Piercing_shotgun_shells",
         "recipe": {
             "ingredients": [
                 {
@@ -2502,6 +2629,7 @@
         "id": "pipe",
         "name": "Pipe",
         "type": "Machinery",
+        "wiki_link": "https://wiki.factorio.com/Pipe",
         "recipe": {
             "ingredients": [
                 {
@@ -2517,6 +2645,7 @@
         "id": "pipe-to-ground",
         "name": "Pipe to ground",
         "type": "Machine",
+        "wiki_link": "https://wiki.factorio.com/Pipe_to_ground",
         "recipe": {
             "ingredients": [
                 {
@@ -2536,6 +2665,7 @@
         "id": "pistol",
         "name": "Pistol",
         "type": "Combat",
+        "wiki_link": "https://wiki.factorio.com/Pistol",
         "recipe": {
             "ingredients": [
                 {
@@ -2555,6 +2685,7 @@
         "id": "plastic-bar",
         "name": "Plastic bar",
         "type": "Intermediate product",
+        "wiki_link": "https://wiki.factorio.com/Plastic_bar",
         "recipe": {
             "ingredients": [
                 {
@@ -2574,6 +2705,7 @@
         "id": "poison-capsule",
         "name": "Poison capsule",
         "type": "Combat",
+        "wiki_link": "https://wiki.factorio.com/Poison_capsule",
         "recipe": {
             "ingredients": [
                 {
@@ -2597,6 +2729,7 @@
         "id": "portable-fusion-reactor",
         "name": "Portable fusion reactor",
         "type": "Item",
+        "wiki_link": "https://wiki.factorio.com/Portable_fusion_reactor",
         "recipe": {
             "ingredients": [
                 {
@@ -2612,6 +2745,7 @@
         "id": "portable-solar-panel",
         "name": "Portable solar panel",
         "type": "Item",
+        "wiki_link": "https://wiki.factorio.com/Portable_solar_panel",
         "recipe": {
             "ingredients": [
                 {
@@ -2635,6 +2769,7 @@
         "id": "power-armor",
         "name": "Power armor",
         "type": "Combat",
+        "wiki_link": "https://wiki.factorio.com/Power_armor",
         "recipe": {
             "ingredients": [
                 {
@@ -2658,6 +2793,7 @@
         "id": "power-armor-mk2",
         "name": "Power armor MK2",
         "type": "Combat",
+        "wiki_link": "https://wiki.factorio.com/Power_armor_MK2",
         "recipe": {
             "ingredients": [
                 {
@@ -2685,6 +2821,7 @@
         "id": "power-switch",
         "name": "Power switch",
         "type": "Machine",
+        "wiki_link": "https://wiki.factorio.com/Power_switch",
         "recipe": {
             "ingredients": [
                 {
@@ -2708,6 +2845,7 @@
         "id": "processing-unit",
         "name": "Processing unit",
         "type": "Intermediate product",
+        "wiki_link": "https://wiki.factorio.com/Processing_unit",
         "recipe": {
             "ingredients": [
                 {
@@ -2731,6 +2869,7 @@
         "id": "production-science-pack",
         "name": "Production science pack",
         "type": "Science pack",
+        "wiki_link": "https://wiki.factorio.com/Production_science_pack",
         "recipe": {
             "ingredients": [
                 {
@@ -2750,6 +2889,7 @@
         "id": "productivity-module",
         "name": "Productivity module",
         "type": "Item",
+        "wiki_link": "https://wiki.factorio.com/Productivity_module",
         "recipe": {
             "ingredients": [
                 {
@@ -2769,6 +2909,7 @@
         "id": "productivity-module-2",
         "name": "Productivity module 2",
         "type": "Item",
+        "wiki_link": "https://wiki.factorio.com/Productivity_module_2",
         "recipe": {
             "ingredients": [
                 {
@@ -2792,6 +2933,7 @@
         "id": "productivity-module-3",
         "name": "Productivity module 3",
         "type": "Item",
+        "wiki_link": "https://wiki.factorio.com/Productivity_module_3",
         "recipe": {
             "ingredients": [
                 {
@@ -2815,6 +2957,7 @@
         "id": "programmable-speaker",
         "name": "Programmable speaker",
         "type": "Logic",
+        "wiki_link": "https://wiki.factorio.com/Programmable_speaker",
         "recipe": {
             "ingredients": [
                 {
@@ -2838,6 +2981,7 @@
         "id": "pump",
         "name": "Pump",
         "type": "Machine",
+        "wiki_link": "https://wiki.factorio.com/Pump",
         "recipe": {
             "ingredients": [
                 {
@@ -2861,6 +3005,7 @@
         "id": "pumpjack",
         "name": "Pumpjack",
         "type": "Machine",
+        "wiki_link": "https://wiki.factorio.com/Pumpjack",
         "recipe": {
             "ingredients": [
                 {
@@ -2888,6 +3033,7 @@
         "id": "radar",
         "name": "Radar",
         "type": "Machine",
+        "wiki_link": "https://wiki.factorio.com/Radar",
         "recipe": {
             "ingredients": [
                 {
@@ -2911,6 +3057,7 @@
         "id": "rail",
         "name": "Rail",
         "type": "Item",
+        "wiki_link": "https://wiki.factorio.com/Rail",
         "recipe": {
             "ingredients": [
                 {
@@ -2934,6 +3081,7 @@
         "id": "rail-chain-signal",
         "name": "Rail chain signal",
         "type": "Machine",
+        "wiki_link": "https://wiki.factorio.com/Rail_chain_signal",
         "recipe": {
             "ingredients": [
                 {
@@ -2953,6 +3101,7 @@
         "id": "rail-signal",
         "name": "Rail signal",
         "type": "Machine",
+        "wiki_link": "https://wiki.factorio.com/Rail_signal",
         "recipe": {
             "ingredients": [
                 {
@@ -2972,6 +3121,7 @@
         "id": "raw-fish",
         "name": "Raw fish",
         "type": "Item",
+        "wiki_link": "https://wiki.factorio.com/Raw_fish",
         "recipe": {
             "ingredients": []
         }
@@ -2980,6 +3130,7 @@
         "id": "raw-wood",
         "name": "Raw wood",
         "type": "Resource",
+        "wiki_link": "https://wiki.factorio.com/Raw_wood",
         "recipe": {
             "ingredients": []
         }
@@ -2988,6 +3139,7 @@
         "id": "red-wire",
         "name": "Red wire",
         "type": "Logic",
+        "wiki_link": "https://wiki.factorio.com/Red_wire",
         "recipe": {
             "ingredients": [
                 {
@@ -3007,6 +3159,7 @@
         "id": "repair-pack",
         "name": "Repair pack",
         "type": "Tools",
+        "wiki_link": "https://wiki.factorio.com/Repair_pack",
         "recipe": {
             "ingredients": [
                 {
@@ -3026,6 +3179,7 @@
         "id": "requester-chest",
         "name": "Requester chest",
         "type": "Machine",
+        "wiki_link": "https://wiki.factorio.com/Requester_chest",
         "recipe": {
             "ingredients": [
                 {
@@ -3049,6 +3203,7 @@
         "id": "roboport",
         "name": "Roboport",
         "type": "Machine",
+        "wiki_link": "https://wiki.factorio.com/Roboport",
         "recipe": {
             "ingredients": [
                 {
@@ -3072,6 +3227,7 @@
         "id": "rocket",
         "name": "Rocket",
         "type": "Combat",
+        "wiki_link": "https://wiki.factorio.com/Rocket",
         "recipe": {
             "ingredients": [
                 {
@@ -3095,6 +3251,7 @@
         "id": "rocket-control-unit",
         "name": "Rocket control unit",
         "type": "Intermediate product",
+        "wiki_link": "https://wiki.factorio.com/Rocket_control_unit",
         "recipe": {
             "ingredients": [
                 {
@@ -3114,6 +3271,7 @@
         "id": "rocket-fuel",
         "name": "Rocket fuel",
         "type": "Intermediate products",
+        "wiki_link": "https://wiki.factorio.com/Rocket_fuel",
         "recipe": {
             "ingredients": [
                 {
@@ -3129,6 +3287,7 @@
         "id": "rocket-launcher",
         "name": "Rocket launcher",
         "type": "Combat",
+        "wiki_link": "https://wiki.factorio.com/Rocket_launcher",
         "recipe": {
             "ingredients": [
                 {
@@ -3152,6 +3311,7 @@
         "id": "rocket-part",
         "name": "Rocket part",
         "type": "Item",
+        "wiki_link": "https://wiki.factorio.com/Rocket_part",
         "recipe": {
             "ingredients": [
                 {
@@ -3175,6 +3335,7 @@
         "id": "rocket-silo",
         "name": "Rocket silo",
         "type": "Machine",
+        "wiki_link": "https://wiki.factorio.com/Rocket_silo",
         "recipe": {
             "ingredients": [
                 {
@@ -3206,6 +3367,7 @@
         "id": "satellite",
         "name": "Satellite",
         "type": "Item",
+        "wiki_link": "https://wiki.factorio.com/Satellite",
         "recipe": {
             "ingredients": [
                 {
@@ -3241,6 +3403,7 @@
         "id": "science-pack-1",
         "name": "Science pack 1",
         "type": "Science pack",
+        "wiki_link": "https://wiki.factorio.com/Science_pack_1",
         "recipe": {
             "ingredients": [
                 {
@@ -3260,6 +3423,7 @@
         "id": "science-pack-2",
         "name": "Science pack 2",
         "type": "Science pack",
+        "wiki_link": "https://wiki.factorio.com/Science_pack_2",
         "recipe": {
             "ingredients": [
                 {
@@ -3279,6 +3443,7 @@
         "id": "science-pack-3",
         "name": "Science pack 3",
         "type": "Science pack",
+        "wiki_link": "https://wiki.factorio.com/Science_pack_3",
         "recipe": {
             "ingredients": [
                 {
@@ -3302,6 +3467,7 @@
         "id": "shotgun",
         "name": "Shotgun",
         "type": "Combat",
+        "wiki_link": "https://wiki.factorio.com/Shotgun",
         "recipe": {
             "ingredients": [
                 {
@@ -3329,6 +3495,7 @@
         "id": "shotgun-shells",
         "name": "Shotgun shells",
         "type": "Combat",
+        "wiki_link": "https://wiki.factorio.com/Shotgun_shells",
         "recipe": {
             "ingredients": [
                 {
@@ -3348,6 +3515,7 @@
         "id": "slowdown-capsule",
         "name": "Slowdown capsule",
         "type": "Combat",
+        "wiki_link": "https://wiki.factorio.com/Slowdown_capsule",
         "recipe": {
             "ingredients": [
                 {
@@ -3371,6 +3539,7 @@
         "id": "small-electric-pole",
         "name": "Small electric pole",
         "type": "Machine",
+        "wiki_link": "https://wiki.factorio.com/Small_electric_pole",
         "recipe": {
             "ingredients": [
                 {
@@ -3390,6 +3559,7 @@
         "id": "solar-panel",
         "name": "Solar panel",
         "type": "Machine",
+        "wiki_link": "https://wiki.factorio.com/Solar_panel",
         "recipe": {
             "ingredients": [
                 {
@@ -3413,6 +3583,7 @@
         "id": "solid-fuel",
         "name": "Solid fuel",
         "type": "Resource",
+        "wiki_link": "https://wiki.factorio.com/Solid_fuel",
         "recipe": {
             "ingredients": []
         }
@@ -3421,6 +3592,7 @@
         "id": "space-science-pack",
         "name": "Space science pack",
         "type": "Science pack",
+        "wiki_link": "https://wiki.factorio.com/Space_science_pack",
         "recipe": {
             "ingredients": []
         }
@@ -3429,6 +3601,7 @@
         "id": "speed-module",
         "name": "Speed module",
         "type": "Item",
+        "wiki_link": "https://wiki.factorio.com/Speed_module",
         "recipe": {
             "ingredients": [
                 {
@@ -3448,6 +3621,7 @@
         "id": "speed-module-2",
         "name": "Speed module 2",
         "type": "Item",
+        "wiki_link": "https://wiki.factorio.com/Speed_module_2",
         "recipe": {
             "ingredients": [
                 {
@@ -3471,6 +3645,7 @@
         "id": "speed-module-3",
         "name": "Speed module 3",
         "type": "Item",
+        "wiki_link": "https://wiki.factorio.com/Speed_module_3",
         "recipe": {
             "ingredients": [
                 {
@@ -3494,6 +3669,7 @@
         "id": "splitter",
         "name": "Splitter",
         "type": "Machine",
+        "wiki_link": "https://wiki.factorio.com/Splitter",
         "recipe": {
             "ingredients": [
                 {
@@ -3517,6 +3693,7 @@
         "id": "stack-filter-inserter",
         "name": "Stack filter inserter",
         "type": "Machine",
+        "wiki_link": "https://wiki.factorio.com/Stack_filter_inserter",
         "recipe": {
             "ingredients": [
                 {
@@ -3536,6 +3713,7 @@
         "id": "stack-inserter",
         "name": "Stack inserter",
         "type": "Machine",
+        "wiki_link": "https://wiki.factorio.com/Stack_inserter",
         "recipe": {
             "ingredients": [
                 {
@@ -3563,6 +3741,7 @@
         "id": "steam",
         "name": "Steam",
         "type": "Liquid",
+        "wiki_link": "https://wiki.factorio.com/Steam",
         "recipe": {
             "ingredients": []
         }
@@ -3571,6 +3750,7 @@
         "id": "steam-engine",
         "name": "Steam engine",
         "type": "Machine",
+        "wiki_link": "https://wiki.factorio.com/Steam_engine",
         "recipe": {
             "ingredients": [
                 {
@@ -3594,6 +3774,7 @@
         "id": "steam-turbine",
         "name": "Steam turbine",
         "type": "Machine",
+        "wiki_link": "https://wiki.factorio.com/Steam_turbine",
         "recipe": {
             "ingredients": [
                 {
@@ -3617,6 +3798,7 @@
         "id": "steel-axe",
         "name": "Steel axe",
         "type": "Tool",
+        "wiki_link": "https://wiki.factorio.com/Steel_axe",
         "recipe": {
             "ingredients": [
                 {
@@ -3636,6 +3818,7 @@
         "id": "steel-chest",
         "name": "Steel chest",
         "type": "Machine",
+        "wiki_link": "https://wiki.factorio.com/Steel_chest",
         "recipe": {
             "ingredients": [
                 {
@@ -3651,6 +3834,7 @@
         "id": "steel-furnace",
         "name": "Steel furnace",
         "type": "Machinery",
+        "wiki_link": "https://wiki.factorio.com/Steel_furnace",
         "recipe": {
             "ingredients": [
                 {
@@ -3670,6 +3854,7 @@
         "id": "steel-plate",
         "name": "Steel plate",
         "type": "Intermediate product",
+        "wiki_link": "https://wiki.factorio.com/Steel_plate",
         "recipe": {
             "ingredients": [
                 {
@@ -3685,6 +3870,7 @@
         "id": "stone",
         "name": "Stone",
         "type": "Resource",
+        "wiki_link": "https://wiki.factorio.com/Stone",
         "recipe": {
             "ingredients": []
         }
@@ -3693,6 +3879,7 @@
         "id": "stone-brick",
         "name": "Stone brick",
         "type": "Intermediate product",
+        "wiki_link": "https://wiki.factorio.com/Stone_brick",
         "recipe": {
             "ingredients": [
                 {
@@ -3708,6 +3895,7 @@
         "id": "stone-furnace",
         "name": "Stone furnace",
         "type": "Machine",
+        "wiki_link": "https://wiki.factorio.com/Stone_furnace",
         "recipe": {
             "ingredients": [
                 {
@@ -3723,6 +3911,7 @@
         "id": "stone-wall",
         "name": "Stone wall",
         "type": "Combat",
+        "wiki_link": "https://wiki.factorio.com/Stone_wall",
         "recipe": {
             "ingredients": [
                 {
@@ -3738,6 +3927,7 @@
         "id": "storage-chest",
         "name": "Storage chest",
         "type": "Machine",
+        "wiki_link": "https://wiki.factorio.com/Storage_chest",
         "recipe": {
             "ingredients": [
                 {
@@ -3761,6 +3951,7 @@
         "id": "storage-tank",
         "name": "Storage tank",
         "type": "Machine",
+        "wiki_link": "https://wiki.factorio.com/Storage_tank",
         "recipe": {
             "ingredients": [
                 {
@@ -3780,6 +3971,7 @@
         "id": "submachine-gun",
         "name": "Submachine gun",
         "type": "Combat",
+        "wiki_link": "https://wiki.factorio.com/Submachine_gun",
         "recipe": {
             "ingredients": [
                 {
@@ -3803,6 +3995,7 @@
         "id": "substation",
         "name": "Substation",
         "type": "Machine",
+        "wiki_link": "https://wiki.factorio.com/Substation",
         "recipe": {
             "ingredients": [
                 {
@@ -3826,6 +4019,7 @@
         "id": "sulfur",
         "name": "Sulfur",
         "type": "Intermediate product",
+        "wiki_link": "https://wiki.factorio.com/Sulfur",
         "recipe": {
             "ingredients": [
                 {
@@ -3845,6 +4039,7 @@
         "id": "sulfuric-acid",
         "name": "Sulfuric acid",
         "type": "Liquid",
+        "wiki_link": "https://wiki.factorio.com/Sulfuric_acid",
         "recipe": {
             "ingredients": [
                 {
@@ -3868,6 +4063,7 @@
         "id": "sulfuric-acid-barrel",
         "name": "Sulfuric acid barrel",
         "type": "null",
+        "wiki_link": "https://wiki.factorio.com/Sulfuric_acid_barrel",
         "recipe": {
             "ingredients": []
         }
@@ -3876,6 +4072,7 @@
         "id": "tank",
         "name": "Tank",
         "type": "Combat",
+        "wiki_link": "https://wiki.factorio.com/Tank",
         "recipe": {
             "ingredients": [
                 {
@@ -3903,6 +4100,7 @@
         "id": "train-stop",
         "name": "Train stop",
         "type": "Machine",
+        "wiki_link": "https://wiki.factorio.com/Train_stop",
         "recipe": {
             "ingredients": [
                 {
@@ -3926,6 +4124,7 @@
         "id": "transport-belt",
         "name": "Transport belt",
         "type": "Machine",
+        "wiki_link": "https://wiki.factorio.com/Transport_belt",
         "recipe": {
             "ingredients": [
                 {
@@ -3945,6 +4144,7 @@
         "id": "underground-belt",
         "name": "Underground belt",
         "type": "Machine",
+        "wiki_link": "https://wiki.factorio.com/Underground_belt",
         "recipe": {
             "ingredients": [
                 {
@@ -3964,6 +4164,7 @@
         "id": "uranium-cannon-shell",
         "name": "Uranium cannon shell",
         "type": "Combat",
+        "wiki_link": "https://wiki.factorio.com/Uranium_cannon_shell",
         "recipe": {
             "ingredients": [
                 {
@@ -3983,6 +4184,7 @@
         "id": "uranium-fuel-cell",
         "name": "Uranium fuel cell",
         "type": "Item",
+        "wiki_link": "https://wiki.factorio.com/Uranium_fuel_cell",
         "recipe": {
             "ingredients": [
                 {
@@ -4006,6 +4208,7 @@
         "id": "uranium-ore",
         "name": "Uranium ore",
         "type": "Resource",
+        "wiki_link": "https://wiki.factorio.com/Uranium_ore",
         "recipe": {
             "ingredients": []
         }
@@ -4014,6 +4217,7 @@
         "id": "uranium-processing",
         "name": "Uranium processing",
         "type": "Process",
+        "wiki_link": "https://wiki.factorio.com/Uranium_processing",
         "recipe": {
             "ingredients": [
                 {
@@ -4036,6 +4240,7 @@
         "id": "uranium-rounds-magazine",
         "name": "Uranium rounds magazine",
         "type": "Combat",
+        "wiki_link": "https://wiki.factorio.com/Uranium_rounds_magazine",
         "recipe": {
             "ingredients": [
                 {
@@ -4054,7 +4259,8 @@
     {
         "id": "uranium-235",
         "name": "Uranium-235",
-        "type": "Process",
+        "type": "Resource",
+        "wiki_link": "https://wiki.factorio.com/Uranium-235",
         "recipe": {
             "ingredients": []
         }
@@ -4062,26 +4268,17 @@
     {
         "id": "uranium-238",
         "name": "Uranium-238",
-        "type": "Intermediate product",
+        "type": "Resource",
+        "wiki_link": "https://wiki.factorio.com/Uranium-238",
         "recipe": {
-            "ingredients": [
-                {
-                    "id": "uranium-ore",
-                    "amount": 10
-                },
-                {
-                    "id": "uranium-235",
-                    "amount": 0.007
-                }
-            ],
-            "time": 10,
-            "yield": 0.993
+            "ingredients": []
         }
     },
     {
         "id": "used-up-uranium-fuel-cell",
         "name": "Used up uranium fuel cell",
         "type": "Item",
+        "wiki_link": "https://wiki.factorio.com/Used_up_uranium_fuel_cell",
         "recipe": {
             "ingredients": [
                 {
@@ -4097,6 +4294,7 @@
         "id": "water",
         "name": "Water",
         "type": "Liquid",
+        "wiki_link": "https://wiki.factorio.com/Water",
         "recipe": {
             "ingredients": []
         }
@@ -4105,6 +4303,7 @@
         "id": "water-barrel",
         "name": "Water barrel",
         "type": "null",
+        "wiki_link": "https://wiki.factorio.com/Water_barrel",
         "recipe": {
             "ingredients": []
         }
@@ -4113,6 +4312,7 @@
         "id": "wood",
         "name": "Wood",
         "type": "Intermediate product",
+        "wiki_link": "https://wiki.factorio.com/Wood",
         "recipe": {
             "ingredients": [
                 {
@@ -4128,6 +4328,7 @@
         "id": "wooden-chest",
         "name": "Wooden chest",
         "type": "Machine",
+        "wiki_link": "https://wiki.factorio.com/Wooden_chest",
         "recipe": {
             "ingredients": [
                 {
