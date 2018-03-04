@@ -3155,6 +3155,50 @@
             "yield": 1
         }
     },
+	{
+        "id": "refined-concrete",
+        "name": "Refined concrete",
+        "type": "Item",
+        "wiki_link": "https://wiki.factorio.com/Refined_concrete",
+        "recipe": {
+            "ingredients": [
+                {
+                    "id": "concrete",
+                    "amount": 20
+                },
+                {
+                    "id": "iron-stick",
+                    "amount": 8
+                },
+                {
+                    "id": "steel-plate",
+                    "amount": 1
+                },
+                {
+                    "id": "water",
+                    "amount": 100
+                }
+            ],
+            "time": 15,
+            "yield": 10
+        }
+    },
+	{
+        "id": "refined-hazard-concrete",
+        "name": "Refined hazard concrete",
+        "type": "Item",
+        "wiki_link": "https://wiki.factorio.com/Refined_hazard_concrete",
+        "recipe": {
+            "ingredients": [
+                {
+                    "id": "refined-concrete",
+                    "amount": 10
+                }
+            ],
+            "time": 0.25,
+            "yield": 10
+        }
+    },
     {
         "id": "repair-pack",
         "name": "Repair pack",
