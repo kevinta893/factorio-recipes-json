@@ -26,4 +26,4 @@ after_success:
   - json-minify ./recipes.dictionary.json > recipes.dictionary.min.json
   - rm .travis.yml
   - rm .gitattributes
-  - rm -rf test
+  - rm -rf build-ci
