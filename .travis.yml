@@ -18,11 +18,12 @@ install:
   - npm install -g json-minify
     
 script:
-  - json-minify ./recipes.json > recipes.min.json
-  - node ./test/test.js ./recipes.json
-  - node ./test/test.js ./recipes.min.json
+  - node ./build-ci/test.js ./recipes.json
   
 after_success:
+  - node ./build-ci/build_dictionary.js ./recipes.json ./recipes.dictionary.json
+  - json-minify ./recipes.json > recipes.min.json
+  - json-minify ./recipes.dictionary.json > recipes.dictionary.min.json
   - rm .travis.yml
   - rm .gitattributes
   - rm -rf test
