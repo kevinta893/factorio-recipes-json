@@ -2,10 +2,14 @@ language: node_js       #javascript
 node_js:
   - stable
 
+env:
+  - DEPLOY_FOLDER=deploy
+ 
 deploy:
   provider: pages
   skip-cleanup: true
   github-token: $GITHUB_TOKEN 
+  local-dir: $DEPLOY_FOLDER
   keep-history: true
   on:
     branch: master
@@ -21,9 +25,11 @@ script:
   - node ./build-ci/test.js ./recipes.json
   
 after_success:
-  - node ./build-ci/build_dictionary.js ./recipes.json ./recipes.dictionary.json
-  - json-minify ./recipes.json > recipes.min.json
-  - json-minify ./recipes.dictionary.json > recipes.dictionary.min.json
-  - rm .travis.yml
-  - rm .gitattributes
-  - rm -rf build-ci
+  - mkdir $DEPLOY_FOLDER
+  - cp recipes.json $DEPLOY_FOLDER
+  - cp index.html $DEPLOY_FOLDER
+  - cp LICENSE $DEPLOY_FOLDER
+  - cp README.md $DEPLOY_FOLDER
+  - node ./build-ci/build_dictionary.js ./recipes.json ./$DEPLOY_FOLDER/recipes.dictionary.json
+  - json-minify ./recipes.json > $DEPLOY_FOLDER/recipes.min.json
+  - json-minify ./recipes.dictionary.json > $DEPLOY_FOLDER/recipes.dictionary.min.json
