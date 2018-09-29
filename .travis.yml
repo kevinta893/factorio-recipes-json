@@ -30,6 +30,6 @@ after_success:
   - cp index.html $DEPLOY_FOLDER
   - cp LICENSE $DEPLOY_FOLDER
   - cp README.md $DEPLOY_FOLDER
-  - node ./build-ci/build_dictionary.js ./recipes.json ./$DEPLOY_FOLDER/recipes.dictionary.json
+  - node ./build-ci/build_dictionary.js ./recipes.json ./recipes.dictionary.json
   - json-minify ./recipes.json > $DEPLOY_FOLDER/recipes.min.json
   - json-minify ./recipes.dictionary.json > $DEPLOY_FOLDER/recipes.dictionary.min.json
