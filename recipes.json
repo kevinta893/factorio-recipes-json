@@ -3350,7 +3350,7 @@
     {
         "id":"rocket-fuel",
         "name":"Rocket fuel",
-        "type":"Intermediate products",
+        "type":"Intermediate product",
         "wiki_link":"https://wiki.factorio.com/Rocket_fuel",
         "recipe":{
             "ingredients":[
