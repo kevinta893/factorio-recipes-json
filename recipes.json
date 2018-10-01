@@ -402,7 +402,7 @@
     {
         "id":"blueprint",
         "name":"Blueprint",
-        "type":"Tool",
+        "type":"Tools",
         "wiki_link":"https://wiki.factorio.com/Blueprint",
         "recipe":{
             "ingredients":[
@@ -413,7 +413,7 @@
     {
         "id":"blueprint-book",
         "name":"Blueprint book",
-        "type":"Tool",
+        "type":"Tools",
         "wiki_link":"https://wiki.factorio.com/Blueprint_book",
         "recipe":{
             "ingredients":[
@@ -876,7 +876,7 @@
     {
         "id":"deconstruction-planner",
         "name":"Deconstruction planner",
-        "type":"Tool",
+        "type":"Tools",
         "wiki_link":"https://wiki.factorio.com/Deconstruction_planner",
         "recipe":{
             "ingredients":[
@@ -1908,7 +1908,7 @@
     {
         "id":"iron-axe",
         "name":"Iron axe",
-        "type":"Tool",
+        "type":"Tools",
         "wiki_link":"https://wiki.factorio.com/Iron_axe",
         "recipe":{
             "ingredients":[
@@ -3883,7 +3883,7 @@
     {
         "id":"steel-axe",
         "name":"Steel axe",
-        "type":"Tool",
+        "type":"Tools",
         "wiki_link":"https://wiki.factorio.com/Steel_axe",
         "recipe":{
             "ingredients":[
