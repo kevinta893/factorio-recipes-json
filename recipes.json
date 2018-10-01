@@ -3684,11 +3684,11 @@
                 {
                     "id":"satellite",
                     "amount":1
-                },
+                }
             ],
-        },
-        "time": 300,
-        "yield": 1000
+            "time": 300,
+            "yield": 1000
+        }
     },
     {
         "id":"speed-module",
