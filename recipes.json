@@ -3677,9 +3677,18 @@
         "wiki_link":"https://wiki.factorio.com/Space_science_pack",
         "recipe":{
             "ingredients":[
-
+                {
+                    "id":"rocket-part",
+                    "amount":100
+                },
+                {
+                    "id":"satellite",
+                    "amount":1
+                },
             ]
-        }
+        },
+        "time": 300,
+        "yield": 1000
     },
     {
         "id":"speed-module",
