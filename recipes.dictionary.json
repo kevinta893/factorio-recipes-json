@@ -1140,7 +1140,14 @@
         "type": "null",
         "wiki_link": "https://wiki.factorio.com/Empty_barrel",
         "recipe": {
-            "ingredients": []
+            "ingredients": [
+                {
+                    "id": "steel-plate",
+                    "amount": 1
+                }
+            ],
+            "time": 1,
+            "yield": 1
         }
     },
     "energy-shield": {
