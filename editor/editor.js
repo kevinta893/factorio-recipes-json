@@ -20,10 +20,12 @@ for (var i = 0 ; i < recipesList.length ; i++){
 //===============================================
 //TODO your code here
 
-
+//adds a new field for all items
 var newList = addNewEmptyProperty("category");
 dumpConsoleLogPretty(newList);
 writeJsonToFile("recipes_new.json", JSON.stringify(newList, null, 4));
+
+
 
 //Adds a new property to all recipes at the top level
 function addNewEmptyProperty(propertyName){
@@ -37,7 +39,7 @@ function addNewEmptyProperty(propertyName){
 }
 
 
-function writeJsonToFile(filename, data){
+function writeToFile(filename, data){
 	fs.writeFile(filename, data, "utf-8", function(err){
 		if (err){
 			console.log("Error writing to file: \n" + err);
