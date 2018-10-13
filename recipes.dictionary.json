@@ -22,7 +22,7 @@
     "active-provider-chest": {
         "id": "active-provider-chest",
         "name": "Active provider chest",
-        "type": "Machine",
+        "type": "Machinery",
         "wiki_link": "https://wiki.factorio.com/Active_provider_chest",
         "recipe": {
             "ingredients": [
@@ -162,7 +162,7 @@
     "artillery-wagon": {
         "id": "artillery-wagon",
         "name": "Artillery wagon",
-        "type": "Machine",
+        "type": "Machinery",
         "wiki_link": "https://wiki.factorio.com/Artillery_wagon",
         "recipe": {
             "ingredients": [
@@ -194,7 +194,7 @@
     "assembling-machine-1": {
         "id": "assembling-machine-1",
         "name": "Assembling machine 1",
-        "type": "Machine",
+        "type": "Machinery",
         "wiki_link": "https://wiki.factorio.com/Assembling_machine_1",
         "recipe": {
             "ingredients": [
@@ -218,7 +218,7 @@
     "assembling-machine-2": {
         "id": "assembling-machine-2",
         "name": "Assembling machine 2",
-        "type": "Machine",
+        "type": "Machinery",
         "wiki_link": "https://wiki.factorio.com/Assembling_machine_2",
         "recipe": {
             "ingredients": [
@@ -246,7 +246,7 @@
     "assembling-machine-3": {
         "id": "assembling-machine-3",
         "name": "Assembling machine 3",
-        "type": "Machine",
+        "type": "Machinery",
         "wiki_link": "https://wiki.factorio.com/Assembling_machine_3",
         "recipe": {
             "ingredients": [
@@ -382,7 +382,7 @@
     "big-electric-pole": {
         "id": "big-electric-pole",
         "name": "Big electric pole",
-        "type": "Machine",
+        "type": "Machinery",
         "wiki_link": "https://wiki.factorio.com/Big_electric_pole",
         "recipe": {
             "ingredients": [
@@ -402,7 +402,7 @@
     "blueprint": {
         "id": "blueprint",
         "name": "Blueprint",
-        "type": "Tool",
+        "type": "Tools",
         "wiki_link": "https://wiki.factorio.com/Blueprint",
         "recipe": {
             "ingredients": []
@@ -411,7 +411,7 @@
     "blueprint-book": {
         "id": "blueprint-book",
         "name": "Blueprint book",
-        "type": "Tool",
+        "type": "Tools",
         "wiki_link": "https://wiki.factorio.com/Blueprint_book",
         "recipe": {
             "ingredients": []
@@ -440,7 +440,7 @@
     "buffer-chest": {
         "id": "buffer-chest",
         "name": "Buffer chest",
-        "type": "Machine",
+        "type": "Machinery",
         "wiki_link": "https://wiki.factorio.com/Buffer_chest",
         "recipe": {
             "ingredients": [
@@ -464,7 +464,7 @@
     "burner-inserter": {
         "id": "burner-inserter",
         "name": "Burner inserter",
-        "type": "Machine",
+        "type": "Machinery",
         "wiki_link": "https://wiki.factorio.com/Burner_inserter",
         "recipe": {
             "ingredients": [
@@ -484,7 +484,7 @@
     "burner-mining-drill": {
         "id": "burner-mining-drill",
         "name": "Burner mining drill",
-        "type": "Machine",
+        "type": "Machinery",
         "wiki_link": "https://wiki.factorio.com/Burner_mining_drill",
         "recipe": {
             "ingredients": [
@@ -532,7 +532,7 @@
     "car": {
         "id": "car",
         "name": "Car",
-        "type": "Machine",
+        "type": "Machinery",
         "wiki_link": "https://wiki.factorio.com/Car",
         "recipe": {
             "ingredients": [
@@ -556,7 +556,7 @@
     "cargo-wagon": {
         "id": "cargo-wagon",
         "name": "Cargo wagon",
-        "type": "Machine",
+        "type": "Machinery",
         "wiki_link": "https://wiki.factorio.com/Cargo_wagon",
         "recipe": {
             "ingredients": [
@@ -580,7 +580,7 @@
     "centrifuge": {
         "id": "centrifuge",
         "name": "Centrifuge",
-        "type": "Machine",
+        "type": "Machinery",
         "wiki_link": "https://wiki.factorio.com/Centrifuge",
         "recipe": {
             "ingredients": [
@@ -608,7 +608,7 @@
     "chemical-plant": {
         "id": "chemical-plant",
         "name": "Chemical plant",
-        "type": "Machine",
+        "type": "Machinery",
         "wiki_link": "https://wiki.factorio.com/Chemical_plant",
         "recipe": {
             "ingredients": [
@@ -864,7 +864,7 @@
     "deconstruction-planner": {
         "id": "deconstruction-planner",
         "name": "Deconstruction planner",
-        "type": "Tool",
+        "type": "Tools",
         "wiki_link": "https://wiki.factorio.com/Deconstruction_planner",
         "recipe": {
             "ingredients": []
@@ -1093,7 +1093,7 @@
     "electric-mining-drill": {
         "id": "electric-mining-drill",
         "name": "Electric mining drill",
-        "type": "Machine",
+        "type": "Machinery",
         "wiki_link": "https://wiki.factorio.com/Electric_mining_drill",
         "recipe": {
             "ingredients": [
@@ -1329,7 +1329,7 @@
     "express-splitter": {
         "id": "express-splitter",
         "name": "Express splitter",
-        "type": "Machine",
+        "type": "Machinery",
         "wiki_link": "https://wiki.factorio.com/Express_splitter",
         "recipe": {
             "ingredients": [
@@ -1357,7 +1357,7 @@
     "express-transport-belt": {
         "id": "express-transport-belt",
         "name": "Express transport belt",
-        "type": "Machine",
+        "type": "Machinery",
         "wiki_link": "https://wiki.factorio.com/Express_transport_belt",
         "recipe": {
             "ingredients": [
@@ -1381,7 +1381,7 @@
     "express-underground-belt": {
         "id": "express-underground-belt",
         "name": "Express underground belt",
-        "type": "Machine",
+        "type": "Machinery",
         "wiki_link": "https://wiki.factorio.com/Express_underground_belt",
         "recipe": {
             "ingredients": [
@@ -1405,7 +1405,7 @@
     "fast-inserter": {
         "id": "fast-inserter",
         "name": "Fast inserter",
-        "type": "Machine",
+        "type": "Machinery",
         "wiki_link": "https://wiki.factorio.com/Fast_inserter",
         "recipe": {
             "ingredients": [
@@ -1429,7 +1429,7 @@
     "fast-splitter": {
         "id": "fast-splitter",
         "name": "Fast splitter",
-        "type": "Machine",
+        "type": "Machinery",
         "wiki_link": "https://wiki.factorio.com/Fast_splitter",
         "recipe": {
             "ingredients": [
@@ -1453,7 +1453,7 @@
     "fast-transport-belt": {
         "id": "fast-transport-belt",
         "name": "Fast transport belt",
-        "type": "Machine",
+        "type": "Machinery",
         "wiki_link": "https://wiki.factorio.com/Fast_transport_belt",
         "recipe": {
             "ingredients": [
@@ -1473,7 +1473,7 @@
     "fast-underground-belt": {
         "id": "fast-underground-belt",
         "name": "Fast underground belt",
-        "type": "Machine",
+        "type": "Machinery",
         "wiki_link": "https://wiki.factorio.com/Fast_underground_belt",
         "recipe": {
             "ingredients": [
@@ -1493,7 +1493,7 @@
     "filter-inserter": {
         "id": "filter-inserter",
         "name": "Filter inserter",
-        "type": "Machine",
+        "type": "Machinery",
         "wiki_link": "https://wiki.factorio.com/Filter_inserter",
         "recipe": {
             "ingredients": [
@@ -1601,7 +1601,7 @@
     "fluid-wagon": {
         "id": "fluid-wagon",
         "name": "Fluid wagon",
-        "type": "Machine",
+        "type": "Machinery",
         "wiki_link": "https://wiki.factorio.com/Fluid_wagon",
         "recipe": {
             "ingredients": [
@@ -1761,7 +1761,7 @@
     "heat-exchanger": {
         "id": "heat-exchanger",
         "name": "Heat exchanger",
-        "type": "Machine",
+        "type": "Machinery",
         "wiki_link": "https://wiki.factorio.com/Heat_exchanger",
         "recipe": {
             "ingredients": [
@@ -1785,7 +1785,7 @@
     "heat-pipe": {
         "id": "heat-pipe",
         "name": "Heat pipe",
-        "type": "Machine",
+        "type": "Machinery",
         "wiki_link": "https://wiki.factorio.com/Heat_pipe",
         "recipe": {
             "ingredients": [
@@ -1871,7 +1871,7 @@
     "inserter": {
         "id": "inserter",
         "name": "Inserter",
-        "type": "Machine",
+        "type": "Machinery",
         "wiki_link": "https://wiki.factorio.com/Inserter",
         "recipe": {
             "ingredients": [
@@ -1895,7 +1895,7 @@
     "iron-axe": {
         "id": "iron-axe",
         "name": "Iron axe",
-        "type": "Tool",
+        "type": "Tools",
         "wiki_link": "https://wiki.factorio.com/Iron_axe",
         "recipe": {
             "ingredients": [
@@ -1915,7 +1915,7 @@
     "iron-chest": {
         "id": "iron-chest",
         "name": "Iron chest",
-        "type": "Machine",
+        "type": "Machinery",
         "wiki_link": "https://wiki.factorio.com/Iron_chest",
         "recipe": {
             "ingredients": [
@@ -2007,7 +2007,7 @@
     "lab": {
         "id": "lab",
         "name": "Lab",
-        "type": "Machine",
+        "type": "Machinery",
         "wiki_link": "https://wiki.factorio.com/Lab",
         "recipe": {
             "ingredients": [
@@ -2149,7 +2149,7 @@
     "locomotive": {
         "id": "locomotive",
         "name": "Locomotive",
-        "type": "Machine",
+        "type": "Machinery",
         "wiki_link": "https://wiki.factorio.com/Locomotive",
         "recipe": {
             "ingredients": [
@@ -2193,7 +2193,7 @@
     "long-handed-inserter": {
         "id": "long-handed-inserter",
         "name": "Long handed inserter",
-        "type": "Machine",
+        "type": "Machinery",
         "wiki_link": "https://wiki.factorio.com/Long_handed_inserter",
         "recipe": {
             "ingredients": [
@@ -2266,7 +2266,7 @@
     "medium-electric-pole": {
         "id": "medium-electric-pole",
         "name": "Medium electric pole",
-        "type": "Machine",
+        "type": "Machinery",
         "wiki_link": "https://wiki.factorio.com/Medium_electric_pole",
         "recipe": {
             "ingredients": [
@@ -2389,7 +2389,7 @@
     "nuclear-reactor": {
         "id": "nuclear-reactor",
         "name": "Nuclear reactor",
-        "type": "Machine",
+        "type": "Machinery",
         "wiki_link": "https://wiki.factorio.com/Nuclear_reactor",
         "recipe": {
             "ingredients": [
@@ -2417,7 +2417,7 @@
     "offshore-pump": {
         "id": "offshore-pump",
         "name": "Offshore pump",
-        "type": "Machine",
+        "type": "Machinery",
         "wiki_link": "https://wiki.factorio.com/Offshore_pump",
         "recipe": {
             "ingredients": [
@@ -2441,7 +2441,7 @@
     "oil-refinery": {
         "id": "oil-refinery",
         "name": "Oil refinery",
-        "type": "Machine",
+        "type": "Machinery",
         "wiki_link": "https://wiki.factorio.com/Oil_refinery",
         "recipe": {
             "ingredients": [
@@ -2473,7 +2473,7 @@
     "passive-provider-chest": {
         "id": "passive-provider-chest",
         "name": "Passive provider chest",
-        "type": "Machine",
+        "type": "Machinery",
         "wiki_link": "https://wiki.factorio.com/Passive_provider_chest",
         "recipe": {
             "ingredients": [
@@ -2651,7 +2651,7 @@
     "pipe-to-ground": {
         "id": "pipe-to-ground",
         "name": "Pipe to ground",
-        "type": "Machine",
+        "type": "Machinery",
         "wiki_link": "https://wiki.factorio.com/Pipe_to_ground",
         "recipe": {
             "ingredients": [
@@ -2827,7 +2827,7 @@
     "power-switch": {
         "id": "power-switch",
         "name": "Power switch",
-        "type": "Machine",
+        "type": "Machinery",
         "wiki_link": "https://wiki.factorio.com/Power_switch",
         "recipe": {
             "ingredients": [
@@ -2987,7 +2987,7 @@
     "pump": {
         "id": "pump",
         "name": "Pump",
-        "type": "Machine",
+        "type": "Machinery",
         "wiki_link": "https://wiki.factorio.com/Pump",
         "recipe": {
             "ingredients": [
@@ -3011,7 +3011,7 @@
     "pumpjack": {
         "id": "pumpjack",
         "name": "Pumpjack",
-        "type": "Machine",
+        "type": "Machinery",
         "wiki_link": "https://wiki.factorio.com/Pumpjack",
         "recipe": {
             "ingredients": [
@@ -3039,7 +3039,7 @@
     "radar": {
         "id": "radar",
         "name": "Radar",
-        "type": "Machine",
+        "type": "Machinery",
         "wiki_link": "https://wiki.factorio.com/Radar",
         "recipe": {
             "ingredients": [
@@ -3087,7 +3087,7 @@
     "rail-chain-signal": {
         "id": "rail-chain-signal",
         "name": "Rail chain signal",
-        "type": "Machine",
+        "type": "Machinery",
         "wiki_link": "https://wiki.factorio.com/Rail_chain_signal",
         "recipe": {
             "ingredients": [
@@ -3107,7 +3107,7 @@
     "rail-signal": {
         "id": "rail-signal",
         "name": "Rail signal",
-        "type": "Machine",
+        "type": "Machinery",
         "wiki_link": "https://wiki.factorio.com/Rail_signal",
         "recipe": {
             "ingredients": [
@@ -3229,7 +3229,7 @@
     "requester-chest": {
         "id": "requester-chest",
         "name": "Requester chest",
-        "type": "Machine",
+        "type": "Machinery",
         "wiki_link": "https://wiki.factorio.com/Requester_chest",
         "recipe": {
             "ingredients": [
@@ -3253,7 +3253,7 @@
     "roboport": {
         "id": "roboport",
         "name": "Roboport",
-        "type": "Machine",
+        "type": "Machinery",
         "wiki_link": "https://wiki.factorio.com/Roboport",
         "recipe": {
             "ingredients": [
@@ -3321,7 +3321,7 @@
     "rocket-fuel": {
         "id": "rocket-fuel",
         "name": "Rocket fuel",
-        "type": "Intermediate products",
+        "type": "Intermediate product",
         "wiki_link": "https://wiki.factorio.com/Rocket_fuel",
         "recipe": {
             "ingredients": [
@@ -3385,7 +3385,7 @@
     "rocket-silo": {
         "id": "rocket-silo",
         "name": "Rocket silo",
-        "type": "Machine",
+        "type": "Machinery",
         "wiki_link": "https://wiki.factorio.com/Rocket_silo",
         "recipe": {
             "ingredients": [
@@ -3589,7 +3589,7 @@
     "small-electric-pole": {
         "id": "small-electric-pole",
         "name": "Small electric pole",
-        "type": "Machine",
+        "type": "Machinery",
         "wiki_link": "https://wiki.factorio.com/Small_electric_pole",
         "recipe": {
             "ingredients": [
@@ -3609,7 +3609,7 @@
     "solar-panel": {
         "id": "solar-panel",
         "name": "Solar panel",
-        "type": "Machine",
+        "type": "Machinery",
         "wiki_link": "https://wiki.factorio.com/Solar_panel",
         "recipe": {
             "ingredients": [
@@ -3645,7 +3645,18 @@
         "type": "Science pack",
         "wiki_link": "https://wiki.factorio.com/Space_science_pack",
         "recipe": {
-            "ingredients": []
+            "ingredients": [
+                {
+                    "id": "rocket-part",
+                    "amount": 100
+                },
+                {
+                    "id": "satellite",
+                    "amount": 1
+                }
+            ],
+            "time": 300,
+            "yield": 1000
         }
     },
     "speed-module": {
@@ -3719,7 +3730,7 @@
     "splitter": {
         "id": "splitter",
         "name": "Splitter",
-        "type": "Machine",
+        "type": "Machinery",
         "wiki_link": "https://wiki.factorio.com/Splitter",
         "recipe": {
             "ingredients": [
@@ -3743,7 +3754,7 @@
     "stack-filter-inserter": {
         "id": "stack-filter-inserter",
         "name": "Stack filter inserter",
-        "type": "Machine",
+        "type": "Machinery",
         "wiki_link": "https://wiki.factorio.com/Stack_filter_inserter",
         "recipe": {
             "ingredients": [
@@ -3763,7 +3774,7 @@
     "stack-inserter": {
         "id": "stack-inserter",
         "name": "Stack inserter",
-        "type": "Machine",
+        "type": "Machinery",
         "wiki_link": "https://wiki.factorio.com/Stack_inserter",
         "recipe": {
             "ingredients": [
@@ -3800,7 +3811,7 @@
     "steam-engine": {
         "id": "steam-engine",
         "name": "Steam engine",
-        "type": "Machine",
+        "type": "Machinery",
         "wiki_link": "https://wiki.factorio.com/Steam_engine",
         "recipe": {
             "ingredients": [
@@ -3824,7 +3835,7 @@
     "steam-turbine": {
         "id": "steam-turbine",
         "name": "Steam turbine",
-        "type": "Machine",
+        "type": "Machinery",
         "wiki_link": "https://wiki.factorio.com/Steam_turbine",
         "recipe": {
             "ingredients": [
@@ -3848,7 +3859,7 @@
     "steel-axe": {
         "id": "steel-axe",
         "name": "Steel axe",
-        "type": "Tool",
+        "type": "Tools",
         "wiki_link": "https://wiki.factorio.com/Steel_axe",
         "recipe": {
             "ingredients": [
@@ -3868,7 +3879,7 @@
     "steel-chest": {
         "id": "steel-chest",
         "name": "Steel chest",
-        "type": "Machine",
+        "type": "Machinery",
         "wiki_link": "https://wiki.factorio.com/Steel_chest",
         "recipe": {
             "ingredients": [
@@ -3945,7 +3956,7 @@
     "stone-furnace": {
         "id": "stone-furnace",
         "name": "Stone furnace",
-        "type": "Machine",
+        "type": "Machinery",
         "wiki_link": "https://wiki.factorio.com/Stone_furnace",
         "recipe": {
             "ingredients": [
@@ -3977,7 +3988,7 @@
     "storage-chest": {
         "id": "storage-chest",
         "name": "Storage chest",
-        "type": "Machine",
+        "type": "Machinery",
         "wiki_link": "https://wiki.factorio.com/Storage_chest",
         "recipe": {
             "ingredients": [
@@ -4001,7 +4012,7 @@
     "storage-tank": {
         "id": "storage-tank",
         "name": "Storage tank",
-        "type": "Machine",
+        "type": "Machinery",
         "wiki_link": "https://wiki.factorio.com/Storage_tank",
         "recipe": {
             "ingredients": [
@@ -4045,7 +4056,7 @@
     "substation": {
         "id": "substation",
         "name": "Substation",
-        "type": "Machine",
+        "type": "Machinery",
         "wiki_link": "https://wiki.factorio.com/Substation",
         "recipe": {
             "ingredients": [
@@ -4150,7 +4161,7 @@
     "train-stop": {
         "id": "train-stop",
         "name": "Train stop",
-        "type": "Machine",
+        "type": "Machinery",
         "wiki_link": "https://wiki.factorio.com/Train_stop",
         "recipe": {
             "ingredients": [
@@ -4174,7 +4185,7 @@
     "transport-belt": {
         "id": "transport-belt",
         "name": "Transport belt",
-        "type": "Machine",
+        "type": "Machinery",
         "wiki_link": "https://wiki.factorio.com/Transport_belt",
         "recipe": {
             "ingredients": [
@@ -4194,7 +4205,7 @@
     "underground-belt": {
         "id": "underground-belt",
         "name": "Underground belt",
-        "type": "Machine",
+        "type": "Machinery",
         "wiki_link": "https://wiki.factorio.com/Underground_belt",
         "recipe": {
             "ingredients": [
@@ -4378,7 +4389,7 @@
     "wooden-chest": {
         "id": "wooden-chest",
         "name": "Wooden chest",
-        "type": "Machine",
+        "type": "Machinery",
         "wiki_link": "https://wiki.factorio.com/Wooden_chest",
         "recipe": {
             "ingredients": [
