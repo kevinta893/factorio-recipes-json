@@ -46,6 +46,8 @@ for (var i = 1 ; i < csvRows.length ; i++){		//note: skip the first as it is the
 	else{
 		//recipe is empty, just filled with an empty recipe
 		recipeItem.recipe = {
+			time: null,
+			"yield": null,
 			ingredients: []
 		};
 	}
