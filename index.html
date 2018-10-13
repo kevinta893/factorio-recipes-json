@@ -118,6 +118,11 @@ $.getJSON("https://kevinta893.github.io/factorio-recipes-json/recipes.json", fun
 			return d.type;
 		});
 	recipeMeta.append("div")
+		.attr("class", "item-category")
+		.text(function(d){
+			return d.category;
+		});
+	recipeMeta.append("div")
 		.attr("class", "time-required")
 		.text(function(d){
 			return "Time=" + d.recipe.time;
