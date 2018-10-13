@@ -54,7 +54,7 @@ for (var i = 0 ; i < csvCollection.length ; i++){
 }
 console.log(fileData);
 
-writeToFile("recipes.csv", fileData);
+writeToFile("recipes_from_json.csv", fileData);
 
 
 

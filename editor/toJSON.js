@@ -24,8 +24,8 @@ for (var i = 1 ; i < csvRows.length ; i++){		//note: skip the first as it is the
 
 	if (rowSplit.length >= 5){
 		//entry is greater than 5 columns, has a recipe, otherwise leave blank
-		recipeItem.recipe.time = rowSplit[5];
-		recipeItem.recipe["yield"] = rowSplit[6];
+		recipeItem.recipe.time = parseFloat(rowSplit[5]);
+		recipeItem.recipe["yield"] = parseFloat(rowSplit[6]);
 		
 		//the rest of the row is ingredients, turn into list
 		recipeItem.recipe.ingredients = [];
@@ -37,7 +37,7 @@ for (var i = 1 ; i < csvRows.length ; i++){		//note: skip the first as it is the
 			var ingredientRaw = rowSplit[j].split(":");
 			var ingredientItem = {
 				id: ingredientRaw[0],
-				amount: ingredientRaw[1]
+				amount: parseFloat(ingredientRaw[1])
 			};
 			
 			recipeItem.recipe.ingredients.push(ingredientItem);

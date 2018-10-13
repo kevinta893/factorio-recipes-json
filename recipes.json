@@ -6,16 +6,16 @@
         "wiki_link": "https://wiki.factorio.com/Accumulator",
         "category": "Production",
         "recipe": {
-            "time": "10",
-            "yield": "1",
+            "time": 10,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "battery",
-                    "amount": "5"
+                    "amount": 5
                 },
                 {
                     "id": "iron-plate",
-                    "amount": "2"
+                    "amount": 2
                 }
             ]
         }
@@ -27,20 +27,20 @@
         "wiki_link": "https://wiki.factorio.com/Active_provider_chest",
         "category": "Logistics",
         "recipe": {
-            "time": "0.5",
-            "yield": "1",
+            "time": 0.5,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "advanced-circuit",
-                    "amount": "1"
+                    "amount": 1
                 },
                 {
                     "id": "electronic-circuit",
-                    "amount": "3"
+                    "amount": 3
                 },
                 {
                     "id": "steel-chest",
-                    "amount": "1"
+                    "amount": 1
                 }
             ]
         }
@@ -52,20 +52,20 @@
         "wiki_link": "https://wiki.factorio.com/Advanced_circuit",
         "category": "Intermediate product",
         "recipe": {
-            "time": "6",
-            "yield": "1",
+            "time": 6,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "copper-cable",
-                    "amount": "4"
+                    "amount": 4
                 },
                 {
                     "id": "electronic-circuit",
-                    "amount": "2"
+                    "amount": 2
                 },
                 {
                     "id": "plastic-bar",
-                    "amount": "2"
+                    "amount": 2
                 }
             ]
         }
@@ -77,16 +77,16 @@
         "wiki_link": "https://wiki.factorio.com/Arithmetic_combinator",
         "category": "Logistics",
         "recipe": {
-            "time": "0.5",
-            "yield": "1",
+            "time": 0.5,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "copper-cable",
-                    "amount": "5"
+                    "amount": 5
                 },
                 {
                     "id": "electronic-circuit",
-                    "amount": "5"
+                    "amount": 5
                 }
             ]
         }
@@ -98,20 +98,20 @@
         "wiki_link": "https://wiki.factorio.com/Artillery_shell",
         "category": "Combat",
         "recipe": {
-            "time": "15",
-            "yield": "1",
+            "time": 15,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "explosive-cannon-shell",
-                    "amount": "4"
+                    "amount": 4
                 },
                 {
                     "id": "explosives",
-                    "amount": "8"
+                    "amount": 8
                 },
                 {
                     "id": "radar",
-                    "amount": "1"
+                    "amount": 1
                 }
             ]
         }
@@ -123,16 +123,16 @@
         "wiki_link": "https://wiki.factorio.com/Artillery_targeting_remote",
         "category": "Combat",
         "recipe": {
-            "time": "0.5",
-            "yield": "1",
+            "time": 0.5,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "processing-unit",
-                    "amount": "1"
+                    "amount": 1
                 },
                 {
                     "id": "radar",
-                    "amount": "1"
+                    "amount": 1
                 }
             ]
         }
@@ -144,24 +144,24 @@
         "wiki_link": "https://wiki.factorio.com/Artillery_turret",
         "category": "Combat",
         "recipe": {
-            "time": "40",
-            "yield": "1",
+            "time": 40,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "advanced-circuit",
-                    "amount": "20"
+                    "amount": 20
                 },
                 {
                     "id": "concrete",
-                    "amount": "60"
+                    "amount": 60
                 },
                 {
                     "id": "iron-gear-wheel",
-                    "amount": "40"
+                    "amount": 40
                 },
                 {
                     "id": "steel-plate",
-                    "amount": "60"
+                    "amount": 60
                 }
             ]
         }
@@ -173,28 +173,28 @@
         "wiki_link": "https://wiki.factorio.com/Artillery_wagon",
         "category": "Logistics",
         "recipe": {
-            "time": "4",
-            "yield": "1",
+            "time": 4,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "advanced-circuit",
-                    "amount": "20"
+                    "amount": 20
                 },
                 {
                     "id": "engine-unit",
-                    "amount": "64"
+                    "amount": 64
                 },
                 {
                     "id": "iron-gear-wheel",
-                    "amount": "10"
+                    "amount": 10
                 },
                 {
                     "id": "pipe",
-                    "amount": "16"
+                    "amount": 16
                 },
                 {
                     "id": "steel-plate",
-                    "amount": "40"
+                    "amount": 40
                 }
             ]
         }
@@ -206,20 +206,20 @@
         "wiki_link": "https://wiki.factorio.com/Assembling_machine_1",
         "category": "Production",
         "recipe": {
-            "time": "0.5",
-            "yield": "1",
+            "time": 0.5,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "electronic-circuit",
-                    "amount": "3"
+                    "amount": 3
                 },
                 {
                     "id": "iron-gear-wheel",
-                    "amount": "5"
+                    "amount": 5
                 },
                 {
                     "id": "iron-plate",
-                    "amount": "9"
+                    "amount": 9
                 }
             ]
         }
@@ -231,24 +231,24 @@
         "wiki_link": "https://wiki.factorio.com/Assembling_machine_2",
         "category": "Production",
         "recipe": {
-            "time": "0.5",
-            "yield": "1",
+            "time": 0.5,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "assembling-machine-1",
-                    "amount": "1"
+                    "amount": 1
                 },
                 {
                     "id": "electronic-circuit",
-                    "amount": "3"
+                    "amount": 3
                 },
                 {
                     "id": "iron-gear-wheel",
-                    "amount": "5"
+                    "amount": 5
                 },
                 {
                     "id": "iron-plate",
-                    "amount": "9"
+                    "amount": 9
                 }
             ]
         }
@@ -260,16 +260,16 @@
         "wiki_link": "https://wiki.factorio.com/Assembling_machine_3",
         "category": "Production",
         "recipe": {
-            "time": "0.5",
-            "yield": "1",
+            "time": 0.5,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "assembling-machine-2",
-                    "amount": "2"
+                    "amount": 2
                 },
                 {
                     "id": "speed-module",
-                    "amount": "4"
+                    "amount": 4
                 }
             ]
         }
@@ -281,20 +281,20 @@
         "wiki_link": "https://wiki.factorio.com/Atomic_bomb",
         "category": "Combat",
         "recipe": {
-            "time": "50",
-            "yield": "1",
+            "time": 50,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "explosives",
-                    "amount": "10"
+                    "amount": 10
                 },
                 {
                     "id": "processing-unit",
-                    "amount": "20"
+                    "amount": 20
                 },
                 {
                     "id": "uranium-235",
-                    "amount": "30"
+                    "amount": 30
                 }
             ]
         }
@@ -306,20 +306,20 @@
         "wiki_link": "https://wiki.factorio.com/Battery",
         "category": "Intermediate product",
         "recipe": {
-            "time": "5",
-            "yield": "1",
+            "time": 5,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "copper-plate",
-                    "amount": "1"
+                    "amount": 1
                 },
                 {
                     "id": "iron-plate",
-                    "amount": "1"
+                    "amount": 1
                 },
                 {
                     "id": "sulfuric-acid",
-                    "amount": "20"
+                    "amount": 20
                 }
             ]
         }
@@ -331,16 +331,16 @@
         "wiki_link": "https://wiki.factorio.com/Battery_MK1",
         "category": "Combat",
         "recipe": {
-            "time": "10",
-            "yield": "1",
+            "time": 10,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "battery",
-                    "amount": "5"
+                    "amount": 5
                 },
                 {
                     "id": "steel-plate",
-                    "amount": "10"
+                    "amount": 10
                 }
             ]
         }
@@ -352,16 +352,16 @@
         "wiki_link": "https://wiki.factorio.com/Battery_MK2",
         "category": "Combat",
         "recipe": {
-            "time": "10",
-            "yield": "1",
+            "time": 10,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "battery-mk1",
-                    "amount": "10"
+                    "amount": 10
                 },
                 {
                     "id": "processing-unit",
-                    "amount": "20"
+                    "amount": 20
                 }
             ]
         }
@@ -373,24 +373,24 @@
         "wiki_link": "https://wiki.factorio.com/Beacon",
         "category": "Logistics",
         "recipe": {
-            "time": "15",
-            "yield": "1",
+            "time": 15,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "advanced-circuit",
-                    "amount": "20"
+                    "amount": 20
                 },
                 {
                     "id": "copper-cable",
-                    "amount": "10"
+                    "amount": 10
                 },
                 {
                     "id": "electronic-circuit",
-                    "amount": "20"
+                    "amount": 20
                 },
                 {
                     "id": "steel-plate",
-                    "amount": "10"
+                    "amount": 10
                 }
             ]
         }
@@ -402,16 +402,16 @@
         "wiki_link": "https://wiki.factorio.com/Big_electric_pole",
         "category": "Logistics",
         "recipe": {
-            "time": "0.5",
-            "yield": "1",
+            "time": 0.5,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "copper-plate",
-                    "amount": "5"
+                    "amount": 5
                 },
                 {
                     "id": "steel-plate",
-                    "amount": "5"
+                    "amount": 5
                 }
             ]
         }
@@ -423,8 +423,8 @@
         "wiki_link": "https://wiki.factorio.com/Blueprint",
         "category": "Production",
         "recipe": {
-            "time": "",
-            "yield": "",
+            "time": null,
+            "yield": null,
             "ingredients": []
         }
     },
@@ -435,8 +435,8 @@
         "wiki_link": "https://wiki.factorio.com/Blueprint_book",
         "category": "Production",
         "recipe": {
-            "time": "",
-            "yield": "",
+            "time": null,
+            "yield": null,
             "ingredients": []
         }
     },
@@ -447,16 +447,16 @@
         "wiki_link": "https://wiki.factorio.com/Boiler",
         "category": "Production",
         "recipe": {
-            "time": "0.5",
-            "yield": "1",
+            "time": 0.5,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "pipe",
-                    "amount": "4"
+                    "amount": 4
                 },
                 {
                     "id": "stone-furnace",
-                    "amount": "1"
+                    "amount": 1
                 }
             ]
         }
@@ -468,20 +468,20 @@
         "wiki_link": "https://wiki.factorio.com/Buffer_chest",
         "category": "Logistics",
         "recipe": {
-            "time": "0.5",
-            "yield": "1",
+            "time": 0.5,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "advanced-circuit",
-                    "amount": "1"
+                    "amount": 1
                 },
                 {
                     "id": "electronic-circuit",
-                    "amount": "3"
+                    "amount": 3
                 },
                 {
                     "id": "steel-chest",
-                    "amount": "1"
+                    "amount": 1
                 }
             ]
         }
@@ -493,16 +493,16 @@
         "wiki_link": "https://wiki.factorio.com/Burner_inserter",
         "category": "Logistics",
         "recipe": {
-            "time": "0.5",
-            "yield": "1",
+            "time": 0.5,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "iron-gear-wheel",
-                    "amount": "1"
+                    "amount": 1
                 },
                 {
                     "id": "iron-plate",
-                    "amount": "1"
+                    "amount": 1
                 }
             ]
         }
@@ -514,20 +514,20 @@
         "wiki_link": "https://wiki.factorio.com/Burner_mining_drill",
         "category": "Production",
         "recipe": {
-            "time": "4",
-            "yield": "1",
+            "time": 4,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "iron-gear-wheel",
-                    "amount": "3"
+                    "amount": 3
                 },
                 {
                     "id": "iron-plate",
-                    "amount": "3"
+                    "amount": 3
                 },
                 {
                     "id": "stone-furnace",
-                    "amount": "1"
+                    "amount": 1
                 }
             ]
         }
@@ -539,20 +539,20 @@
         "wiki_link": "https://wiki.factorio.com/Cannon_shell",
         "category": "Combat",
         "recipe": {
-            "time": "8",
-            "yield": "1",
+            "time": 8,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "explosives",
-                    "amount": "1"
+                    "amount": 1
                 },
                 {
                     "id": "plastic-bar",
-                    "amount": "2"
+                    "amount": 2
                 },
                 {
                     "id": "steel-plate",
-                    "amount": "2"
+                    "amount": 2
                 }
             ]
         }
@@ -564,20 +564,20 @@
         "wiki_link": "https://wiki.factorio.com/Car",
         "category": "Logistics",
         "recipe": {
-            "time": "2",
-            "yield": "1",
+            "time": 2,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "engine-unit",
-                    "amount": "8"
+                    "amount": 8
                 },
                 {
                     "id": "iron-plate",
-                    "amount": "20"
+                    "amount": 20
                 },
                 {
                     "id": "steel-plate",
-                    "amount": "5"
+                    "amount": 5
                 }
             ]
         }
@@ -589,20 +589,20 @@
         "wiki_link": "https://wiki.factorio.com/Cargo_wagon",
         "category": "Logistics",
         "recipe": {
-            "time": "1",
-            "yield": "1",
+            "time": 1,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "iron-gear-wheel",
-                    "amount": "10"
+                    "amount": 10
                 },
                 {
                     "id": "iron-plate",
-                    "amount": "20"
+                    "amount": 20
                 },
                 {
                     "id": "steel-plate",
-                    "amount": "20"
+                    "amount": 20
                 }
             ]
         }
@@ -614,24 +614,24 @@
         "wiki_link": "https://wiki.factorio.com/Centrifuge",
         "category": "Production",
         "recipe": {
-            "time": "4",
-            "yield": "1",
+            "time": 4,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "advanced-circuit",
-                    "amount": "100"
+                    "amount": 100
                 },
                 {
                     "id": "concrete",
-                    "amount": "100"
+                    "amount": 100
                 },
                 {
                     "id": "iron-gear-wheel",
-                    "amount": "100"
+                    "amount": 100
                 },
                 {
                     "id": "steel-plate",
-                    "amount": "50"
+                    "amount": 50
                 }
             ]
         }
@@ -643,24 +643,24 @@
         "wiki_link": "https://wiki.factorio.com/Chemical_plant",
         "category": "Production",
         "recipe": {
-            "time": "5",
-            "yield": "1",
+            "time": 5,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "electronic-circuit",
-                    "amount": "5"
+                    "amount": 5
                 },
                 {
                     "id": "iron-gear-wheel",
-                    "amount": "5"
+                    "amount": 5
                 },
                 {
                     "id": "pipe",
-                    "amount": "5"
+                    "amount": 5
                 },
                 {
                     "id": "steel-plate",
-                    "amount": "5"
+                    "amount": 5
                 }
             ]
         }
@@ -672,20 +672,20 @@
         "wiki_link": "https://wiki.factorio.com/Cliff_explosives",
         "category": "Logistics",
         "recipe": {
-            "time": "8",
-            "yield": "1",
+            "time": 8,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "empty-barrel",
-                    "amount": "1"
+                    "amount": 1
                 },
                 {
                     "id": "explosives",
-                    "amount": "10"
+                    "amount": 10
                 },
                 {
                     "id": "grenade",
-                    "amount": "1"
+                    "amount": 1
                 }
             ]
         }
@@ -697,20 +697,20 @@
         "wiki_link": "https://wiki.factorio.com/Cluster_grenade",
         "category": "Combat",
         "recipe": {
-            "time": "8",
-            "yield": "1",
+            "time": 8,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "explosives",
-                    "amount": "5"
+                    "amount": 5
                 },
                 {
                     "id": "grenade",
-                    "amount": "7"
+                    "amount": 7
                 },
                 {
                     "id": "steel-plate",
-                    "amount": "5"
+                    "amount": 5
                 }
             ]
         }
@@ -722,8 +722,8 @@
         "wiki_link": "https://wiki.factorio.com/Coal",
         "category": "Intermediate product",
         "recipe": {
-            "time": "",
-            "yield": "",
+            "time": null,
+            "yield": null,
             "ingredients": []
         }
     },
@@ -734,24 +734,24 @@
         "wiki_link": "https://wiki.factorio.com/Combat_shotgun",
         "category": "Combat",
         "recipe": {
-            "time": "10",
-            "yield": "1",
+            "time": 10,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "copper-plate",
-                    "amount": "10"
+                    "amount": 10
                 },
                 {
                     "id": "iron-gear-wheel",
-                    "amount": "5"
+                    "amount": 5
                 },
                 {
                     "id": "steel-plate",
-                    "amount": "15"
+                    "amount": 15
                 },
                 {
                     "id": "wood",
-                    "amount": "10"
+                    "amount": 10
                 }
             ]
         }
@@ -763,20 +763,20 @@
         "wiki_link": "https://wiki.factorio.com/Concrete",
         "category": "Logistics",
         "recipe": {
-            "time": "10",
-            "yield": "10",
+            "time": 10,
+            "yield": 10,
             "ingredients": [
                 {
                     "id": "iron-ore",
-                    "amount": "1"
+                    "amount": 1
                 },
                 {
                     "id": "stone-brick",
-                    "amount": "5"
+                    "amount": 5
                 },
                 {
                     "id": "water",
-                    "amount": "100"
+                    "amount": 100
                 }
             ]
         }
@@ -788,16 +788,16 @@
         "wiki_link": "https://wiki.factorio.com/Constant_combinator",
         "category": "Logistics",
         "recipe": {
-            "time": "0.5",
-            "yield": "1",
+            "time": 0.5,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "copper-cable",
-                    "amount": "5"
+                    "amount": 5
                 },
                 {
                     "id": "electronic-circuit",
-                    "amount": "2"
+                    "amount": 2
                 }
             ]
         }
@@ -809,16 +809,16 @@
         "wiki_link": "https://wiki.factorio.com/Construction_robot",
         "category": "Logistics",
         "recipe": {
-            "time": "0.5",
-            "yield": "1",
+            "time": 0.5,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "electronic-circuit",
-                    "amount": "2"
+                    "amount": 2
                 },
                 {
                     "id": "flying-robot-frame",
-                    "amount": "1"
+                    "amount": 1
                 }
             ]
         }
@@ -830,12 +830,12 @@
         "wiki_link": "https://wiki.factorio.com/Copper_cable",
         "category": "Intermediate product",
         "recipe": {
-            "time": "0.5",
-            "yield": "2",
+            "time": 0.5,
+            "yield": 2,
             "ingredients": [
                 {
                     "id": "copper-plate",
-                    "amount": "1"
+                    "amount": 1
                 }
             ]
         }
@@ -847,8 +847,8 @@
         "wiki_link": "https://wiki.factorio.com/Copper_ore",
         "category": "Intermediate product",
         "recipe": {
-            "time": "",
-            "yield": "",
+            "time": null,
+            "yield": null,
             "ingredients": []
         }
     },
@@ -859,12 +859,12 @@
         "wiki_link": "https://wiki.factorio.com/Copper_plate",
         "category": "Intermediate product",
         "recipe": {
-            "time": "3.5",
-            "yield": "1",
+            "time": 3.5,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "copper-ore",
-                    "amount": "1"
+                    "amount": 1
                 }
             ]
         }
@@ -876,8 +876,8 @@
         "wiki_link": "https://wiki.factorio.com/Crude_oil",
         "category": "Intermediate product",
         "recipe": {
-            "time": "",
-            "yield": "",
+            "time": null,
+            "yield": null,
             "ingredients": []
         }
     },
@@ -888,8 +888,8 @@
         "wiki_link": "https://wiki.factorio.com/Crude_oil_barrel",
         "category": "Intermediate product",
         "recipe": {
-            "time": "",
-            "yield": "",
+            "time": null,
+            "yield": null,
             "ingredients": []
         }
     },
@@ -900,16 +900,16 @@
         "wiki_link": "https://wiki.factorio.com/Decider_combinator",
         "category": "Logistics",
         "recipe": {
-            "time": "0.5",
-            "yield": "1",
+            "time": 0.5,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "copper-cable",
-                    "amount": "5"
+                    "amount": 5
                 },
                 {
                     "id": "electronic-circuit",
-                    "amount": "5"
+                    "amount": 5
                 }
             ]
         }
@@ -921,8 +921,8 @@
         "wiki_link": "https://wiki.factorio.com/Deconstruction_planner",
         "category": "category_TODO",
         "recipe": {
-            "time": "",
-            "yield": "",
+            "time": null,
+            "yield": null,
             "ingredients": []
         }
     },
@@ -933,20 +933,20 @@
         "wiki_link": "https://wiki.factorio.com/Defender_capsule",
         "category": "Combat",
         "recipe": {
-            "time": "8",
-            "yield": "1",
+            "time": 8,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "electronic-circuit",
-                    "amount": "2"
+                    "amount": 2
                 },
                 {
                     "id": "iron-gear-wheel",
-                    "amount": "3"
+                    "amount": 3
                 },
                 {
                     "id": "piercing-rounds-magazine",
-                    "amount": "1"
+                    "amount": 1
                 }
             ]
         }
@@ -958,16 +958,16 @@
         "wiki_link": "https://wiki.factorio.com/Destroyer_capsule",
         "category": "Combat",
         "recipe": {
-            "time": "15",
-            "yield": "1",
+            "time": 15,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "distractor-capsule",
-                    "amount": "4"
+                    "amount": 4
                 },
                 {
                     "id": "speed-module",
-                    "amount": "1"
+                    "amount": 1
                 }
             ]
         }
@@ -979,20 +979,20 @@
         "wiki_link": "https://wiki.factorio.com/Discharge_defense",
         "category": "Combat",
         "recipe": {
-            "time": "10",
-            "yield": "1",
+            "time": 10,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "laser-turret",
-                    "amount": "10"
+                    "amount": 10
                 },
                 {
                     "id": "processing-unit",
-                    "amount": "5"
+                    "amount": 5
                 },
                 {
                     "id": "steel-plate",
-                    "amount": "20"
+                    "amount": 20
                 }
             ]
         }
@@ -1004,12 +1004,12 @@
         "wiki_link": "https://wiki.factorio.com/Discharge_defense_remote",
         "category": "Combat",
         "recipe": {
-            "time": "0.5",
-            "yield": "1",
+            "time": 0.5,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "electronic-circuit",
-                    "amount": "1"
+                    "amount": 1
                 }
             ]
         }
@@ -1021,16 +1021,16 @@
         "wiki_link": "https://wiki.factorio.com/Distractor_capsule",
         "category": "Combat",
         "recipe": {
-            "time": "15",
-            "yield": "1",
+            "time": 15,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "advanced-circuit",
-                    "amount": "3"
+                    "amount": 3
                 },
                 {
                     "id": "defender-capsule",
-                    "amount": "4"
+                    "amount": 4
                 }
             ]
         }
@@ -1042,16 +1042,16 @@
         "wiki_link": "https://wiki.factorio.com/Efficiency_module",
         "category": "Production",
         "recipe": {
-            "time": "15",
-            "yield": "1",
+            "time": 15,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "advanced-circuit",
-                    "amount": "5"
+                    "amount": 5
                 },
                 {
                     "id": "electronic-circuit",
-                    "amount": "5"
+                    "amount": 5
                 }
             ]
         }
@@ -1063,20 +1063,20 @@
         "wiki_link": "https://wiki.factorio.com/Efficiency_module_2",
         "category": "Production",
         "recipe": {
-            "time": "30",
-            "yield": "1",
+            "time": 30,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "advanced-circuit",
-                    "amount": "5"
+                    "amount": 5
                 },
                 {
                     "id": "efficiency-module",
-                    "amount": "4"
+                    "amount": 4
                 },
                 {
                     "id": "processing-unit",
-                    "amount": "5"
+                    "amount": 5
                 }
             ]
         }
@@ -1088,20 +1088,20 @@
         "wiki_link": "https://wiki.factorio.com/Efficiency_module_3",
         "category": "Production",
         "recipe": {
-            "time": "60",
-            "yield": "1",
+            "time": 60,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "advanced-circuit",
-                    "amount": "5"
+                    "amount": 5
                 },
                 {
                     "id": "efficiency-module-2",
-                    "amount": "5"
+                    "amount": 5
                 },
                 {
                     "id": "processing-unit",
-                    "amount": "5"
+                    "amount": 5
                 }
             ]
         }
@@ -1113,20 +1113,20 @@
         "wiki_link": "https://wiki.factorio.com/Electric_engine_unit",
         "category": "Intermediate product",
         "recipe": {
-            "time": "10",
-            "yield": "1",
+            "time": 10,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "electronic-circuit",
-                    "amount": "2"
+                    "amount": 2
                 },
                 {
                     "id": "engine-unit",
-                    "amount": "1"
+                    "amount": 1
                 },
                 {
                     "id": "lubricant",
-                    "amount": "15"
+                    "amount": 15
                 }
             ]
         }
@@ -1138,20 +1138,20 @@
         "wiki_link": "https://wiki.factorio.com/Electric_furnace",
         "category": "Production",
         "recipe": {
-            "time": "5",
-            "yield": "1",
+            "time": 5,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "advanced-circuit",
-                    "amount": "5"
+                    "amount": 5
                 },
                 {
                     "id": "steel-plate",
-                    "amount": "10"
+                    "amount": 10
                 },
                 {
                     "id": "stone-brick",
-                    "amount": "10"
+                    "amount": 10
                 }
             ]
         }
@@ -1163,20 +1163,20 @@
         "wiki_link": "https://wiki.factorio.com/Electric_mining_drill",
         "category": "Production",
         "recipe": {
-            "time": "2",
-            "yield": "1",
+            "time": 2,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "electronic-circuit",
-                    "amount": "3"
+                    "amount": 3
                 },
                 {
                     "id": "iron-gear-wheel",
-                    "amount": "5"
+                    "amount": 5
                 },
                 {
                     "id": "iron-plate",
-                    "amount": "10"
+                    "amount": 10
                 }
             ]
         }
@@ -1188,16 +1188,16 @@
         "wiki_link": "https://wiki.factorio.com/Electronic_circuit",
         "category": "Intermediate product",
         "recipe": {
-            "time": "0.5",
-            "yield": "1",
+            "time": 0.5,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "copper-cable",
-                    "amount": "3"
+                    "amount": 3
                 },
                 {
                     "id": "iron-plate",
-                    "amount": "1"
+                    "amount": 1
                 }
             ]
         }
@@ -1209,12 +1209,12 @@
         "wiki_link": "https://wiki.factorio.com/Empty_barrel",
         "category": "Intermediate product",
         "recipe": {
-            "time": "1",
-            "yield": "1",
+            "time": 1,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "steel-plate",
-                    "amount": "1"
+                    "amount": 1
                 }
             ]
         }
@@ -1226,16 +1226,16 @@
         "wiki_link": "https://wiki.factorio.com/Energy_shield",
         "category": "Combat",
         "recipe": {
-            "time": "10",
-            "yield": "1",
+            "time": 10,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "advanced-circuit",
-                    "amount": "5"
+                    "amount": 5
                 },
                 {
                     "id": "steel-plate",
-                    "amount": "10"
+                    "amount": 10
                 }
             ]
         }
@@ -1247,16 +1247,16 @@
         "wiki_link": "https://wiki.factorio.com/Energy_shield_MK2",
         "category": "Combat",
         "recipe": {
-            "time": "10",
-            "yield": "1",
+            "time": 10,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "energy-shield",
-                    "amount": "10"
+                    "amount": 10
                 },
                 {
                     "id": "processing-unit",
-                    "amount": "10"
+                    "amount": 10
                 }
             ]
         }
@@ -1268,20 +1268,20 @@
         "wiki_link": "https://wiki.factorio.com/Engine_unit",
         "category": "Intermediate product",
         "recipe": {
-            "time": "10",
-            "yield": "1",
+            "time": 10,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "iron-gear-wheel",
-                    "amount": "1"
+                    "amount": 1
                 },
                 {
                     "id": "pipe",
-                    "amount": "2"
+                    "amount": 2
                 },
                 {
                     "id": "steel-plate",
-                    "amount": "1"
+                    "amount": 1
                 }
             ]
         }
@@ -1293,20 +1293,20 @@
         "wiki_link": "https://wiki.factorio.com/Exoskeleton",
         "category": "Combat",
         "recipe": {
-            "time": "10",
-            "yield": "1",
+            "time": 10,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "electric-engine-unit",
-                    "amount": "30"
+                    "amount": 30
                 },
                 {
                     "id": "processing-unit",
-                    "amount": "10"
+                    "amount": 10
                 },
                 {
                     "id": "steel-plate",
-                    "amount": "20"
+                    "amount": 20
                 }
             ]
         }
@@ -1318,20 +1318,20 @@
         "wiki_link": "https://wiki.factorio.com/Explosive_cannon_shell",
         "category": "Combat",
         "recipe": {
-            "time": "8",
-            "yield": "1",
+            "time": 8,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "explosives",
-                    "amount": "2"
+                    "amount": 2
                 },
                 {
                     "id": "plastic-bar",
-                    "amount": "2"
+                    "amount": 2
                 },
                 {
                     "id": "steel-plate",
-                    "amount": "2"
+                    "amount": 2
                 }
             ]
         }
@@ -1343,16 +1343,16 @@
         "wiki_link": "https://wiki.factorio.com/Explosive_rocket",
         "category": "Combat",
         "recipe": {
-            "time": "8",
-            "yield": "1",
+            "time": 8,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "explosives",
-                    "amount": "2"
+                    "amount": 2
                 },
                 {
                     "id": "rocket",
-                    "amount": "1"
+                    "amount": 1
                 }
             ]
         }
@@ -1364,16 +1364,16 @@
         "wiki_link": "https://wiki.factorio.com/Explosive_uranium_cannon_shell",
         "category": "Combat",
         "recipe": {
-            "time": "12",
-            "yield": "1",
+            "time": 12,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "explosive-cannon-shell",
-                    "amount": "1"
+                    "amount": 1
                 },
                 {
                     "id": "uranium-238",
-                    "amount": "1"
+                    "amount": 1
                 }
             ]
         }
@@ -1385,20 +1385,20 @@
         "wiki_link": "https://wiki.factorio.com/Explosives",
         "category": "Intermediate product",
         "recipe": {
-            "time": "5",
-            "yield": "2",
+            "time": 5,
+            "yield": 2,
             "ingredients": [
                 {
                     "id": "coal",
-                    "amount": "1"
+                    "amount": 1
                 },
                 {
                     "id": "sulfur",
-                    "amount": "1"
+                    "amount": 1
                 },
                 {
                     "id": "water",
-                    "amount": "10"
+                    "amount": 10
                 }
             ]
         }
@@ -1410,24 +1410,24 @@
         "wiki_link": "https://wiki.factorio.com/Express_splitter",
         "category": "Logistics",
         "recipe": {
-            "time": "2",
-            "yield": "1",
+            "time": 2,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "advanced-circuit",
-                    "amount": "10"
+                    "amount": 10
                 },
                 {
                     "id": "fast-splitter",
-                    "amount": "1"
+                    "amount": 1
                 },
                 {
                     "id": "iron-gear-wheel",
-                    "amount": "10"
+                    "amount": 10
                 },
                 {
                     "id": "lubricant",
-                    "amount": "80"
+                    "amount": 80
                 }
             ]
         }
@@ -1439,20 +1439,20 @@
         "wiki_link": "https://wiki.factorio.com/Express_transport_belt",
         "category": "Logistics",
         "recipe": {
-            "time": "0.5",
-            "yield": "1",
+            "time": 0.5,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "fast-transport-belt",
-                    "amount": "1"
+                    "amount": 1
                 },
                 {
                     "id": "iron-gear-wheel",
-                    "amount": "10"
+                    "amount": 10
                 },
                 {
                     "id": "lubricant",
-                    "amount": "20"
+                    "amount": 20
                 }
             ]
         }
@@ -1464,20 +1464,20 @@
         "wiki_link": "https://wiki.factorio.com/Express_underground_belt",
         "category": "Logistics",
         "recipe": {
-            "time": "2",
-            "yield": "2",
+            "time": 2,
+            "yield": 2,
             "ingredients": [
                 {
                     "id": "fast-underground-belt",
-                    "amount": "2"
+                    "amount": 2
                 },
                 {
                     "id": "iron-gear-wheel",
-                    "amount": "80"
+                    "amount": 80
                 },
                 {
                     "id": "lubricant",
-                    "amount": "40"
+                    "amount": 40
                 }
             ]
         }
@@ -1489,20 +1489,20 @@
         "wiki_link": "https://wiki.factorio.com/Fast_inserter",
         "category": "Logistics",
         "recipe": {
-            "time": "0.5",
-            "yield": "1",
+            "time": 0.5,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "electronic-circuit",
-                    "amount": "2"
+                    "amount": 2
                 },
                 {
                     "id": "inserter",
-                    "amount": "1"
+                    "amount": 1
                 },
                 {
                     "id": "iron-plate",
-                    "amount": "2"
+                    "amount": 2
                 }
             ]
         }
@@ -1514,20 +1514,20 @@
         "wiki_link": "https://wiki.factorio.com/Fast_splitter",
         "category": "Logistics",
         "recipe": {
-            "time": "2",
-            "yield": "1",
+            "time": 2,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "electronic-circuit",
-                    "amount": "10"
+                    "amount": 10
                 },
                 {
                     "id": "iron-gear-wheel",
-                    "amount": "10"
+                    "amount": 10
                 },
                 {
                     "id": "splitter",
-                    "amount": "1"
+                    "amount": 1
                 }
             ]
         }
@@ -1539,16 +1539,16 @@
         "wiki_link": "https://wiki.factorio.com/Fast_transport_belt",
         "category": "Logistics",
         "recipe": {
-            "time": "0.5",
-            "yield": "1",
+            "time": 0.5,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "iron-gear-wheel",
-                    "amount": "5"
+                    "amount": 5
                 },
                 {
                     "id": "transport-belt",
-                    "amount": "1"
+                    "amount": 1
                 }
             ]
         }
@@ -1560,16 +1560,16 @@
         "wiki_link": "https://wiki.factorio.com/Fast_underground_belt",
         "category": "Logistics",
         "recipe": {
-            "time": "2",
-            "yield": "2",
+            "time": 2,
+            "yield": 2,
             "ingredients": [
                 {
                     "id": "iron-gear-wheel",
-                    "amount": "40"
+                    "amount": 40
                 },
                 {
                     "id": "underground-belt",
-                    "amount": "2"
+                    "amount": 2
                 }
             ]
         }
@@ -1581,16 +1581,16 @@
         "wiki_link": "https://wiki.factorio.com/Filter_inserter",
         "category": "Logistics",
         "recipe": {
-            "time": "0.5",
-            "yield": "1",
+            "time": 0.5,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "electronic-circuit",
-                    "amount": "4"
+                    "amount": 4
                 },
                 {
                     "id": "fast-inserter",
-                    "amount": "1"
+                    "amount": 1
                 }
             ]
         }
@@ -1602,12 +1602,12 @@
         "wiki_link": "https://wiki.factorio.com/Firearm_magazine",
         "category": "Combat",
         "recipe": {
-            "time": "1",
-            "yield": "1",
+            "time": 1,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "iron-plate",
-                    "amount": "4"
+                    "amount": 4
                 }
             ]
         }
@@ -1619,16 +1619,16 @@
         "wiki_link": "https://wiki.factorio.com/Flamethrower",
         "category": "Combat",
         "recipe": {
-            "time": "10",
-            "yield": "1",
+            "time": 10,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "iron-gear-wheel",
-                    "amount": "10"
+                    "amount": 10
                 },
                 {
                     "id": "steel-plate",
-                    "amount": "5"
+                    "amount": 5
                 }
             ]
         }
@@ -1640,20 +1640,20 @@
         "wiki_link": "https://wiki.factorio.com/Flamethrower_ammo",
         "category": "Combat",
         "recipe": {
-            "time": "6",
-            "yield": "1",
+            "time": 6,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "heavy-oil",
-                    "amount": "50"
+                    "amount": 50
                 },
                 {
                     "id": "light-oil",
-                    "amount": "50"
+                    "amount": 50
                 },
                 {
                     "id": "steel-plate",
-                    "amount": "5"
+                    "amount": 5
                 }
             ]
         }
@@ -1665,24 +1665,24 @@
         "wiki_link": "https://wiki.factorio.com/Flamethrower_turret",
         "category": "Combat",
         "recipe": {
-            "time": "20",
-            "yield": "1",
+            "time": 20,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "engine-unit",
-                    "amount": "5"
+                    "amount": 5
                 },
                 {
                     "id": "iron-gear-wheel",
-                    "amount": "15"
+                    "amount": 15
                 },
                 {
                     "id": "pipe",
-                    "amount": "10"
+                    "amount": 10
                 },
                 {
                     "id": "steel-plate",
-                    "amount": "30"
+                    "amount": 30
                 }
             ]
         }
@@ -1694,24 +1694,24 @@
         "wiki_link": "https://wiki.factorio.com/Fluid_wagon",
         "category": "Logistics",
         "recipe": {
-            "time": "1.5",
-            "yield": "1",
+            "time": 1.5,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "iron-gear-wheel",
-                    "amount": "10"
+                    "amount": 10
                 },
                 {
                     "id": "pipe",
-                    "amount": "8"
+                    "amount": 8
                 },
                 {
                     "id": "steel-plate",
-                    "amount": "16"
+                    "amount": 16
                 },
                 {
                     "id": "storage-tank",
-                    "amount": "1"
+                    "amount": 1
                 }
             ]
         }
@@ -1723,24 +1723,24 @@
         "wiki_link": "https://wiki.factorio.com/Flying_robot_frame",
         "category": "Intermediate product",
         "recipe": {
-            "time": "20",
-            "yield": "1",
+            "time": 20,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "battery",
-                    "amount": "2"
+                    "amount": 2
                 },
                 {
                     "id": "electric-engine-unit",
-                    "amount": "1"
+                    "amount": 1
                 },
                 {
                     "id": "electronic-circuit",
-                    "amount": "3"
+                    "amount": 3
                 },
                 {
                     "id": "steel-plate",
-                    "amount": "1"
+                    "amount": 1
                 }
             ]
         }
@@ -1752,20 +1752,20 @@
         "wiki_link": "https://wiki.factorio.com/Gate",
         "category": "Combat",
         "recipe": {
-            "time": "0.5",
-            "yield": "1",
+            "time": 0.5,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "electronic-circuit",
-                    "amount": "2"
+                    "amount": 2
                 },
                 {
                     "id": "steel-plate",
-                    "amount": "2"
+                    "amount": 2
                 },
                 {
                     "id": "stone-wall",
-                    "amount": "1"
+                    "amount": 1
                 }
             ]
         }
@@ -1777,16 +1777,16 @@
         "wiki_link": "https://wiki.factorio.com/Green_wire",
         "category": "Logistics",
         "recipe": {
-            "time": "0.5",
-            "yield": "1",
+            "time": 0.5,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "copper-cable",
-                    "amount": "1"
+                    "amount": 1
                 },
                 {
                     "id": "electronic-circuit",
-                    "amount": "1"
+                    "amount": 1
                 }
             ]
         }
@@ -1798,16 +1798,16 @@
         "wiki_link": "https://wiki.factorio.com/Grenade",
         "category": "Combat",
         "recipe": {
-            "time": "8",
-            "yield": "1",
+            "time": 8,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "coal",
-                    "amount": "10"
+                    "amount": 10
                 },
                 {
                     "id": "iron-plate",
-                    "amount": "5"
+                    "amount": 5
                 }
             ]
         }
@@ -1819,20 +1819,20 @@
         "wiki_link": "https://wiki.factorio.com/Gun_turret",
         "category": "Combat",
         "recipe": {
-            "time": "8",
-            "yield": "1",
+            "time": 8,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "copper-plate",
-                    "amount": "10"
+                    "amount": 10
                 },
                 {
                     "id": "iron-gear-wheel",
-                    "amount": "10"
+                    "amount": 10
                 },
                 {
                     "id": "iron-plate",
-                    "amount": "20"
+                    "amount": 20
                 }
             ]
         }
@@ -1844,12 +1844,12 @@
         "wiki_link": "https://wiki.factorio.com/Hazard_concrete",
         "category": "Logistics",
         "recipe": {
-            "time": "0.25",
-            "yield": "10",
+            "time": 0.25,
+            "yield": 10,
             "ingredients": [
                 {
                     "id": "concrete",
-                    "amount": "10"
+                    "amount": 10
                 }
             ]
         }
@@ -1861,20 +1861,20 @@
         "wiki_link": "https://wiki.factorio.com/Heat_exchanger",
         "category": "Production",
         "recipe": {
-            "time": "3",
-            "yield": "1",
+            "time": 3,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "copper-plate",
-                    "amount": "100"
+                    "amount": 100
                 },
                 {
                     "id": "pipe",
-                    "amount": "10"
+                    "amount": 10
                 },
                 {
                     "id": "steel-plate",
-                    "amount": "10"
+                    "amount": 10
                 }
             ]
         }
@@ -1886,16 +1886,16 @@
         "wiki_link": "https://wiki.factorio.com/Heat_pipe",
         "category": "Production",
         "recipe": {
-            "time": "1",
-            "yield": "1",
+            "time": 1,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "copper-plate",
-                    "amount": "20"
+                    "amount": 20
                 },
                 {
                     "id": "steel-plate",
-                    "amount": "10"
+                    "amount": 10
                 }
             ]
         }
@@ -1907,16 +1907,16 @@
         "wiki_link": "https://wiki.factorio.com/Heavy_armor",
         "category": "Combat",
         "recipe": {
-            "time": "8",
-            "yield": "1",
+            "time": 8,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "copper-plate",
-                    "amount": "100"
+                    "amount": 100
                 },
                 {
                     "id": "steel-plate",
-                    "amount": "50"
+                    "amount": 50
                 }
             ]
         }
@@ -1928,8 +1928,8 @@
         "wiki_link": "https://wiki.factorio.com/Heavy_oil",
         "category": "Intermediate product",
         "recipe": {
-            "time": "",
-            "yield": "",
+            "time": null,
+            "yield": null,
             "ingredients": []
         }
     },
@@ -1940,8 +1940,8 @@
         "wiki_link": "https://wiki.factorio.com/Heavy_oil_barrel",
         "category": "Intermediate product",
         "recipe": {
-            "time": "",
-            "yield": "",
+            "time": null,
+            "yield": null,
             "ingredients": []
         }
     },
@@ -1952,24 +1952,24 @@
         "wiki_link": "https://wiki.factorio.com/High_tech_science_pack",
         "category": "Intermediate product",
         "recipe": {
-            "time": "14",
-            "yield": "2",
+            "time": 14,
+            "yield": 2,
             "ingredients": [
                 {
                     "id": "battery",
-                    "amount": "1"
+                    "amount": 1
                 },
                 {
                     "id": "copper-cable",
-                    "amount": "30"
+                    "amount": 30
                 },
                 {
                     "id": "processing-unit",
-                    "amount": "3"
+                    "amount": 3
                 },
                 {
                     "id": "speed-module",
-                    "amount": "1"
+                    "amount": 1
                 }
             ]
         }
@@ -1981,20 +1981,20 @@
         "wiki_link": "https://wiki.factorio.com/Inserter",
         "category": "Logistics",
         "recipe": {
-            "time": "0.5",
-            "yield": "1",
+            "time": 0.5,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "electronic-circuit",
-                    "amount": "1"
+                    "amount": 1
                 },
                 {
                     "id": "iron-gear-wheel",
-                    "amount": "1"
+                    "amount": 1
                 },
                 {
                     "id": "iron-plate",
-                    "amount": "1"
+                    "amount": 1
                 }
             ]
         }
@@ -2006,16 +2006,16 @@
         "wiki_link": "https://wiki.factorio.com/Iron_axe",
         "category": "Logistics",
         "recipe": {
-            "time": "0.5",
-            "yield": "1",
+            "time": 0.5,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "iron-plate",
-                    "amount": "3"
+                    "amount": 3
                 },
                 {
                     "id": "iron-stick",
-                    "amount": "2"
+                    "amount": 2
                 }
             ]
         }
@@ -2027,12 +2027,12 @@
         "wiki_link": "https://wiki.factorio.com/Iron_chest",
         "category": "Logistics",
         "recipe": {
-            "time": "0.5",
-            "yield": "1",
+            "time": 0.5,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "iron-plate",
-                    "amount": "8"
+                    "amount": 8
                 }
             ]
         }
@@ -2044,12 +2044,12 @@
         "wiki_link": "https://wiki.factorio.com/Iron_gear_wheel",
         "category": "Intermediate product",
         "recipe": {
-            "time": "0.5",
-            "yield": "1",
+            "time": 0.5,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "iron-plate",
-                    "amount": "2"
+                    "amount": 2
                 }
             ]
         }
@@ -2061,8 +2061,8 @@
         "wiki_link": "https://wiki.factorio.com/Iron_ore",
         "category": "Intermediate product",
         "recipe": {
-            "time": "",
-            "yield": "",
+            "time": null,
+            "yield": null,
             "ingredients": []
         }
     },
@@ -2073,12 +2073,12 @@
         "wiki_link": "https://wiki.factorio.com/Iron_plate",
         "category": "Intermediate product",
         "recipe": {
-            "time": "3.5",
-            "yield": "1",
+            "time": 3.5,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "iron-ore",
-                    "amount": "1"
+                    "amount": 1
                 }
             ]
         }
@@ -2090,12 +2090,12 @@
         "wiki_link": "https://wiki.factorio.com/Iron_stick",
         "category": "Intermediate product",
         "recipe": {
-            "time": "0.5",
-            "yield": "2",
+            "time": 0.5,
+            "yield": 2,
             "ingredients": [
                 {
                     "id": "iron-plate",
-                    "amount": "1"
+                    "amount": 1
                 }
             ]
         }
@@ -2107,16 +2107,16 @@
         "wiki_link": "https://wiki.factorio.com/Kovarex_enrichment_process",
         "category": "Intermediate product",
         "recipe": {
-            "time": "50",
-            "yield": "undefined",
+            "time": 50,
+            "yield": null,
             "ingredients": [
                 {
                     "id": "uranium-235",
-                    "amount": "40"
+                    "amount": 40
                 },
                 {
                     "id": "uranium-238",
-                    "amount": "5"
+                    "amount": 5
                 }
             ]
         }
@@ -2128,20 +2128,20 @@
         "wiki_link": "https://wiki.factorio.com/Lab",
         "category": "Production",
         "recipe": {
-            "time": "2",
-            "yield": "1",
+            "time": 2,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "electronic-circuit",
-                    "amount": "10"
+                    "amount": 10
                 },
                 {
                     "id": "iron-gear-wheel",
-                    "amount": "10"
+                    "amount": 10
                 },
                 {
                     "id": "transport-belt",
-                    "amount": "4"
+                    "amount": 4
                 }
             ]
         }
@@ -2153,20 +2153,20 @@
         "wiki_link": "https://wiki.factorio.com/Lamp",
         "category": "Logistics",
         "recipe": {
-            "time": "0.5",
-            "yield": "1",
+            "time": 0.5,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "electronic-circuit",
-                    "amount": "1"
+                    "amount": 1
                 },
                 {
                     "id": "iron-plate",
-                    "amount": "1"
+                    "amount": 1
                 },
                 {
                     "id": "iron-stick",
-                    "amount": "3"
+                    "amount": 3
                 }
             ]
         }
@@ -2178,16 +2178,16 @@
         "wiki_link": "https://wiki.factorio.com/Land_mine",
         "category": "Combat",
         "recipe": {
-            "time": "5",
-            "yield": "4",
+            "time": 5,
+            "yield": 4,
             "ingredients": [
                 {
                     "id": "explosives",
-                    "amount": "2"
+                    "amount": 2
                 },
                 {
                     "id": "steel-plate",
-                    "amount": "1"
+                    "amount": 1
                 }
             ]
         }
@@ -2199,12 +2199,12 @@
         "wiki_link": "https://wiki.factorio.com/Landfill",
         "category": "Logistics",
         "recipe": {
-            "time": "0.5",
-            "yield": "1",
+            "time": 0.5,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "stone",
-                    "amount": "20"
+                    "amount": 20
                 }
             ]
         }
@@ -2216,20 +2216,20 @@
         "wiki_link": "https://wiki.factorio.com/Laser_turret",
         "category": "Combat",
         "recipe": {
-            "time": "20",
-            "yield": "1",
+            "time": 20,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "battery",
-                    "amount": "12"
+                    "amount": 12
                 },
                 {
                     "id": "electronic-circuit",
-                    "amount": "20"
+                    "amount": 20
                 },
                 {
                     "id": "steel-plate",
-                    "amount": "20"
+                    "amount": 20
                 }
             ]
         }
@@ -2241,12 +2241,12 @@
         "wiki_link": "https://wiki.factorio.com/Light_armor",
         "category": "Combat",
         "recipe": {
-            "time": "3",
-            "yield": "1",
+            "time": 3,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "iron-plate",
-                    "amount": "40"
+                    "amount": 40
                 }
             ]
         }
@@ -2258,8 +2258,8 @@
         "wiki_link": "https://wiki.factorio.com/Light_oil",
         "category": "Intermediate product",
         "recipe": {
-            "time": "",
-            "yield": "",
+            "time": null,
+            "yield": null,
             "ingredients": []
         }
     },
@@ -2270,8 +2270,8 @@
         "wiki_link": "https://wiki.factorio.com/Light_oil_barrel",
         "category": "Intermediate product",
         "recipe": {
-            "time": "",
-            "yield": "",
+            "time": null,
+            "yield": null,
             "ingredients": []
         }
     },
@@ -2282,20 +2282,20 @@
         "wiki_link": "https://wiki.factorio.com/Locomotive",
         "category": "Logistics",
         "recipe": {
-            "time": "4",
-            "yield": "1",
+            "time": 4,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "electronic-circuit",
-                    "amount": "10"
+                    "amount": 10
                 },
                 {
                     "id": "engine-unit",
-                    "amount": "20"
+                    "amount": 20
                 },
                 {
                     "id": "steel-plate",
-                    "amount": "30"
+                    "amount": 30
                 }
             ]
         }
@@ -2307,16 +2307,16 @@
         "wiki_link": "https://wiki.factorio.com/Logistic_robot",
         "category": "Logistics",
         "recipe": {
-            "time": "0.5",
-            "yield": "1",
+            "time": 0.5,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "advanced-circuit",
-                    "amount": "2"
+                    "amount": 2
                 },
                 {
                     "id": "flying-robot-frame",
-                    "amount": "1"
+                    "amount": 1
                 }
             ]
         }
@@ -2328,20 +2328,20 @@
         "wiki_link": "https://wiki.factorio.com/Long_handed_inserter",
         "category": "Logistics",
         "recipe": {
-            "time": "0.5",
-            "yield": "1",
+            "time": 0.5,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "inserter",
-                    "amount": "1"
+                    "amount": 1
                 },
                 {
                     "id": "iron-gear-wheel",
-                    "amount": "1"
+                    "amount": 1
                 },
                 {
                     "id": "iron-plate",
-                    "amount": "1"
+                    "amount": 1
                 }
             ]
         }
@@ -2353,20 +2353,20 @@
         "wiki_link": "https://wiki.factorio.com/Low_density_structure",
         "category": "Intermediate product",
         "recipe": {
-            "time": "30",
-            "yield": "1",
+            "time": 30,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "copper-plate",
-                    "amount": "5"
+                    "amount": 5
                 },
                 {
                     "id": "plastic-bar",
-                    "amount": "5"
+                    "amount": 5
                 },
                 {
                     "id": "steel-plate",
-                    "amount": "10"
+                    "amount": 10
                 }
             ]
         }
@@ -2378,12 +2378,12 @@
         "wiki_link": "https://wiki.factorio.com/Lubricant",
         "category": "Intermediate product",
         "recipe": {
-            "time": "1",
-            "yield": "10",
+            "time": 1,
+            "yield": 10,
             "ingredients": [
                 {
                     "id": "heavy-oil",
-                    "amount": "10"
+                    "amount": 10
                 }
             ]
         }
@@ -2395,8 +2395,8 @@
         "wiki_link": "https://wiki.factorio.com/Lubricant_barrel",
         "category": "Intermediate product",
         "recipe": {
-            "time": "",
-            "yield": "",
+            "time": null,
+            "yield": null,
             "ingredients": []
         }
     },
@@ -2407,16 +2407,16 @@
         "wiki_link": "https://wiki.factorio.com/Medium_electric_pole",
         "category": "Logistics",
         "recipe": {
-            "time": "0.5",
-            "yield": "1",
+            "time": 0.5,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "copper-plate",
-                    "amount": "2"
+                    "amount": 2
                 },
                 {
                     "id": "steel-plate",
-                    "amount": "2"
+                    "amount": 2
                 }
             ]
         }
@@ -2428,20 +2428,20 @@
         "wiki_link": "https://wiki.factorio.com/Military_science_pack",
         "category": "Intermediate product",
         "recipe": {
-            "time": "10",
-            "yield": "2",
+            "time": 10,
+            "yield": 2,
             "ingredients": [
                 {
                     "id": "grenade",
-                    "amount": "1"
+                    "amount": 1
                 },
                 {
                     "id": "gun-turret",
-                    "amount": "1"
+                    "amount": 1
                 },
                 {
                     "id": "piercing-rounds-magazine",
-                    "amount": "1"
+                    "amount": 1
                 }
             ]
         }
@@ -2453,16 +2453,16 @@
         "wiki_link": "https://wiki.factorio.com/Modular_armor",
         "category": "Combat",
         "recipe": {
-            "time": "15",
-            "yield": "1",
+            "time": 15,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "advanced-circuit",
-                    "amount": "30"
+                    "amount": 30
                 },
                 {
                     "id": "steel-plate",
-                    "amount": "50"
+                    "amount": 50
                 }
             ]
         }
@@ -2474,16 +2474,16 @@
         "wiki_link": "https://wiki.factorio.com/Nightvision",
         "category": "Combat",
         "recipe": {
-            "time": "10",
-            "yield": "1",
+            "time": 10,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "advanced-circuit",
-                    "amount": "5"
+                    "amount": 5
                 },
                 {
                     "id": "steel-plate",
-                    "amount": "10"
+                    "amount": 10
                 }
             ]
         }
@@ -2495,16 +2495,16 @@
         "wiki_link": "https://wiki.factorio.com/Nuclear_fuel",
         "category": "Intermediate product",
         "recipe": {
-            "time": "60",
-            "yield": "1",
+            "time": 60,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "rocket-fuel",
-                    "amount": "1"
+                    "amount": 1
                 },
                 {
                     "id": "uranium-235",
-                    "amount": "1"
+                    "amount": 1
                 }
             ]
         }
@@ -2516,16 +2516,16 @@
         "wiki_link": "https://wiki.factorio.com/Nuclear_fuel_reprocessing",
         "category": "Intermediate product",
         "recipe": {
-            "time": "50",
-            "yield": "undefined",
+            "time": 50,
+            "yield": null,
             "ingredients": [
                 {
                     "id": "used-up-uranium-fuel-cell",
-                    "amount": "5"
+                    "amount": 5
                 },
                 {
                     "id": "uranium-238",
-                    "amount": "3"
+                    "amount": 3
                 }
             ]
         }
@@ -2537,24 +2537,24 @@
         "wiki_link": "https://wiki.factorio.com/Nuclear_reactor",
         "category": "Production",
         "recipe": {
-            "time": "8",
-            "yield": "1",
+            "time": 8,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "advanced-circuit",
-                    "amount": "500"
+                    "amount": 500
                 },
                 {
                     "id": "concrete",
-                    "amount": "500"
+                    "amount": 500
                 },
                 {
                     "id": "copper-plate",
-                    "amount": "500"
+                    "amount": 500
                 },
                 {
                     "id": "steel-plate",
-                    "amount": "500"
+                    "amount": 500
                 }
             ]
         }
@@ -2566,20 +2566,20 @@
         "wiki_link": "https://wiki.factorio.com/Offshore_pump",
         "category": "Production",
         "recipe": {
-            "time": "0.5",
-            "yield": "1",
+            "time": 0.5,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "electronic-circuit",
-                    "amount": "2"
+                    "amount": 2
                 },
                 {
                     "id": "iron-gear-wheel",
-                    "amount": "1"
+                    "amount": 1
                 },
                 {
                     "id": "pipe",
-                    "amount": "1"
+                    "amount": 1
                 }
             ]
         }
@@ -2591,28 +2591,28 @@
         "wiki_link": "https://wiki.factorio.com/Oil_refinery",
         "category": "Production",
         "recipe": {
-            "time": "8",
-            "yield": "1",
+            "time": 8,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "electronic-circuit",
-                    "amount": "10"
+                    "amount": 10
                 },
                 {
                     "id": "iron-gear-wheel",
-                    "amount": "10"
+                    "amount": 10
                 },
                 {
                     "id": "pipe",
-                    "amount": "10"
+                    "amount": 10
                 },
                 {
                     "id": "steel-plate",
-                    "amount": "15"
+                    "amount": 15
                 },
                 {
                     "id": "stone-brick",
-                    "amount": "10"
+                    "amount": 10
                 }
             ]
         }
@@ -2624,20 +2624,20 @@
         "wiki_link": "https://wiki.factorio.com/Passive_provider_chest",
         "category": "Logistics",
         "recipe": {
-            "time": "0.5",
-            "yield": "1",
+            "time": 0.5,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "advanced-circuit",
-                    "amount": "1"
+                    "amount": 1
                 },
                 {
                     "id": "electronic-circuit",
-                    "amount": "3"
+                    "amount": 3
                 },
                 {
                     "id": "steel-chest",
-                    "amount": "1"
+                    "amount": 1
                 }
             ]
         }
@@ -2649,20 +2649,20 @@
         "wiki_link": "https://wiki.factorio.com/Personal_laser_defense",
         "category": "Combat",
         "recipe": {
-            "time": "10",
-            "yield": "1",
+            "time": 10,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "laser-turret",
-                    "amount": "5"
+                    "amount": 5
                 },
                 {
                     "id": "processing-unit",
-                    "amount": "1"
+                    "amount": 1
                 },
                 {
                     "id": "steel-plate",
-                    "amount": "5"
+                    "amount": 5
                 }
             ]
         }
@@ -2674,24 +2674,24 @@
         "wiki_link": "https://wiki.factorio.com/Personal_roboport",
         "category": "Combat",
         "recipe": {
-            "time": "10",
-            "yield": "1",
+            "time": 10,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "advanced-circuit",
-                    "amount": "10"
+                    "amount": 10
                 },
                 {
                     "id": "battery",
-                    "amount": "45"
+                    "amount": 45
                 },
                 {
                     "id": "iron-gear-wheel",
-                    "amount": "40"
+                    "amount": 40
                 },
                 {
                     "id": "steel-plate",
-                    "amount": "20"
+                    "amount": 20
                 }
             ]
         }
@@ -2703,16 +2703,16 @@
         "wiki_link": "https://wiki.factorio.com/Personal_roboport_MK2",
         "category": "Combat",
         "recipe": {
-            "time": "20",
-            "yield": "1",
+            "time": 20,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "personal-roboport",
-                    "amount": "5"
+                    "amount": 5
                 },
                 {
                     "id": "processing-unit",
-                    "amount": "100"
+                    "amount": 100
                 }
             ]
         }
@@ -2724,8 +2724,8 @@
         "wiki_link": "https://wiki.factorio.com/Petroleum_gas",
         "category": "Intermediate product",
         "recipe": {
-            "time": "",
-            "yield": "",
+            "time": null,
+            "yield": null,
             "ingredients": []
         }
     },
@@ -2736,8 +2736,8 @@
         "wiki_link": "https://wiki.factorio.com/Petroleum_gas_barrel",
         "category": "Intermediate product",
         "recipe": {
-            "time": "",
-            "yield": "",
+            "time": null,
+            "yield": null,
             "ingredients": []
         }
     },
@@ -2748,20 +2748,20 @@
         "wiki_link": "https://wiki.factorio.com/Piercing_rounds_magazine",
         "category": "Combat",
         "recipe": {
-            "time": "3",
-            "yield": "1",
+            "time": 3,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "copper-plate",
-                    "amount": "5"
+                    "amount": 5
                 },
                 {
                     "id": "firearm-magazine",
-                    "amount": "1"
+                    "amount": 1
                 },
                 {
                     "id": "steel-plate",
-                    "amount": "1"
+                    "amount": 1
                 }
             ]
         }
@@ -2773,20 +2773,20 @@
         "wiki_link": "https://wiki.factorio.com/Piercing_shotgun_shells",
         "category": "Combat",
         "recipe": {
-            "time": "8",
-            "yield": "1",
+            "time": 8,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "copper-plate",
-                    "amount": "5"
+                    "amount": 5
                 },
                 {
                     "id": "shotgun-shells",
-                    "amount": "2"
+                    "amount": 2
                 },
                 {
                     "id": "steel-plate",
-                    "amount": "2"
+                    "amount": 2
                 }
             ]
         }
@@ -2798,12 +2798,12 @@
         "wiki_link": "https://wiki.factorio.com/Pipe",
         "category": "Logistics",
         "recipe": {
-            "time": "0.5",
-            "yield": "1",
+            "time": 0.5,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "iron-plate",
-                    "amount": "1"
+                    "amount": 1
                 }
             ]
         }
@@ -2815,16 +2815,16 @@
         "wiki_link": "https://wiki.factorio.com/Pipe_to_ground",
         "category": "Logistics",
         "recipe": {
-            "time": "0.5",
-            "yield": "2",
+            "time": 0.5,
+            "yield": 2,
             "ingredients": [
                 {
                     "id": "iron-plate",
-                    "amount": "5"
+                    "amount": 5
                 },
                 {
                     "id": "pipe",
-                    "amount": "10"
+                    "amount": 10
                 }
             ]
         }
@@ -2836,16 +2836,16 @@
         "wiki_link": "https://wiki.factorio.com/Pistol",
         "category": "Combat",
         "recipe": {
-            "time": "5",
-            "yield": "1",
+            "time": 5,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "copper-plate",
-                    "amount": "5"
+                    "amount": 5
                 },
                 {
                     "id": "iron-plate",
-                    "amount": "5"
+                    "amount": 5
                 }
             ]
         }
@@ -2857,16 +2857,16 @@
         "wiki_link": "https://wiki.factorio.com/Plastic_bar",
         "category": "Intermediate product",
         "recipe": {
-            "time": "1",
-            "yield": "2",
+            "time": 1,
+            "yield": 2,
             "ingredients": [
                 {
                     "id": "coal",
-                    "amount": "1"
+                    "amount": 1
                 },
                 {
                     "id": "petroleum-gas",
-                    "amount": "20"
+                    "amount": 20
                 }
             ]
         }
@@ -2878,20 +2878,20 @@
         "wiki_link": "https://wiki.factorio.com/Poison_capsule",
         "category": "Combat",
         "recipe": {
-            "time": "8",
-            "yield": "1",
+            "time": 8,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "coal",
-                    "amount": "10"
+                    "amount": 10
                 },
                 {
                     "id": "electronic-circuit",
-                    "amount": "3"
+                    "amount": 3
                 },
                 {
                     "id": "steel-plate",
-                    "amount": "3"
+                    "amount": 3
                 }
             ]
         }
@@ -2903,12 +2903,12 @@
         "wiki_link": "https://wiki.factorio.com/Portable_fusion_reactor",
         "category": "Combat",
         "recipe": {
-            "time": "10",
-            "yield": "1",
+            "time": 10,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "processing-unit",
-                    "amount": "250"
+                    "amount": 250
                 }
             ]
         }
@@ -2920,20 +2920,20 @@
         "wiki_link": "https://wiki.factorio.com/Portable_solar_panel",
         "category": "Combat",
         "recipe": {
-            "time": "10",
-            "yield": "1",
+            "time": 10,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "advanced-circuit",
-                    "amount": "1"
+                    "amount": 1
                 },
                 {
                     "id": "solar-panel",
-                    "amount": "5"
+                    "amount": 5
                 },
                 {
                     "id": "steel-plate",
-                    "amount": "5"
+                    "amount": 5
                 }
             ]
         }
@@ -2945,20 +2945,20 @@
         "wiki_link": "https://wiki.factorio.com/Power_armor",
         "category": "Combat",
         "recipe": {
-            "time": "20",
-            "yield": "1",
+            "time": 20,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "electric-engine-unit",
-                    "amount": "20"
+                    "amount": 20
                 },
                 {
                     "id": "processing-unit",
-                    "amount": "40"
+                    "amount": 40
                 },
                 {
                     "id": "steel-plate",
-                    "amount": "40"
+                    "amount": 40
                 }
             ]
         }
@@ -2970,24 +2970,24 @@
         "wiki_link": "https://wiki.factorio.com/Power_armor_MK2",
         "category": "Combat",
         "recipe": {
-            "time": "25",
-            "yield": "1",
+            "time": 25,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "efficiency-module-3",
-                    "amount": "5"
+                    "amount": 5
                 },
                 {
                     "id": "processing-unit",
-                    "amount": "40"
+                    "amount": 40
                 },
                 {
                     "id": "speed-module-3",
-                    "amount": "5"
+                    "amount": 5
                 },
                 {
                     "id": "steel-plate",
-                    "amount": "40"
+                    "amount": 40
                 }
             ]
         }
@@ -2999,20 +2999,20 @@
         "wiki_link": "https://wiki.factorio.com/Power_switch",
         "category": "Logistics",
         "recipe": {
-            "time": "2",
-            "yield": "1",
+            "time": 2,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "copper-cable",
-                    "amount": "5"
+                    "amount": 5
                 },
                 {
                     "id": "electronic-circuit",
-                    "amount": "2"
+                    "amount": 2
                 },
                 {
                     "id": "iron-plate",
-                    "amount": "5"
+                    "amount": 5
                 }
             ]
         }
@@ -3024,20 +3024,20 @@
         "wiki_link": "https://wiki.factorio.com/Processing_unit",
         "category": "Intermediate product",
         "recipe": {
-            "time": "10",
-            "yield": "1",
+            "time": 10,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "advanced-circuit",
-                    "amount": "2"
+                    "amount": 2
                 },
                 {
                     "id": "electronic-circuit",
-                    "amount": "20"
+                    "amount": 20
                 },
                 {
                     "id": "sulfuric-acid",
-                    "amount": "5"
+                    "amount": 5
                 }
             ]
         }
@@ -3049,16 +3049,16 @@
         "wiki_link": "https://wiki.factorio.com/Production_science_pack",
         "category": "Intermediate product",
         "recipe": {
-            "time": "14",
-            "yield": "2",
+            "time": 14,
+            "yield": 2,
             "ingredients": [
                 {
                     "id": "electric-engine-unit",
-                    "amount": "1"
+                    "amount": 1
                 },
                 {
                     "id": "electric-furnace",
-                    "amount": "1"
+                    "amount": 1
                 }
             ]
         }
@@ -3070,16 +3070,16 @@
         "wiki_link": "https://wiki.factorio.com/Productivity_module",
         "category": "Production",
         "recipe": {
-            "time": "15",
-            "yield": "1",
+            "time": 15,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "advanced-circuit",
-                    "amount": "5"
+                    "amount": 5
                 },
                 {
                     "id": "electronic-circuit",
-                    "amount": "5"
+                    "amount": 5
                 }
             ]
         }
@@ -3091,20 +3091,20 @@
         "wiki_link": "https://wiki.factorio.com/Productivity_module_2",
         "category": "Production",
         "recipe": {
-            "time": "30",
-            "yield": "1",
+            "time": 30,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "advanced-circuit",
-                    "amount": "5"
+                    "amount": 5
                 },
                 {
                     "id": "processing-unit",
-                    "amount": "5"
+                    "amount": 5
                 },
                 {
                     "id": "productivity-module",
-                    "amount": "4"
+                    "amount": 4
                 }
             ]
         }
@@ -3116,20 +3116,20 @@
         "wiki_link": "https://wiki.factorio.com/Productivity_module_3",
         "category": "Production",
         "recipe": {
-            "time": "60",
-            "yield": "1",
+            "time": 60,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "advanced-circuit",
-                    "amount": "5"
+                    "amount": 5
                 },
                 {
                     "id": "processing-unit",
-                    "amount": "5"
+                    "amount": 5
                 },
                 {
                     "id": "productivity-module-2",
-                    "amount": "5"
+                    "amount": 5
                 }
             ]
         }
@@ -3141,20 +3141,20 @@
         "wiki_link": "https://wiki.factorio.com/Programmable_speaker",
         "category": "Logistics",
         "recipe": {
-            "time": "2",
-            "yield": "1",
+            "time": 2,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "copper-cable",
-                    "amount": "5"
+                    "amount": 5
                 },
                 {
                     "id": "electronic-circuit",
-                    "amount": "4"
+                    "amount": 4
                 },
                 {
                     "id": "iron-plate",
-                    "amount": "5"
+                    "amount": 5
                 }
             ]
         }
@@ -3166,20 +3166,20 @@
         "wiki_link": "https://wiki.factorio.com/Pump",
         "category": "Logistics",
         "recipe": {
-            "time": "2",
-            "yield": "1",
+            "time": 2,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "engine-unit",
-                    "amount": "1"
+                    "amount": 1
                 },
                 {
                     "id": "pipe",
-                    "amount": "1"
+                    "amount": 1
                 },
                 {
                     "id": "steel-plate",
-                    "amount": "1"
+                    "amount": 1
                 }
             ]
         }
@@ -3191,24 +3191,24 @@
         "wiki_link": "https://wiki.factorio.com/Pumpjack",
         "category": "Production",
         "recipe": {
-            "time": "5",
-            "yield": "1",
+            "time": 5,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "electronic-circuit",
-                    "amount": "5"
+                    "amount": 5
                 },
                 {
                     "id": "iron-gear-wheel",
-                    "amount": "10"
+                    "amount": 10
                 },
                 {
                     "id": "pipe",
-                    "amount": "10"
+                    "amount": 10
                 },
                 {
                     "id": "steel-plate",
-                    "amount": "5"
+                    "amount": 5
                 }
             ]
         }
@@ -3220,20 +3220,20 @@
         "wiki_link": "https://wiki.factorio.com/Radar",
         "category": "Combat",
         "recipe": {
-            "time": "0.5",
-            "yield": "1",
+            "time": 0.5,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "electronic-circuit",
-                    "amount": "5"
+                    "amount": 5
                 },
                 {
                     "id": "iron-gear-wheel",
-                    "amount": "5"
+                    "amount": 5
                 },
                 {
                     "id": "iron-plate",
-                    "amount": "10"
+                    "amount": 10
                 }
             ]
         }
@@ -3245,20 +3245,20 @@
         "wiki_link": "https://wiki.factorio.com/Rail",
         "category": "Logistics",
         "recipe": {
-            "time": "0.5",
-            "yield": "2",
+            "time": 0.5,
+            "yield": 2,
             "ingredients": [
                 {
                     "id": "iron-stick",
-                    "amount": "1"
+                    "amount": 1
                 },
                 {
                     "id": "steel-plate",
-                    "amount": "1"
+                    "amount": 1
                 },
                 {
                     "id": "stone",
-                    "amount": "1"
+                    "amount": 1
                 }
             ]
         }
@@ -3270,16 +3270,16 @@
         "wiki_link": "https://wiki.factorio.com/Rail_chain_signal",
         "category": "Logistics",
         "recipe": {
-            "time": "0.5",
-            "yield": "1",
+            "time": 0.5,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "electronic-circuit",
-                    "amount": "1"
+                    "amount": 1
                 },
                 {
                     "id": "iron-plate",
-                    "amount": "5"
+                    "amount": 5
                 }
             ]
         }
@@ -3291,16 +3291,16 @@
         "wiki_link": "https://wiki.factorio.com/Rail_signal",
         "category": "Logistics",
         "recipe": {
-            "time": "0.5",
-            "yield": "1",
+            "time": 0.5,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "electronic-circuit",
-                    "amount": "1"
+                    "amount": 1
                 },
                 {
                     "id": "iron-plate",
-                    "amount": "5"
+                    "amount": 5
                 }
             ]
         }
@@ -3312,8 +3312,8 @@
         "wiki_link": "https://wiki.factorio.com/Raw_fish",
         "category": "Intermediate product",
         "recipe": {
-            "time": "",
-            "yield": "",
+            "time": null,
+            "yield": null,
             "ingredients": []
         }
     },
@@ -3324,8 +3324,8 @@
         "wiki_link": "https://wiki.factorio.com/Raw_wood",
         "category": "Intermediate product",
         "recipe": {
-            "time": "",
-            "yield": "",
+            "time": null,
+            "yield": null,
             "ingredients": []
         }
     },
@@ -3336,16 +3336,16 @@
         "wiki_link": "https://wiki.factorio.com/Red_wire",
         "category": "Logistics",
         "recipe": {
-            "time": "0.5",
-            "yield": "1",
+            "time": 0.5,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "copper-cable",
-                    "amount": "1"
+                    "amount": 1
                 },
                 {
                     "id": "electronic-circuit",
-                    "amount": "1"
+                    "amount": 1
                 }
             ]
         }
@@ -3357,24 +3357,24 @@
         "wiki_link": "https://wiki.factorio.com/Refined_concrete",
         "category": "Logistics",
         "recipe": {
-            "time": "15",
-            "yield": "10",
+            "time": 15,
+            "yield": 10,
             "ingredients": [
                 {
                     "id": "concrete",
-                    "amount": "20"
+                    "amount": 20
                 },
                 {
                     "id": "iron-stick",
-                    "amount": "8"
+                    "amount": 8
                 },
                 {
                     "id": "steel-plate",
-                    "amount": "1"
+                    "amount": 1
                 },
                 {
                     "id": "water",
-                    "amount": "100"
+                    "amount": 100
                 }
             ]
         }
@@ -3386,12 +3386,12 @@
         "wiki_link": "https://wiki.factorio.com/Refined_hazard_concrete",
         "category": "Logistics",
         "recipe": {
-            "time": "0.25",
-            "yield": "10",
+            "time": 0.25,
+            "yield": 10,
             "ingredients": [
                 {
                     "id": "refined-concrete",
-                    "amount": "10"
+                    "amount": 10
                 }
             ]
         }
@@ -3403,16 +3403,16 @@
         "wiki_link": "https://wiki.factorio.com/Repair_pack",
         "category": "Production",
         "recipe": {
-            "time": "0.5",
-            "yield": "1",
+            "time": 0.5,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "electronic-circuit",
-                    "amount": "2"
+                    "amount": 2
                 },
                 {
                     "id": "iron-gear-wheel",
-                    "amount": "2"
+                    "amount": 2
                 }
             ]
         }
@@ -3424,20 +3424,20 @@
         "wiki_link": "https://wiki.factorio.com/Requester_chest",
         "category": "Logistics",
         "recipe": {
-            "time": "0.5",
-            "yield": "1",
+            "time": 0.5,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "advanced-circuit",
-                    "amount": "1"
+                    "amount": 1
                 },
                 {
                     "id": "electronic-circuit",
-                    "amount": "3"
+                    "amount": 3
                 },
                 {
                     "id": "steel-chest",
-                    "amount": "1"
+                    "amount": 1
                 }
             ]
         }
@@ -3449,20 +3449,20 @@
         "wiki_link": "https://wiki.factorio.com/Roboport",
         "category": "Logistics",
         "recipe": {
-            "time": "5",
-            "yield": "1",
+            "time": 5,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "advanced-circuit",
-                    "amount": "45"
+                    "amount": 45
                 },
                 {
                     "id": "iron-gear-wheel",
-                    "amount": "45"
+                    "amount": 45
                 },
                 {
                     "id": "steel-plate",
-                    "amount": "45"
+                    "amount": 45
                 }
             ]
         }
@@ -3474,20 +3474,20 @@
         "wiki_link": "https://wiki.factorio.com/Rocket",
         "category": "Combat",
         "recipe": {
-            "time": "8",
-            "yield": "1",
+            "time": 8,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "electronic-circuit",
-                    "amount": "1"
+                    "amount": 1
                 },
                 {
                     "id": "explosives",
-                    "amount": "1"
+                    "amount": 1
                 },
                 {
                     "id": "iron-plate",
-                    "amount": "2"
+                    "amount": 2
                 }
             ]
         }
@@ -3499,16 +3499,16 @@
         "wiki_link": "https://wiki.factorio.com/Rocket_control_unit",
         "category": "Intermediate product",
         "recipe": {
-            "time": "30",
-            "yield": "1",
+            "time": 30,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "processing-unit",
-                    "amount": "1"
+                    "amount": 1
                 },
                 {
                     "id": "speed-module",
-                    "amount": "1"
+                    "amount": 1
                 }
             ]
         }
@@ -3520,12 +3520,12 @@
         "wiki_link": "https://wiki.factorio.com/Rocket_fuel",
         "category": "Intermediate product",
         "recipe": {
-            "time": "30",
-            "yield": "1",
+            "time": 30,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "solid-fuel",
-                    "amount": "10"
+                    "amount": 10
                 }
             ]
         }
@@ -3537,20 +3537,20 @@
         "wiki_link": "https://wiki.factorio.com/Rocket_launcher",
         "category": "Combat",
         "recipe": {
-            "time": "10",
-            "yield": "1",
+            "time": 10,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "electronic-circuit",
-                    "amount": "5"
+                    "amount": 5
                 },
                 {
                     "id": "iron-gear-wheel",
-                    "amount": "5"
+                    "amount": 5
                 },
                 {
                     "id": "iron-plate",
-                    "amount": "5"
+                    "amount": 5
                 }
             ]
         }
@@ -3562,20 +3562,20 @@
         "wiki_link": "https://wiki.factorio.com/Rocket_part",
         "category": "Intermediate product",
         "recipe": {
-            "time": "3",
-            "yield": "1",
+            "time": 3,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "low-density-structure",
-                    "amount": "10"
+                    "amount": 10
                 },
                 {
                     "id": "rocket-control-unit",
-                    "amount": "10"
+                    "amount": 10
                 },
                 {
                     "id": "rocket-fuel",
-                    "amount": "10"
+                    "amount": 10
                 }
             ]
         }
@@ -3587,28 +3587,28 @@
         "wiki_link": "https://wiki.factorio.com/Rocket_silo",
         "category": "Combat",
         "recipe": {
-            "time": "30",
-            "yield": "1",
+            "time": 30,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "concrete",
-                    "amount": "1000"
+                    "amount": 1000
                 },
                 {
                     "id": "electric-engine-unit",
-                    "amount": "200"
+                    "amount": 200
                 },
                 {
                     "id": "pipe",
-                    "amount": "100"
+                    "amount": 100
                 },
                 {
                     "id": "processing-unit",
-                    "amount": "200"
+                    "amount": 200
                 },
                 {
                     "id": "steel-plate",
-                    "amount": "1000"
+                    "amount": 1000
                 }
             ]
         }
@@ -3620,32 +3620,32 @@
         "wiki_link": "https://wiki.factorio.com/Satellite",
         "category": "Intermediate product",
         "recipe": {
-            "time": "5",
-            "yield": "1",
+            "time": 5,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "accumulator",
-                    "amount": "100"
+                    "amount": 100
                 },
                 {
                     "id": "low-density-structure",
-                    "amount": "100"
+                    "amount": 100
                 },
                 {
                     "id": "processing-unit",
-                    "amount": "100"
+                    "amount": 100
                 },
                 {
                     "id": "radar",
-                    "amount": "5"
+                    "amount": 5
                 },
                 {
                     "id": "rocket-fuel",
-                    "amount": "50"
+                    "amount": 50
                 },
                 {
                     "id": "solar-panel",
-                    "amount": "100\r"
+                    "amount": 100
                 }
             ]
         }
@@ -3657,16 +3657,16 @@
         "wiki_link": "https://wiki.factorio.com/Science_pack_1",
         "category": "Intermediate product",
         "recipe": {
-            "time": "5",
-            "yield": "1",
+            "time": 5,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "copper-plate",
-                    "amount": "1"
+                    "amount": 1
                 },
                 {
                     "id": "iron-gear-wheel",
-                    "amount": "1"
+                    "amount": 1
                 }
             ]
         }
@@ -3678,16 +3678,16 @@
         "wiki_link": "https://wiki.factorio.com/Science_pack_2",
         "category": "Intermediate product",
         "recipe": {
-            "time": "6",
-            "yield": "1",
+            "time": 6,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "inserter",
-                    "amount": "1"
+                    "amount": 1
                 },
                 {
                     "id": "transport-belt",
-                    "amount": "1"
+                    "amount": 1
                 }
             ]
         }
@@ -3699,20 +3699,20 @@
         "wiki_link": "https://wiki.factorio.com/Science_pack_3",
         "category": "Intermediate product",
         "recipe": {
-            "time": "12",
-            "yield": "1",
+            "time": 12,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "advanced-circuit",
-                    "amount": "1"
+                    "amount": 1
                 },
                 {
                     "id": "electric-mining-drill",
-                    "amount": "1"
+                    "amount": 1
                 },
                 {
                     "id": "engine-unit",
-                    "amount": "1"
+                    "amount": 1
                 }
             ]
         }
@@ -3724,24 +3724,24 @@
         "wiki_link": "https://wiki.factorio.com/Shotgun",
         "category": "Combat",
         "recipe": {
-            "time": "10",
-            "yield": "1",
+            "time": 10,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "copper-plate",
-                    "amount": "10"
+                    "amount": 10
                 },
                 {
                     "id": "iron-gear-wheel",
-                    "amount": "5"
+                    "amount": 5
                 },
                 {
                     "id": "iron-plate",
-                    "amount": "15"
+                    "amount": 15
                 },
                 {
                     "id": "wood",
-                    "amount": "5"
+                    "amount": 5
                 }
             ]
         }
@@ -3753,16 +3753,16 @@
         "wiki_link": "https://wiki.factorio.com/Shotgun_shells",
         "category": "Combat",
         "recipe": {
-            "time": "3",
-            "yield": "1",
+            "time": 3,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "copper-plate",
-                    "amount": "2"
+                    "amount": 2
                 },
                 {
                     "id": "iron-plate",
-                    "amount": "2"
+                    "amount": 2
                 }
             ]
         }
@@ -3774,20 +3774,20 @@
         "wiki_link": "https://wiki.factorio.com/Slowdown_capsule",
         "category": "Combat",
         "recipe": {
-            "time": "8",
-            "yield": "1",
+            "time": 8,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "coal",
-                    "amount": "5"
+                    "amount": 5
                 },
                 {
                     "id": "electronic-circuit",
-                    "amount": "2"
+                    "amount": 2
                 },
                 {
                     "id": "steel-plate",
-                    "amount": "2"
+                    "amount": 2
                 }
             ]
         }
@@ -3799,16 +3799,16 @@
         "wiki_link": "https://wiki.factorio.com/Small_electric_pole",
         "category": "Logistics",
         "recipe": {
-            "time": "0.5",
-            "yield": "2",
+            "time": 0.5,
+            "yield": 2,
             "ingredients": [
                 {
                     "id": "copper-cable",
-                    "amount": "2"
+                    "amount": 2
                 },
                 {
                     "id": "wood",
-                    "amount": "2"
+                    "amount": 2
                 }
             ]
         }
@@ -3820,20 +3820,20 @@
         "wiki_link": "https://wiki.factorio.com/Solar_panel",
         "category": "Production",
         "recipe": {
-            "time": "10",
-            "yield": "1",
+            "time": 10,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "copper-plate",
-                    "amount": "5"
+                    "amount": 5
                 },
                 {
                     "id": "electronic-circuit",
-                    "amount": "15"
+                    "amount": 15
                 },
                 {
                     "id": "steel-plate",
-                    "amount": "5"
+                    "amount": 5
                 }
             ]
         }
@@ -3845,8 +3845,8 @@
         "wiki_link": "https://wiki.factorio.com/Solid_fuel",
         "category": "Intermediate product",
         "recipe": {
-            "time": "",
-            "yield": "",
+            "time": null,
+            "yield": null,
             "ingredients": []
         }
     },
@@ -3857,16 +3857,16 @@
         "wiki_link": "https://wiki.factorio.com/Space_science_pack",
         "category": "Intermediate product",
         "recipe": {
-            "time": "300",
-            "yield": "1000",
+            "time": 300,
+            "yield": 1000,
             "ingredients": [
                 {
                     "id": "rocket-part",
-                    "amount": "100"
+                    "amount": 100
                 },
                 {
                     "id": "satellite",
-                    "amount": "1"
+                    "amount": 1
                 }
             ]
         }
@@ -3878,16 +3878,16 @@
         "wiki_link": "https://wiki.factorio.com/Speed_module",
         "category": "Production",
         "recipe": {
-            "time": "15",
-            "yield": "1",
+            "time": 15,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "advanced-circuit",
-                    "amount": "5"
+                    "amount": 5
                 },
                 {
                     "id": "electronic-circuit",
-                    "amount": "5"
+                    "amount": 5
                 }
             ]
         }
@@ -3899,20 +3899,20 @@
         "wiki_link": "https://wiki.factorio.com/Speed_module_2",
         "category": "Production",
         "recipe": {
-            "time": "30",
-            "yield": "1",
+            "time": 30,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "advanced-circuit",
-                    "amount": "5"
+                    "amount": 5
                 },
                 {
                     "id": "processing-unit",
-                    "amount": "5"
+                    "amount": 5
                 },
                 {
                     "id": "speed-module",
-                    "amount": "4"
+                    "amount": 4
                 }
             ]
         }
@@ -3924,20 +3924,20 @@
         "wiki_link": "https://wiki.factorio.com/Speed_module_3",
         "category": "Production",
         "recipe": {
-            "time": "60",
-            "yield": "1",
+            "time": 60,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "advanced-circuit",
-                    "amount": "5"
+                    "amount": 5
                 },
                 {
                     "id": "processing-unit",
-                    "amount": "5"
+                    "amount": 5
                 },
                 {
                     "id": "speed-module-2",
-                    "amount": "5"
+                    "amount": 5
                 }
             ]
         }
@@ -3949,20 +3949,20 @@
         "wiki_link": "https://wiki.factorio.com/Splitter",
         "category": "Logistics",
         "recipe": {
-            "time": "1",
-            "yield": "1",
+            "time": 1,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "electronic-circuit",
-                    "amount": "5"
+                    "amount": 5
                 },
                 {
                     "id": "iron-plate",
-                    "amount": "5"
+                    "amount": 5
                 },
                 {
                     "id": "transport-belt",
-                    "amount": "4"
+                    "amount": 4
                 }
             ]
         }
@@ -3974,16 +3974,16 @@
         "wiki_link": "https://wiki.factorio.com/Stack_filter_inserter",
         "category": "Logistics",
         "recipe": {
-            "time": "0.5",
-            "yield": "1",
+            "time": 0.5,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "electronic-circuit",
-                    "amount": "5"
+                    "amount": 5
                 },
                 {
                     "id": "stack-inserter",
-                    "amount": "1"
+                    "amount": 1
                 }
             ]
         }
@@ -3995,24 +3995,24 @@
         "wiki_link": "https://wiki.factorio.com/Stack_inserter",
         "category": "Logistics",
         "recipe": {
-            "time": "0.5",
-            "yield": "1",
+            "time": 0.5,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "advanced-circuit",
-                    "amount": "1"
+                    "amount": 1
                 },
                 {
                     "id": "electronic-circuit",
-                    "amount": "15"
+                    "amount": 15
                 },
                 {
                     "id": "fast-inserter",
-                    "amount": "1"
+                    "amount": 1
                 },
                 {
                     "id": "iron-gear-wheel",
-                    "amount": "15"
+                    "amount": 15
                 }
             ]
         }
@@ -4024,8 +4024,8 @@
         "wiki_link": "https://wiki.factorio.com/Steam",
         "category": "Intermediate product",
         "recipe": {
-            "time": "",
-            "yield": "",
+            "time": null,
+            "yield": null,
             "ingredients": []
         }
     },
@@ -4036,20 +4036,20 @@
         "wiki_link": "https://wiki.factorio.com/Steam_engine",
         "category": "Production",
         "recipe": {
-            "time": "0.5",
-            "yield": "1",
+            "time": 0.5,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "iron-gear-wheel",
-                    "amount": "8"
+                    "amount": 8
                 },
                 {
                     "id": "iron-plate",
-                    "amount": "10"
+                    "amount": 10
                 },
                 {
                     "id": "pipe",
-                    "amount": "5"
+                    "amount": 5
                 }
             ]
         }
@@ -4061,20 +4061,20 @@
         "wiki_link": "https://wiki.factorio.com/Steam_turbine",
         "category": "Production",
         "recipe": {
-            "time": "3",
-            "yield": "1",
+            "time": 3,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "copper-plate",
-                    "amount": "50"
+                    "amount": 50
                 },
                 {
                     "id": "iron-gear-wheel",
-                    "amount": "50"
+                    "amount": 50
                 },
                 {
                     "id": "pipe",
-                    "amount": "20"
+                    "amount": 20
                 }
             ]
         }
@@ -4086,16 +4086,16 @@
         "wiki_link": "https://wiki.factorio.com/Steel_axe",
         "category": "Production",
         "recipe": {
-            "time": "0.5",
-            "yield": "1",
+            "time": 0.5,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "iron-stick",
-                    "amount": "2"
+                    "amount": 2
                 },
                 {
                     "id": "steel-plate",
-                    "amount": "5"
+                    "amount": 5
                 }
             ]
         }
@@ -4107,12 +4107,12 @@
         "wiki_link": "https://wiki.factorio.com/Steel_chest",
         "category": "Logistics",
         "recipe": {
-            "time": "0.5",
-            "yield": "1",
+            "time": 0.5,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "steel-plate",
-                    "amount": "8"
+                    "amount": 8
                 }
             ]
         }
@@ -4124,16 +4124,16 @@
         "wiki_link": "https://wiki.factorio.com/Steel_furnace",
         "category": "Production",
         "recipe": {
-            "time": "3",
-            "yield": "1",
+            "time": 3,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "steel-plate",
-                    "amount": "6"
+                    "amount": 6
                 },
                 {
                     "id": "stone-brick",
-                    "amount": "10"
+                    "amount": 10
                 }
             ]
         }
@@ -4145,12 +4145,12 @@
         "wiki_link": "https://wiki.factorio.com/Steel_plate",
         "category": "Intermediate product",
         "recipe": {
-            "time": "35",
-            "yield": "1",
+            "time": 35,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "iron-plate",
-                    "amount": "5"
+                    "amount": 5
                 }
             ]
         }
@@ -4162,8 +4162,8 @@
         "wiki_link": "https://wiki.factorio.com/Stone",
         "category": "Intermediate product",
         "recipe": {
-            "time": "",
-            "yield": "",
+            "time": null,
+            "yield": null,
             "ingredients": []
         }
     },
@@ -4174,12 +4174,12 @@
         "wiki_link": "https://wiki.factorio.com/Stone_brick",
         "category": "Logistics",
         "recipe": {
-            "time": "3.5",
-            "yield": "1",
+            "time": 3.5,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "stone",
-                    "amount": "2"
+                    "amount": 2
                 }
             ]
         }
@@ -4191,12 +4191,12 @@
         "wiki_link": "https://wiki.factorio.com/Stone_furnace",
         "category": "Production",
         "recipe": {
-            "time": "0.5",
-            "yield": "1",
+            "time": 0.5,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "stone",
-                    "amount": "5"
+                    "amount": 5
                 }
             ]
         }
@@ -4208,12 +4208,12 @@
         "wiki_link": "https://wiki.factorio.com/Stone_wall",
         "category": "Combat",
         "recipe": {
-            "time": "0.5",
-            "yield": "1",
+            "time": 0.5,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "stone-brick",
-                    "amount": "5"
+                    "amount": 5
                 }
             ]
         }
@@ -4225,20 +4225,20 @@
         "wiki_link": "https://wiki.factorio.com/Storage_chest",
         "category": "Logistics",
         "recipe": {
-            "time": "0.5",
-            "yield": "1",
+            "time": 0.5,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "advanced-circuit",
-                    "amount": "1"
+                    "amount": 1
                 },
                 {
                     "id": "electronic-circuit",
-                    "amount": "3"
+                    "amount": 3
                 },
                 {
                     "id": "steel-chest",
-                    "amount": "1"
+                    "amount": 1
                 }
             ]
         }
@@ -4250,16 +4250,16 @@
         "wiki_link": "https://wiki.factorio.com/Storage_tank",
         "category": "Logistics",
         "recipe": {
-            "time": "3",
-            "yield": "1",
+            "time": 3,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "iron-plate",
-                    "amount": "20"
+                    "amount": 20
                 },
                 {
                     "id": "steel-plate",
-                    "amount": "5"
+                    "amount": 5
                 }
             ]
         }
@@ -4271,20 +4271,20 @@
         "wiki_link": "https://wiki.factorio.com/Submachine_gun",
         "category": "Combat",
         "recipe": {
-            "time": "10",
-            "yield": "1",
+            "time": 10,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "copper-plate",
-                    "amount": "5"
+                    "amount": 5
                 },
                 {
                     "id": "iron-gear-wheel",
-                    "amount": "10"
+                    "amount": 10
                 },
                 {
                     "id": "iron-plate",
-                    "amount": "10"
+                    "amount": 10
                 }
             ]
         }
@@ -4296,20 +4296,20 @@
         "wiki_link": "https://wiki.factorio.com/Substation",
         "category": "Logistics",
         "recipe": {
-            "time": "0.5",
-            "yield": "1",
+            "time": 0.5,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "advanced-circuit",
-                    "amount": "5"
+                    "amount": 5
                 },
                 {
                     "id": "copper-plate",
-                    "amount": "5"
+                    "amount": 5
                 },
                 {
                     "id": "steel-plate",
-                    "amount": "10"
+                    "amount": 10
                 }
             ]
         }
@@ -4321,16 +4321,16 @@
         "wiki_link": "https://wiki.factorio.com/Sulfur",
         "category": "Intermediate product",
         "recipe": {
-            "time": "1",
-            "yield": "2",
+            "time": 1,
+            "yield": 2,
             "ingredients": [
                 {
                     "id": "petroleum-gas",
-                    "amount": "30"
+                    "amount": 30
                 },
                 {
                     "id": "water",
-                    "amount": "30"
+                    "amount": 30
                 }
             ]
         }
@@ -4342,20 +4342,20 @@
         "wiki_link": "https://wiki.factorio.com/Sulfuric_acid",
         "category": "Intermediate product",
         "recipe": {
-            "time": "1",
-            "yield": "50",
+            "time": 1,
+            "yield": 50,
             "ingredients": [
                 {
                     "id": "iron-plate",
-                    "amount": "1"
+                    "amount": 1
                 },
                 {
                     "id": "sulfur",
-                    "amount": "5"
+                    "amount": 5
                 },
                 {
                     "id": "water",
-                    "amount": "100"
+                    "amount": 100
                 }
             ]
         }
@@ -4367,8 +4367,8 @@
         "wiki_link": "https://wiki.factorio.com/Sulfuric_acid_barrel",
         "category": "Intermediate product",
         "recipe": {
-            "time": "",
-            "yield": "",
+            "time": null,
+            "yield": null,
             "ingredients": []
         }
     },
@@ -4379,24 +4379,24 @@
         "wiki_link": "https://wiki.factorio.com/Tank",
         "category": "Logistics",
         "recipe": {
-            "time": "8",
-            "yield": "1",
+            "time": 8,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "advanced-circuit",
-                    "amount": "10"
+                    "amount": 10
                 },
                 {
                     "id": "engine-unit",
-                    "amount": "32"
+                    "amount": 32
                 },
                 {
                     "id": "iron-gear-wheel",
-                    "amount": "15"
+                    "amount": 15
                 },
                 {
                     "id": "steel-plate",
-                    "amount": "50"
+                    "amount": 50
                 }
             ]
         }
@@ -4408,20 +4408,20 @@
         "wiki_link": "https://wiki.factorio.com/Train_stop",
         "category": "Logistics",
         "recipe": {
-            "time": "0.5",
-            "yield": "1",
+            "time": 0.5,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "electronic-circuit",
-                    "amount": "5"
+                    "amount": 5
                 },
                 {
                     "id": "iron-plate",
-                    "amount": "10"
+                    "amount": 10
                 },
                 {
                     "id": "steel-plate",
-                    "amount": "3"
+                    "amount": 3
                 }
             ]
         }
@@ -4433,16 +4433,16 @@
         "wiki_link": "https://wiki.factorio.com/Transport_belt",
         "category": "Logistics",
         "recipe": {
-            "time": "0.5",
-            "yield": "2",
+            "time": 0.5,
+            "yield": 2,
             "ingredients": [
                 {
                     "id": "iron-gear-wheel",
-                    "amount": "1"
+                    "amount": 1
                 },
                 {
                     "id": "iron-plate",
-                    "amount": "1"
+                    "amount": 1
                 }
             ]
         }
@@ -4454,16 +4454,16 @@
         "wiki_link": "https://wiki.factorio.com/Underground_belt",
         "category": "Logistics",
         "recipe": {
-            "time": "1",
-            "yield": "2",
+            "time": 1,
+            "yield": 2,
             "ingredients": [
                 {
                     "id": "iron-plate",
-                    "amount": "10"
+                    "amount": 10
                 },
                 {
                     "id": "transport-belt",
-                    "amount": "5"
+                    "amount": 5
                 }
             ]
         }
@@ -4475,16 +4475,16 @@
         "wiki_link": "https://wiki.factorio.com/Uranium_cannon_shell",
         "category": "Combat",
         "recipe": {
-            "time": "12",
-            "yield": "1",
+            "time": 12,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "cannon-shell",
-                    "amount": "1"
+                    "amount": 1
                 },
                 {
                     "id": "uranium-238",
-                    "amount": "1"
+                    "amount": 1
                 }
             ]
         }
@@ -4496,20 +4496,20 @@
         "wiki_link": "https://wiki.factorio.com/Uranium_fuel_cell",
         "category": "Intermediate product",
         "recipe": {
-            "time": "10",
-            "yield": "10",
+            "time": 10,
+            "yield": 10,
             "ingredients": [
                 {
                     "id": "iron-plate",
-                    "amount": "10"
+                    "amount": 10
                 },
                 {
                     "id": "uranium-235",
-                    "amount": "1"
+                    "amount": 1
                 },
                 {
                     "id": "uranium-238",
-                    "amount": "19"
+                    "amount": 19
                 }
             ]
         }
@@ -4521,8 +4521,8 @@
         "wiki_link": "https://wiki.factorio.com/Uranium_ore",
         "category": "Intermediate product",
         "recipe": {
-            "time": "",
-            "yield": "",
+            "time": null,
+            "yield": null,
             "ingredients": []
         }
     },
@@ -4533,20 +4533,20 @@
         "wiki_link": "https://wiki.factorio.com/Uranium_processing",
         "category": "Intermediate product",
         "recipe": {
-            "time": "10",
-            "yield": "undefined",
+            "time": 10,
+            "yield": null,
             "ingredients": [
                 {
                     "id": "uranium-ore",
-                    "amount": "10"
+                    "amount": 10
                 },
                 {
                     "id": "uranium-235",
-                    "amount": "0.007"
+                    "amount": 0.007
                 },
                 {
                     "id": "uranium-238",
-                    "amount": "0.993"
+                    "amount": 0.993
                 }
             ]
         }
@@ -4558,16 +4558,16 @@
         "wiki_link": "https://wiki.factorio.com/Uranium_rounds_magazine",
         "category": "Combat",
         "recipe": {
-            "time": "10",
-            "yield": "1",
+            "time": 10,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "piercing-rounds-magazine",
-                    "amount": "1"
+                    "amount": 1
                 },
                 {
                     "id": "uranium-238",
-                    "amount": "1"
+                    "amount": 1
                 }
             ]
         }
@@ -4579,8 +4579,8 @@
         "wiki_link": "https://wiki.factorio.com/Uranium-235",
         "category": "Intermediate product",
         "recipe": {
-            "time": "",
-            "yield": "",
+            "time": null,
+            "yield": null,
             "ingredients": []
         }
     },
@@ -4591,8 +4591,8 @@
         "wiki_link": "https://wiki.factorio.com/Uranium-238",
         "category": "Intermediate product",
         "recipe": {
-            "time": "",
-            "yield": "",
+            "time": null,
+            "yield": null,
             "ingredients": []
         }
     },
@@ -4603,12 +4603,12 @@
         "wiki_link": "https://wiki.factorio.com/Used_up_uranium_fuel_cell",
         "category": "Intermediate product",
         "recipe": {
-            "time": "200",
-            "yield": "1",
+            "time": 200,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "uranium-fuel-cell",
-                    "amount": "1"
+                    "amount": 1
                 }
             ]
         }
@@ -4620,8 +4620,8 @@
         "wiki_link": "https://wiki.factorio.com/Water",
         "category": "Intermediate product",
         "recipe": {
-            "time": "",
-            "yield": "",
+            "time": null,
+            "yield": null,
             "ingredients": []
         }
     },
@@ -4632,8 +4632,8 @@
         "wiki_link": "https://wiki.factorio.com/Water_barrel",
         "category": "Intermediate product",
         "recipe": {
-            "time": "",
-            "yield": "",
+            "time": null,
+            "yield": null,
             "ingredients": []
         }
     },
@@ -4644,12 +4644,12 @@
         "wiki_link": "https://wiki.factorio.com/Wood",
         "category": "Intermediate product",
         "recipe": {
-            "time": "0.5",
-            "yield": "2",
+            "time": 0.5,
+            "yield": 2,
             "ingredients": [
                 {
                     "id": "raw-wood",
-                    "amount": "1"
+                    "amount": 1
                 }
             ]
         }
@@ -4661,12 +4661,12 @@
         "wiki_link": "https://wiki.factorio.com/Wooden_chest",
         "category": "Logistics",
         "recipe": {
-            "time": "0.5",
-            "yield": "1",
+            "time": 0.5,
+            "yield": 1,
             "ingredients": [
                 {
                     "id": "wood",
-                    "amount": "4"
+                    "amount": 4
                 }
             ]
         }
