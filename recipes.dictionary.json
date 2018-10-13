@@ -419,7 +419,7 @@
     "blueprint": {
         "id": "blueprint",
         "name": "Blueprint",
-        "type": "Tools",
+        "type": "Tool",
         "wiki_link": "https://wiki.factorio.com/Blueprint",
         "category": "Production",
         "recipe": {
@@ -431,7 +431,7 @@
     "blueprint-book": {
         "id": "blueprint-book",
         "name": "Blueprint book",
-        "type": "Tools",
+        "type": "Tool",
         "wiki_link": "https://wiki.factorio.com/Blueprint_book",
         "category": "Production",
         "recipe": {
@@ -917,7 +917,7 @@
     "deconstruction-planner": {
         "id": "deconstruction-planner",
         "name": "Deconstruction planner",
-        "type": "Tools",
+        "type": "Tool",
         "wiki_link": "https://wiki.factorio.com/Deconstruction_planner",
         "category": "category_TODO",
         "recipe": {
@@ -2002,7 +2002,7 @@
     "iron-axe": {
         "id": "iron-axe",
         "name": "Iron axe",
-        "type": "Tools",
+        "type": "Tool",
         "wiki_link": "https://wiki.factorio.com/Iron_axe",
         "category": "Logistics",
         "recipe": {
@@ -3399,7 +3399,7 @@
     "repair-pack": {
         "id": "repair-pack",
         "name": "Repair pack",
-        "type": "Tools",
+        "type": "Tool",
         "wiki_link": "https://wiki.factorio.com/Repair_pack",
         "category": "Production",
         "recipe": {
@@ -4082,7 +4082,7 @@
     "steel-axe": {
         "id": "steel-axe",
         "name": "Steel axe",
-        "type": "Tools",
+        "type": "Tool",
         "wiki_link": "https://wiki.factorio.com/Steel_axe",
         "category": "Production",
         "recipe": {
