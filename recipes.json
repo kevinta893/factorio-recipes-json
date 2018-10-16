@@ -1071,7 +1071,7 @@
                     "amount": 5
                 },
                 {
-                    "id": "efficiency-module",
+                    "id": "effectivity-module",
                     "amount": 4
                 },
                 {
@@ -1096,7 +1096,7 @@
                     "amount": 5
                 },
                 {
-                    "id": "efficiency-module-2",
+                    "id": "effectivity-module-2",
                     "amount": 5
                 },
                 {
@@ -2974,7 +2974,7 @@
             "yield": 1,
             "ingredients": [
                 {
-                    "id": "efficiency-module-3",
+                    "id": "effectivity-module-3",
                     "amount": 5
                 },
                 {
