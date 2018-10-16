@@ -20,8 +20,8 @@
             ]
         }
     },
-    "active-provider-chest": {
-        "id": "active-provider-chest",
+    "logistic-chest-active-provider": {
+        "id": "logistic-chest-active-provider",
         "name": "Active provider chest",
         "type": "Machinery",
         "wiki_link": "https://wiki.factorio.com/Active_provider_chest",
@@ -461,8 +461,8 @@
             ]
         }
     },
-    "buffer-chest": {
-        "id": "buffer-chest",
+    "logistic-chest-buffer": {
+        "id": "logistic-chest-buffer",
         "name": "Buffer chest",
         "type": "Machinery",
         "wiki_link": "https://wiki.factorio.com/Buffer_chest",
@@ -1035,8 +1035,8 @@
             ]
         }
     },
-    "efficiency-module": {
-        "id": "efficiency-module",
+    "effectivity-module": {
+        "id": "effectivity-module",
         "name": "Efficiency module",
         "type": "Item",
         "wiki_link": "https://wiki.factorio.com/Efficiency_module",
@@ -1056,8 +1056,8 @@
             ]
         }
     },
-    "efficiency-module-2": {
-        "id": "efficiency-module-2",
+    "effectivity-module-2": {
+        "id": "effectivity-module-2",
         "name": "Efficiency module 2",
         "type": "Item",
         "wiki_link": "https://wiki.factorio.com/Efficiency_module_2",
@@ -1071,7 +1071,7 @@
                     "amount": 5
                 },
                 {
-                    "id": "efficiency-module",
+                    "id": "effectivity-module",
                     "amount": 4
                 },
                 {
@@ -1081,8 +1081,8 @@
             ]
         }
     },
-    "efficiency-module-3": {
-        "id": "efficiency-module-3",
+    "effectivity-module-3": {
+        "id": "effectivity-module-3",
         "name": "Efficiency module 3",
         "type": "Item",
         "wiki_link": "https://wiki.factorio.com/Efficiency_module_3",
@@ -1096,7 +1096,7 @@
                     "amount": 5
                 },
                 {
-                    "id": "efficiency-module-2",
+                    "id": "effectivity-module-2",
                     "amount": 5
                 },
                 {
@@ -2617,8 +2617,8 @@
             ]
         }
     },
-    "passive-provider-chest": {
-        "id": "passive-provider-chest",
+    "logistic-chest-passive-provider": {
+        "id": "logistic-chest-passive-provider",
         "name": "Passive provider chest",
         "type": "Machinery",
         "wiki_link": "https://wiki.factorio.com/Passive_provider_chest",
@@ -2974,7 +2974,7 @@
             "yield": 1,
             "ingredients": [
                 {
-                    "id": "efficiency-module-3",
+                    "id": "effectivity-module-3",
                     "amount": 5
                 },
                 {
@@ -3417,8 +3417,8 @@
             ]
         }
     },
-    "requester-chest": {
-        "id": "requester-chest",
+    "logistic-chest-requester": {
+        "id": "logistic-chest-requester",
         "name": "Requester chest",
         "type": "Machinery",
         "wiki_link": "https://wiki.factorio.com/Requester_chest",
@@ -4218,8 +4218,8 @@
             ]
         }
     },
-    "storage-chest": {
-        "id": "storage-chest",
+    "logistic-chest-storage": {
+        "id": "logistic-chest-storage",
         "name": "Storage chest",
         "type": "Machinery",
         "wiki_link": "https://wiki.factorio.com/Storage_chest",
