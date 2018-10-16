@@ -30,7 +30,7 @@ You can use one of the two flavors of the database: Array or Dictionary. The Arr
 *CDN coming soon.*
 
 ### 2. Using the file
-In **JQuery**, You can fetch the JSON file from your local host:
+In **JQuery**, You can fetch the latest version of the JSON file from GitHub:
 
 ``` javascript
 $.getJSON("https://kevinta893.github.io/factorio-recipes-json/recipes.min.json", function (json, err){
@@ -45,7 +45,7 @@ $.getJSON("https://kevinta893.github.io/factorio-recipes-json/recipes.min.json",
    
 ```
 
-In **Node.js**, you can synchronously or asynchronously get the file locally (synchronous example below):
+In **Node.js**, you can synchronously or asynchronously get the file from your machine locally (synchronous example below):
 ``` javascript
 var recipesList = JSON.parse(fs.readFileSync('recipes.json', 'utf8'));			//synchronous
 ```
@@ -54,14 +54,14 @@ var recipesList = JSON.parse(fs.readFileSync('recipes.json', 'utf8'));			//synch
 
 | Field       | Description          
 | ----------------- |:-------------|
-| id | A unique string identifying the recipe |
+| id | The internal name of the item |
 | name | The user friendly name |
 | type | The item type of the resulting item. One of: Machine, Resource, Liquid, Intermediate product, Item, Science Pack, Combat, Process, Tool, null |
 | wiki_link | A link to the [Factorio Wiki](https://wiki.factorio.com) |
-| recipe | The item's recipe |
+| recipe | The item's recipe (normal mode) |
 | recipe->ingredients | A list of ingredients to make the recipe, each ingredient has is an item with an **id** and **amount**. |
-| recipe->time | The factorio time to produce the object (normal mode) |
-| recipe->yield | The amount of the product produced |
+| recipe->time | The factorio time to produce the object |
+| recipe->yield | The amount of the product produced by this recipe |
 
 ## Addtional Notes
 
