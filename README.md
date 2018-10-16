@@ -6,6 +6,8 @@
 
 A database of Factorio Recipes in JSON designed for HTML visualizations of the game's recipes. Recursive algorithms can be used to determine item dependancies. Of course, this repository has automated build, test, and deployment in honour of Factorio's style. :smile:
 
+**Please note that the database is still under development, there may be signficant changes before the complete version is released**
+
 See the demo recipe browser [here](https://kevinta893.github.io/factorio-recipes-json).
 
 Recipe Data sourced from the [Official Factorio Wiki](https://wiki.factorio.com/) and the official game's Lua recipe files. 
