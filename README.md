@@ -63,8 +63,15 @@ var recipesList = JSON.parse(fs.readFileSync('recipes.json', 'utf8'));			//synch
 | recipe->time | The factorio time to produce the object |
 | recipe->yield | The amount of the product produced by this recipe |
 
+
 ## Addtional Notes
 
 Here is a list of exceptions to take note of in the database:
 
-* TBA
+* TBD
+
+
+## Tips & Tricks
+
+* The database can be recursively traced like a tree. For all recipes, the leaf nodes of the recipe tree will always end at an *Resource* or *Liquid* type. See the *build-ci* for a tool or example of how to accomplish this.
+* More coming soon...
