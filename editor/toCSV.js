@@ -20,7 +20,7 @@ for (var i = 0 ; i < recipesList.length ; i++){
 //===============================================
 // turns the recipe database into a csv
 
-var headerRow = "id,name,type,wiki_link,category,time,yield,ingredients";
+var headerRow = "id,name,type,wiki_link,category,recipe_normal,time,yield,ingredients...";
 
 
 
@@ -33,7 +33,12 @@ for (var i = 0 ; i < recipesList.length ; i++){
 		recipesList[i].name + "," +
 		recipesList[i].type + "," +
 		recipesList[i].wiki_link + "," +
-		recipesList[i].category + "," +
+		recipesList[i].category
+		
+		
+		
+	//add the normal recipe
+	row += "," + "recipe_normal" + "," + 
 		recipesList[i].recipe.time + "," +
 		recipesList[i].recipe["yield"];
 		

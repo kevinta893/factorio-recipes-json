@@ -24,12 +24,13 @@ for (var i = 1 ; i < csvRows.length ; i++){		//note: skip the first as it is the
 
 	if (rowSplit.length >= 5){
 		//entry is greater than 5 columns, has a recipe, otherwise leave blank
-		recipeItem.recipe.time = parseFloat(rowSplit[5]);
-		recipeItem.recipe["yield"] = parseFloat(rowSplit[6]);
+		//recipeItem.recipeType = rowSplit[5];			//the delimiter for a normal recipe list
+		recipeItem.recipe.time = parseFloat(rowSplit[6]);
+		recipeItem.recipe["yield"] = parseFloat(rowSplit[7]);
 		
 		//the rest of the row is ingredients, turn into list
 		recipeItem.recipe.ingredients = [];
-		for (var j = 7 ; j < rowSplit.length ; j++){
+		for (var j = 8 ; j < rowSplit.length ; j++){
 			if (rowSplit[j].split(":").length !=2){
 				continue;
 			}
@@ -61,7 +62,7 @@ for (var i = 1 ; i < csvRows.length ; i++){		//note: skip the first as it is the
 //===============================================
 // output to file
 
-
+console.log("Total recipes parsed: " + jsonList.length);
 writeToFile("recipes_csv_converted.json", JSON.stringify(jsonList, null, 4));
 
 
