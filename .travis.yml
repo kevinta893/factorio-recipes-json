@@ -3,9 +3,7 @@ node_js:
   - stable
 
 env:
-  - GH_PAGES_DEPLOY_FOLDER=deploy
-  - GH_RELEASE_FOLDER=release
-  - TRAVIS_TAG="0.1.0"
+  - TRAVIS_TAG="0.1.0" GH_PAGES_DEPLOY_FOLDER=deploy GH_RELEASE_FOLDER=release
 
 cache:
   directories:
