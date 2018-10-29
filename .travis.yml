@@ -31,6 +31,7 @@ after_success:
   - cp ./recipes.dictionary.json $GH_PAGES_DEPLOY_FOLDER/recipes.dictionary.json
   - cp ./recipes.dictionary.min.json $GH_PAGES_DEPLOY_FOLDER/recipes.dictionary.min.json
   - echo "Copying files for GitHub Release deployment to release tag=" $TRAVIS_TAG
+  - mkdir $GH_RELEASE_FOLDER
   - cp LICENSE $GH_RELEASE_FOLDER
   - cp README.md $GH_RELEASE_FOLDER
   - cp ./recipes.json $GH_RELEASE_FOLDER/recipes.json
