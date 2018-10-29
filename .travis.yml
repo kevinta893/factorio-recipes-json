@@ -4,6 +4,35 @@ node_js:
 
 env:
   - DEPLOY_FOLDER=deploy
+  - TRAVIS_TAG="0.1.0"
+
+before_install:
+- rvm get stable
+- chmod a+x ./travis-build/*.sh
+
+install:
+- cat /etc/hosts
+- ./travis-build/install-unity.sh
+
+script:
+- ./travis-build/build.sh
+- ./travis-build/run-tests.sh
+
+after_success:
+- ./travis-build/export-unity-package.sh
+
+before_deploy:
+- DEPLOY_UNITYPACKAGE="$(ls -a release/*.zip | head -n 1)"
+
+deploy:
+  provider: releases
+  api_key: $GITHUB_TOKEN
+  file: $DEPLOY_UNITYPACKAGE
+  skip_cleanup: true
+  overwrite: true
+  on:
+    tags: true 
+
  
 deploy:
   provider: pages
@@ -13,6 +42,14 @@ deploy:
   keep-history: true
   on:
     branch: master
+  provider: releases
+  api_key: $GITHUB_TOKEN
+  local-dir: $DEPLOY_FOLDER
+  skip_cleanup: true
+  overwrite: true
+  on:
+    branch: master
+    tags: true 
 
 cache:
   directories:
