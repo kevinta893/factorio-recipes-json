@@ -30,6 +30,7 @@ after_success:
   - cp ./recipes.min.json $GH_PAGES_DEPLOY_FOLDER/recipes.min.json
   - cp ./recipes.dictionary.json $GH_PAGES_DEPLOY_FOLDER/recipes.dictionary.json
   - cp ./recipes.dictionary.min.json $GH_PAGES_DEPLOY_FOLDER/recipes.dictionary.min.json
+  - ls $GH_PAGES_DEPLOY_FOLDER
   - echo "Copying files for GitHub Release deployment to release tag=" $TRAVIS_TAG
   - mkdir $GH_RELEASE_FOLDER
   - cp LICENSE $GH_RELEASE_FOLDER
@@ -38,6 +39,7 @@ after_success:
   - cp ./recipes.min.json $GH_RELEASE_FOLDER/recipes.min.json
   - cp ./recipes.dictionary.json $GH_RELEASE_FOLDER/recipes.dictionary.json
   - cp ./recipes.dictionary.min.json $GH_RELEASE_FOLDER/recipes.dictionary.min.json
+  - ls $GH_RELEASE_FOLDER
   - echo "Files ready for deployment"
 
 
@@ -53,6 +55,7 @@ deploy:
     branch: master
   provider: releases
   api_key: $GITHUB_TOKEN
+  file_glob: true
   file: $GH_RELEASE_FOLDER/*
   skip_cleanup: true
   overwrite: true
