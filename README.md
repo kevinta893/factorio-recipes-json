@@ -68,7 +68,8 @@ var recipesList = JSON.parse(fs.readFileSync('recipes.json', 'utf8'));			//synch
 
 Here is a list of exceptions to take note of in the database:
 
-* TBD
+* Ores and liquids are recipes. Copper, Iron, Stone, Coal, Crude oil, Steam, etc are recipes that have no ingredients and their time and yield are both null. This is to allow recursive algorithms to have a base case to stop at but still have some object to reach.
+
 
 
 ## Tips & Tricks
